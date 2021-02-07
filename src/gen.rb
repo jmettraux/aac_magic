@@ -9,12 +9,14 @@ colours = %w[
   Silver
   Gold
   Quartz
+  White
     ].sort
 
 forms = %w[
-  Hand
   Arrow
   Ball
+  Disk
+  Finger
   Hut
   Pole
   Shield

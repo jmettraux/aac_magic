@@ -1,31 +1,30 @@
 
 # colours
 
-| colour    | effect           |
-|-----------|------------------|
-| Black     | Damage, Pain     |
-| Red       | Fire, Combustion |
-| Scarlet   | Blood, Energy    |
-| Silver    | Fence, Armour    |
-| Gold      | Light            |
-| Quartz    | Healing          |
+The colour of the effect, as seen by the weaver.
 
-| Bronze    | |
-| Turquoise | |
+| colour    | effect   |
+|-----------|----------|
+| Amber     | Heat     |
+| Black     | Damage   |
+| Blue      | Cold     |
+| Night     | Darkness |
+| Red       | Fire     |
+| Scarlet   | Drain    |
+| Silver    | Fence    |
+| Turquoise | Healing  |
+| White     | Light    |
 
 | Wind | Wind |
 
-| Crimson   | xxx |
-| Amber     | xxx |
-| Turquoise | xxx |
-| Ivory     | xxx |
-| Purple    | xxx |
+| Bronze    | |
+| Quartz    | |
+| Gold      | |
+| Crimson   | |
+| Ivory     | |
+| Purple    | |
 
+Threads
 
-black	damage
-red	fire
-white	cold
-silver	fence
-crimson	weave points
-scarlet
-
+STR DEX CON
+INT WIS CHA
