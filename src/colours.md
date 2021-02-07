@@ -28,3 +28,9 @@ Threads
 
 STR DEX CON
 INT WIS CHA
+
+STR + CON : Physical
+DEX + INT : Evasion
+WIS + CHA : Mental
+Whatever : Luck
+
