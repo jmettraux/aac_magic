@@ -5,7 +5,7 @@
 |--------|---------------|--------|---------------|-----------------|
 | Arrow  | -             | long   | 1 rnd per WP  | 80 ft per WP    |
 | Ball   | 1/2 ft per WP | medium | 1 rnd per WP  | 30 ft per WP    |
-| Disk   | 5 ft per WP   | short  | 1 min per WP  | 0               |
+| Disk   | 5 ft per WP   | short  | 10 min per WP | 0               |
 | Finger | -             | touch  | 1 rnd         | 0               |
 | Hand   | -             | touch  | 1 rnd         | 0               |
 | Hut    | 5 ft per WP   | close  | 1 min per WP  | 0               |
