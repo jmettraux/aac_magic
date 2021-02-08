@@ -16,7 +16,7 @@
 
 | Flail  | -             | short  | 1 rnd         | 80 ft per WP    |
 
-|         | range          |
+| range   |                |
 |---------|----------------|
 | touch	  | touch          |
 | close	  | 1 foot per WP  |
