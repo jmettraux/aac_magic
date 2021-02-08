@@ -28,7 +28,7 @@ ranges =
 #pp ranges
 
 desclines =
-  File.readlines(File.join(__dir__, 'descriptions.md'))
+  File.readlines(File.join(__dir__, 'spell_descriptions.md'))
     .inject([]) { |a, l|
       case l
       when /^## (.+)$/
@@ -45,15 +45,15 @@ desclines =
       h }
 #pp desclines
 
-File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
+File.open(File.join(__dir__, '_spells_descriptions.md'), 'wb') do |f|
 
-  f.puts "\n# spells"
+  f.puts "\n# (SPELL DESCRIPTIONS)"
   f.puts
   f.puts "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now."
 
   prod = colours.keys.product(forms.keys)
   f.puts
-  f.puts "#{prod.count} spells."
+  f.puts "#{prod.count} potential spells."
 
   prod.each do |ck, fk|
 
@@ -71,7 +71,41 @@ File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
     f.puts "* **Duration:** #{frm[:duration]}"
     f.puts "* **Speed:** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
     f.puts
-    f.puts dsc ? dsc.join("\n") : "(#{cfx})"
+    f.puts "(#{cfx})"
+    f.puts
+  end
+end
+
+File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
+
+  f.puts "\n# spells"
+  f.puts
+  f.puts "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now."
+
+  prod = colours.keys.product(forms.keys)
+  f.puts
+  f.puts "#{desclines.count} spells."
+  f.puts
+
+  prod.each do |ck, fk|
+
+    cfx = colours[ck]
+    frm = forms[fk]
+    rng = ranges[frm[:range]]
+    nam = "#{ck} #{fk}"
+    dsc = desclines[nam]
+
+    next unless dsc
+
+    f.puts "\n## #{nam}"
+    f.puts
+    f.puts "* **Casting Time:** 1 main action"
+    f.puts "* **Range:** #{frm[:range]} (#{rng})"
+    f.puts "* **Radius:** #{frm[:radius]}"
+    f.puts "* **Duration:** #{frm[:duration]}"
+    f.puts "* **Speed:** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+    f.puts
+    f.puts dsc.join('')
     f.puts
   end
 end

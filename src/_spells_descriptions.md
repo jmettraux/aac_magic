@@ -1,9 +1,9 @@
 
-# spells
+# (SPELL DESCRIPTIONS)
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-90 spells.
+90 potential spells.
 
 ## Amber Arrow
 
@@ -13,7 +13,7 @@
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
-(x)
+(Heat)
 
 
 ## Amber Ball
