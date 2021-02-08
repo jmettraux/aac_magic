@@ -32,7 +32,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Heat)
 
@@ -137,7 +137,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Damage)
 
@@ -242,7 +242,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Cold)
 
@@ -347,7 +347,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Darkness)
 
@@ -452,7 +452,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Fire)
 
@@ -557,7 +557,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Drain)
 
@@ -662,7 +662,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Fence)
 
@@ -767,7 +767,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Healing)
 
@@ -872,7 +872,7 @@
 * **Casting Time:** 1 main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
-* **Duration:** 1 min per WP
+* **Duration:** 10 min per WP
 
 (Light)
 

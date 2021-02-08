@@ -3,24 +3,29 @@ require 'pp'
 
 
 colours =
-  File.readlines(File.join(__dir__, 'colours.md'))
+  File.readlines(File.join(__dir__, '_colours_in.md'))
     .drop_while { |l| ! l.start_with?('| colour ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
     .inject({}) { |h, (k, v)| h[k] = v; h }
 #pp colours
+puts "  . %2d colours:  %s" % [ colours.count, colours.keys.join(',') ]
 
 forms =
-  File.readlines(File.join(__dir__, 'forms.md'))
+  File.readlines(File.join(__dir__, '_forms_in.md'))
     .drop_while { |l| ! l.start_with?('| form ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
     .inject({}) { |h, (k, rad, rng, dur, spd)|
       h[k] = { radius: rad, range: rng, duration: dur, speed: spd }; h }
 #pp forms
+puts "  . %2d forms:    %s" % [ forms.count, forms.keys.join(',') ]
+
+prod = colours.keys.product(forms.keys)
+puts "  . %2d potential spells" % prod.count
 
 ranges =
-  File.readlines(File.join(__dir__, 'forms.md'))
+  File.readlines(File.join(__dir__, '_forms_in.md'))
     .drop_while { |l| ! l.start_with?('| range ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
@@ -28,7 +33,7 @@ ranges =
 #pp ranges
 
 desclines =
-  File.readlines(File.join(__dir__, 'spell_descriptions.md'))
+  File.readlines(File.join(__dir__, '_descriptions_in.md'))
     .inject([]) { |a, l|
       case l
       when /^## (.+)$/
@@ -44,14 +49,14 @@ desclines =
       h[a[0]] = aa unless aa.length == 1 && aa[0].match?(/^\(.+\)\n$/)
       h }
 #pp desclines
+puts "  . %2d spells described" % desclines.count
 
-File.open(File.join(__dir__, '_spells_descriptions.md'), 'wb') do |f|
+File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
 
   f.puts "\n# (SPELL DESCRIPTIONS)"
   f.puts
   f.puts "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now."
 
-  prod = colours.keys.product(forms.keys)
   f.puts
   f.puts "#{prod.count} potential spells."
 
@@ -82,7 +87,6 @@ File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
   f.puts
   f.puts "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now."
 
-  prod = colours.keys.product(forms.keys)
   f.puts
   f.puts "#{desclines.count} spells."
   f.puts
