@@ -1,10 +1,10 @@
 
 # forms
 
-| form   | ct  | radius        | range  | duration      | speed (per rnd) |
+| form   | ct  | diameter      | range  | duration      | speed (per rnd) |
 |--------|-----|---------------|--------|---------------|-----------------|
 | Arrow  | ma  | -             | long   | 1 rnd per WP  | 80 ft per WP    |
-| Ball   | ma  | 1/2 ft per WP | medium | 1 rnd per WP  | 30 ft per WP    |
+| Ball   | ma  | 1 ft per WP   | medium | 1 rnd per WP  | 30 ft per WP    |
 | Disk   | ma  | 5 ft per WP   | short  | 10 min per WP | 0               |
 | Finger | ma  | -             | touch  | 1 rnd         | 0               |
 | Hand   | ma  | -             | touch  | 1 rnd         | 0               |

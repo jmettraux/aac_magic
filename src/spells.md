@@ -10,7 +10,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -25,7 +25,7 @@ Can be used to put a easily flammable object in fire.
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -44,7 +44,7 @@ Skill is the Magic skill level.
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 Weaves cold threads into a disk that lays on the floor. In a dry place, the disk is invisible, in a humid place, ice forms and is visible.
@@ -56,7 +56,7 @@ Depending on the context, a creature might slide on the disk and fall. A wet hai
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -71,7 +71,7 @@ More static uses of the ball are common, to simply prevent light/vision from cro
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 Also known as the weaver lighter.
@@ -85,7 +85,7 @@ Once the weavery stops, the threads dissolve, the heat disperses.
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 The weaver lays their hand on the wound of a living target and weave threads that drain the the wounded of some of their hit points.
@@ -99,7 +99,7 @@ The target suffers 1d6 + skill damage which are turned to WPs and added to the w
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 Weaves a thread fence into a hut shape. The weaver leaves an entrance hole or slit (or not).

@@ -9,7 +9,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -20,7 +20,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -31,7 +31,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Heat)
@@ -41,7 +41,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Heat)
@@ -51,7 +51,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Heat)
@@ -61,7 +61,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Heat)
@@ -71,7 +71,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -82,7 +82,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Heat)
@@ -92,7 +92,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -103,7 +103,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -114,7 +114,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -125,7 +125,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -136,7 +136,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Damage)
@@ -146,7 +146,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Damage)
@@ -156,7 +156,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Damage)
@@ -166,7 +166,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Damage)
@@ -176,7 +176,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -187,7 +187,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Damage)
@@ -197,7 +197,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -208,7 +208,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -219,7 +219,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -230,7 +230,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -241,7 +241,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Cold)
@@ -251,7 +251,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Cold)
@@ -261,7 +261,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Cold)
@@ -271,7 +271,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Cold)
@@ -281,7 +281,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -292,7 +292,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Cold)
@@ -302,7 +302,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -313,7 +313,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -324,7 +324,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -335,7 +335,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -346,7 +346,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Darkness)
@@ -356,7 +356,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Darkness)
@@ -366,7 +366,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Darkness)
@@ -376,7 +376,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Darkness)
@@ -386,7 +386,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -397,7 +397,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Darkness)
@@ -407,7 +407,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -418,7 +418,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -429,7 +429,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -440,7 +440,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -451,7 +451,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Fire)
@@ -461,7 +461,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Fire)
@@ -471,7 +471,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Fire)
@@ -481,7 +481,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Fire)
@@ -491,7 +491,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -502,7 +502,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Fire)
@@ -512,7 +512,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -523,7 +523,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -534,7 +534,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -545,7 +545,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -556,7 +556,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Drain)
@@ -566,7 +566,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Drain)
@@ -576,7 +576,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Drain)
@@ -586,7 +586,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Drain)
@@ -596,7 +596,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -607,7 +607,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Drain)
@@ -617,7 +617,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -628,7 +628,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -639,7 +639,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -650,7 +650,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -661,7 +661,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Fence)
@@ -671,7 +671,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Fence)
@@ -681,7 +681,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Fence)
@@ -691,7 +691,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Fence)
@@ -701,7 +701,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -712,7 +712,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Fence)
@@ -722,7 +722,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -733,7 +733,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -744,7 +744,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -755,7 +755,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -766,7 +766,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Healing)
@@ -776,7 +776,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Healing)
@@ -786,7 +786,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Healing)
@@ -796,7 +796,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Healing)
@@ -806,7 +806,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -817,7 +817,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Healing)
@@ -827,7 +827,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -838,7 +838,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -849,7 +849,7 @@
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
 
@@ -860,7 +860,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 1/2 ft per WP
+* **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
 
@@ -871,7 +871,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
 (Light)
@@ -881,7 +881,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Light)
@@ -891,7 +891,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 
 (Light)
@@ -901,7 +901,7 @@
 
 * **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
 (Light)
@@ -911,7 +911,7 @@
 
 * **Casting Time:** main action
 * **Range:** short (5 feet per WP)
-* **Radius:** -
+* **Diameter:** -
 * **Duration:** 1 rnd
 * **Speed:** 30ft per WP
 
@@ -922,7 +922,7 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Radius:** broad shield
+* **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
 (Light)
@@ -932,7 +932,7 @@
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
@@ -943,7 +943,7 @@
 
 * **Casting Time:** main action
 * **Range:** close (1 foot per WP)
-* **Radius:** 5 ft per WP
+* **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
 
