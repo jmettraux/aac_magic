@@ -7,7 +7,7 @@
 
 ## Amber Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -18,7 +18,7 @@
 
 ## Amber Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -29,7 +29,7 @@
 
 ## Amber Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -39,7 +39,7 @@
 
 ## Amber Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -49,7 +49,7 @@
 
 ## Amber Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -59,7 +59,7 @@
 
 ## Amber Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -69,7 +69,7 @@
 
 ## Amber Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -80,7 +80,7 @@
 
 ## Amber Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -90,7 +90,7 @@
 
 ## Amber Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -101,7 +101,7 @@
 
 ## Amber Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -112,7 +112,7 @@
 
 ## Black Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -123,7 +123,7 @@
 
 ## Black Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -134,7 +134,7 @@
 
 ## Black Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -144,7 +144,7 @@
 
 ## Black Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -154,7 +154,7 @@
 
 ## Black Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -164,7 +164,7 @@
 
 ## Black Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -174,7 +174,7 @@
 
 ## Black Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -185,7 +185,7 @@
 
 ## Black Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -195,7 +195,7 @@
 
 ## Black Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -206,7 +206,7 @@
 
 ## Black Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -217,7 +217,7 @@
 
 ## Blue Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -228,7 +228,7 @@
 
 ## Blue Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -239,7 +239,7 @@
 
 ## Blue Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -249,7 +249,7 @@
 
 ## Blue Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -259,7 +259,7 @@
 
 ## Blue Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -269,7 +269,7 @@
 
 ## Blue Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -279,7 +279,7 @@
 
 ## Blue Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -290,7 +290,7 @@
 
 ## Blue Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -300,7 +300,7 @@
 
 ## Blue Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -311,7 +311,7 @@
 
 ## Blue Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -322,7 +322,7 @@
 
 ## Night Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -333,7 +333,7 @@
 
 ## Night Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -344,7 +344,7 @@
 
 ## Night Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -354,7 +354,7 @@
 
 ## Night Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -364,7 +364,7 @@
 
 ## Night Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -374,7 +374,7 @@
 
 ## Night Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -384,7 +384,7 @@
 
 ## Night Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -395,7 +395,7 @@
 
 ## Night Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -405,7 +405,7 @@
 
 ## Night Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -416,7 +416,7 @@
 
 ## Night Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -427,7 +427,7 @@
 
 ## Red Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -438,7 +438,7 @@
 
 ## Red Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -449,7 +449,7 @@
 
 ## Red Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -459,7 +459,7 @@
 
 ## Red Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -469,7 +469,7 @@
 
 ## Red Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -479,7 +479,7 @@
 
 ## Red Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -489,7 +489,7 @@
 
 ## Red Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -500,7 +500,7 @@
 
 ## Red Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -510,7 +510,7 @@
 
 ## Red Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -521,7 +521,7 @@
 
 ## Red Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -532,7 +532,7 @@
 
 ## Scarlet Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -543,7 +543,7 @@
 
 ## Scarlet Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -554,7 +554,7 @@
 
 ## Scarlet Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -564,7 +564,7 @@
 
 ## Scarlet Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -574,7 +574,7 @@
 
 ## Scarlet Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -584,7 +584,7 @@
 
 ## Scarlet Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -594,7 +594,7 @@
 
 ## Scarlet Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -605,7 +605,7 @@
 
 ## Scarlet Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -615,7 +615,7 @@
 
 ## Scarlet Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -626,7 +626,7 @@
 
 ## Scarlet Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -637,7 +637,7 @@
 
 ## Silver Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -648,7 +648,7 @@
 
 ## Silver Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -659,7 +659,7 @@
 
 ## Silver Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -669,7 +669,7 @@
 
 ## Silver Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -679,7 +679,7 @@
 
 ## Silver Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -689,7 +689,7 @@
 
 ## Silver Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -699,7 +699,7 @@
 
 ## Silver Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -710,7 +710,7 @@
 
 ## Silver Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -720,7 +720,7 @@
 
 ## Silver Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -731,7 +731,7 @@
 
 ## Silver Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -742,7 +742,7 @@
 
 ## Turquoise Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -753,7 +753,7 @@
 
 ## Turquoise Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -764,7 +764,7 @@
 
 ## Turquoise Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -774,7 +774,7 @@
 
 ## Turquoise Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -784,7 +784,7 @@
 
 ## Turquoise Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -794,7 +794,7 @@
 
 ## Turquoise Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -804,7 +804,7 @@
 
 ## Turquoise Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -815,7 +815,7 @@
 
 ## Turquoise Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -825,7 +825,7 @@
 
 ## Turquoise Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -836,7 +836,7 @@
 
 ## Turquoise Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -847,7 +847,7 @@
 
 ## White Arrow
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** long (80 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd per WP
@@ -858,7 +858,7 @@
 
 ## White Ball
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 1/2 ft per WP
 * **Duration:** 1 rnd per WP
@@ -869,7 +869,7 @@
 
 ## White Disk
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 10 min per WP
@@ -879,7 +879,7 @@
 
 ## White Finger
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -889,7 +889,7 @@
 
 ## White Hand
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -899,7 +899,7 @@
 
 ## White Hut
 
-* **Casting Time:** 1 main action
+* **Casting Time:** 2 main actions
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -909,7 +909,7 @@
 
 ## White Pole
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** short (5 feet per WP)
 * **Radius:** -
 * **Duration:** 1 rnd
@@ -920,7 +920,7 @@
 
 ## White Shield
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** touch (touch)
 * **Radius:** broad shield
 * **Duration:** 1 min per WP
@@ -930,7 +930,7 @@
 
 ## White Tunnel
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -941,7 +941,7 @@
 
 ## White Well
 
-* **Casting Time:** 1 main action
+* **Casting Time:** main action
 * **Range:** close (1 foot per WP)
 * **Radius:** 5 ft per WP
 * **Duration:** 1 min per WP

@@ -16,8 +16,9 @@ forms =
     .drop_while { |l| ! l.start_with?('| form ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
-    .inject({}) { |h, (k, rad, rng, dur, spd)|
-      h[k] = { radius: rad, range: rng, duration: dur, speed: spd }; h }
+    .inject({}) { |h, (k, ct, rad, rng, dur, spd)|
+      h[k] = { ct: ct, radius: rad, range: rng, duration: dur, speed: spd }
+      h }
 #pp forms
 puts "  . %2d forms:    %s" % [ forms.count, forms.keys.join(',') ]
 
@@ -64,13 +65,14 @@ File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
 
     cfx = colours[ck]
     frm = forms[fk]
+    cst = frm[:ct] == '2ma' ? '2 main actions' : 'main action'
     rng = ranges[frm[:range]]
     nam = "#{ck} #{fk}"
     dsc = desclines[nam]
 
     f.puts "\n## #{nam}"
     f.puts
-    f.puts "* **Casting Time:** 1 main action"
+    f.puts "* **Casting Time:** #{cst}"
     f.puts "* **Range:** #{frm[:range]} (#{rng})"
     f.puts "* **Radius:** #{frm[:radius]}"
     f.puts "* **Duration:** #{frm[:duration]}"
@@ -95,6 +97,7 @@ File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
 
     cfx = colours[ck]
     frm = forms[fk]
+    cst = frm[:ct] == '2ma' ? '2 main actions' : 'main action'
     rng = ranges[frm[:range]]
     nam = "#{ck} #{fk}"
     dsc = desclines[nam]
@@ -103,7 +106,7 @@ File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
 
     f.puts "\n## #{nam}"
     f.puts
-    f.puts "* **Casting Time:** 1 main action"
+    f.puts "* **Casting Time:** #{cst}"
     f.puts "* **Range:** #{frm[:range]} (#{rng})"
     f.puts "* **Radius:** #{frm[:radius]}"
     f.puts "* **Duration:** #{frm[:duration]}"
