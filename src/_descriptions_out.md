@@ -30,7 +30,7 @@
 ## Amber Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -60,7 +60,7 @@
 ## Amber Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -70,10 +70,9 @@
 ## Amber Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Heat)
 
@@ -102,7 +101,7 @@
 ## Amber Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -135,7 +134,7 @@
 ## Black Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -165,7 +164,7 @@
 ## Black Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -175,10 +174,9 @@
 ## Black Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Damage)
 
@@ -207,7 +205,7 @@
 ## Black Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -240,7 +238,7 @@
 ## Blue Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -270,7 +268,7 @@
 ## Blue Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -280,10 +278,9 @@
 ## Blue Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Cold)
 
@@ -312,7 +309,7 @@
 ## Blue Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -345,7 +342,7 @@
 ## Night Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -375,7 +372,7 @@
 ## Night Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -385,10 +382,9 @@
 ## Night Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Darkness)
 
@@ -417,7 +413,7 @@
 ## Night Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -450,7 +446,7 @@
 ## Red Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -480,7 +476,7 @@
 ## Red Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -490,10 +486,9 @@
 ## Red Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Fire)
 
@@ -522,7 +517,7 @@
 ## Red Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -555,7 +550,7 @@
 ## Scarlet Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -585,7 +580,7 @@
 ## Scarlet Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -595,10 +590,9 @@
 ## Scarlet Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Drain)
 
@@ -627,7 +621,7 @@
 ## Scarlet Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -660,7 +654,7 @@
 ## Silver Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -690,7 +684,7 @@
 ## Silver Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -700,10 +694,9 @@
 ## Silver Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Fence)
 
@@ -732,7 +725,7 @@
 ## Silver Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -765,7 +758,7 @@
 ## Turquoise Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -795,7 +788,7 @@
 ## Turquoise Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -805,10 +798,9 @@
 ## Turquoise Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Healing)
 
@@ -837,7 +829,7 @@
 ## Turquoise Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
@@ -870,7 +862,7 @@
 ## White Disk
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
 
@@ -900,7 +892,7 @@
 ## White Hut
 
 * **Casting Time:** 2 main actions
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 
@@ -910,10 +902,9 @@
 ## White Pole
 
 * **Casting Time:** main action
-* **Range:** short (5 feet per WP)
+* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
-* **Speed:** 30ft per WP
 
 (Light)
 
@@ -942,7 +933,7 @@
 ## White Well
 
 * **Casting Time:** main action
-* **Range:** close (1 foot per WP)
+* **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP

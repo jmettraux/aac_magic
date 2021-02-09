@@ -9,7 +9,7 @@
 | Finger | ma  | -             | touch  | 1 rnd         | 0               |
 | Hand   | ma  | -             | touch  | 1 rnd         | 0               |
 | Hut    | 2ma | 5 ft per WP   | close  | 1 min per WP  | 0               |
-| Pole   | ma  | -             | short  | 1 rnd         | 30ft per WP     |
+| Pole   | ma  | -             | short  | 1 rnd         | 0               |
 | Shield | ma  | broad shield  | touch  | 1 min per WP  | 0               |
 | Tunnel | ma  | 5 ft per WP   | medium | 1 min per WP  | 80 ft per WP    |
 | Well   | ma  | 5 ft per WP   | close  | 1 min per WP  | 80 ft per WP    |
@@ -19,8 +19,31 @@
 | range   |                |
 |---------|----------------|
 | touch	  | touch          |
-| close	  | 1 foot per WP  |
-| short	  | 5 feet per WP  |
+| close	  | 5 foot per WP  |
+| short	  | 10 feet per WP |
 | medium  | 30 feet per WP |
 | long    | 80 feet per WP |
+
+
+## Hut
+
+As an instant action, the weaver may move the hut by five feet. It costs 1 WP.  The content, animate and inanimate is moved with the hut.
+
+As a main action, the weaver may prolong the hut lifetime by 1 minute. It costs 1 WP.
+
+As an instant action, the weaver may open or close the entrance to the hut.
+
+
+## Pole
+
+A pole is usually two feet taller than its weaver.
+
+Weaver use it to touch things or creature 10 feet away from them and apply an effect.
+
+
+## Shield
+
+They are sometimes called lenses, they are as wide as a circular broad shield. They stand in mid-air where the weaver willed them.
+
+As an instant action and for 1 WP, the weaver may move a shield by 10 feet instantly.
 

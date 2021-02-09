@@ -64,10 +64,26 @@ The target suffers 1d6 + skill damage which are turned to WPs and added to the w
 
 ## Silver Hut
 
-Weaves a thread fence into a hut shape. The weaver leaves an entrance hole or slit (or not).
+Weaves a thread fence into a hut shape.
 
 The hut has (1d8 + weaver magic skill) * WP hit points. As long as the hut has HPs it protectes completely its content.
 
-By paying 1 WP (and an instant action), the weaver may prolong the hut by 1 minute.
 By paying 1 WP (and an instant action), the weaver adds (1d8 + weaver magic skill) HPs to the hut.
+
+
+## Turquoise Pole
+
+All the creatures touched by the pole gain 1d3 + skill HPs.
+
+The pole does stabilize a Mortally Wounded Creature.
+
+
+## White Shield
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** broad shield
+* **Duration:** 1 min per WP
+
+xxx
 
