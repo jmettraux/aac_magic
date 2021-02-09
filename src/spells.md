@@ -128,5 +128,9 @@ The pole does stabilize a Mortally Wounded Creature.
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
-xxx
+This shield is sometimes called the "past window". The image seen through it is the same as the image that passed at the moment it was weaved. It can thus be used for some invisibility trick. The problem is that it works both ways, the other side looks like what it was at weaving time and vice versa. You can move behind the shield, but looking through it won't tell you much about the current situation there.
+
+The weaver may decide to simply use it as a mirror. All the the light going through it is reflected. Both sides.
+
+For one extra WP, the shield can be used as a spotlight, a light emitting shield suspended mid air.
 

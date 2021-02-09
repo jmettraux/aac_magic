@@ -25,7 +25,9 @@
 | long    | 80 feet per WP |
 
 
-## Hut
+## form specifics
+
+### Hut
 
 As an instant action, the weaver may move the hut by five feet. It costs 1 WP.  The content, animate and inanimate is moved with the hut.
 
@@ -34,16 +36,21 @@ As a main action, the weaver may prolong the hut lifetime by 1 minute. It costs 
 As an instant action, the weaver may open or close the entrance to the hut.
 
 
-## Pole
+### Pole
 
 A pole is usually two feet taller than its weaver.
 
 Weaver use it to touch things or creature 10 feet away from them and apply an effect.
 
 
-## Shield
+### Shield
 
-They are sometimes called lenses, they are as wide as a circular broad shield. They stand in mid-air where the weaver willed them.
+They are sometimes called lenses or vertical disks, they are as wide as a circular broad shield. They stand in mid-air where the weaver willed them.
 
 As an instant action and for 1 WP, the weaver may move a shield by 10 feet instantly.
+
+
+### Disk
+
+Similar to a shield, but horizontal.
 

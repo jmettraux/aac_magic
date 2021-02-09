@@ -2,10 +2,12 @@
 require 'pp'
 
 
-colours =
+colour_table =
   File.readlines(File.join(__dir__, '_colours_in.md'))
-    .drop_while { |l| ! l.start_with?('| colour ') }[2..-1]
-    .take_while { |l| l.start_with?('| ') }
+    .drop_while { |l| ! l.start_with?('| colour ') }
+    .take_while { |l| l.start_with?('|') }
+colours =
+  colour_table[2..-1]
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
     .inject({}) { |h, (k, v)| h[k] = v; h }
 #pp colours
@@ -54,7 +56,8 @@ puts "  . %2d spells described" % desclines.count
 
 File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
 
-  f.puts "\n# (SPELL DESCRIPTIONS)"
+  f.puts
+  f.puts "# (SPELL DESCRIPTIONS)"
   f.puts
   f.puts "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now."
 
@@ -85,13 +88,18 @@ end
 
 File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
 
-  f.puts "\n# spells"
+  f.puts
+  f.puts "# spells"
   f.puts
   f.puts "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now."
 
   f.puts
   f.puts "#{desclines.count} spells."
   f.puts
+  #f.puts "## colours"
+  #f.puts
+  #f.puts colour_table
+  #f.puts
 
   prod.each do |ck, fk|
 
