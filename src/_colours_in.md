@@ -9,6 +9,7 @@ The colour of the effect, as seen by the weaver.
 | Black     | Damage   |
 | Blue      | Cold     |
 | Night     | Darkness |
+| Quartz    | Meta     |
 | Red       | Fire     |
 | Scarlet   | Drain    |
 | Silver    | Fence    |
@@ -18,7 +19,6 @@ The colour of the effect, as seen by the weaver.
 | Wind | Wind |
 
 | Bronze    | |
-| Quartz    | |
 | Gold      | |
 | Crimson   | |
 | Ivory     | |

@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-90 potential spells.
+100 potential spells.
 
 ## Amber Arrow
 
@@ -419,6 +419,110 @@
 * **Speed:** 80 ft per WP
 
 (Darkness)
+
+
+## Quartz Arrow
+
+* **Casting Time:** main action
+* **Range:** long (80 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd per WP
+* **Speed:** 80 ft per WP
+
+(Meta)
+
+
+## Quartz Ball
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 1 rnd per WP
+* **Speed:** 30 ft per WP
+
+(Meta)
+
+
+## Quartz Disk
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 10 min per WP
+
+(Meta)
+
+
+## Quartz Finger
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** -
+* **Duration:** 1 rnd
+
+(Meta)
+
+
+## Quartz Hand
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** -
+* **Duration:** 1 rnd
+
+(Meta)
+
+
+## Quartz Hut
+
+* **Casting Time:** 2 main actions
+* **Range:** close (5 foot per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 1 min per WP
+
+(Meta)
+
+
+## Quartz Pole
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+
+(Meta)
+
+
+## Quartz Shield
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** broad shield
+* **Duration:** 1 min per WP
+
+(Meta)
+
+
+## Quartz Tunnel
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 1 min per WP
+* **Speed:** 80 ft per WP
+
+(Meta)
+
+
+## Quartz Well
+
+* **Casting Time:** main action
+* **Range:** close (5 foot per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 1 min per WP
+* **Speed:** 80 ft per WP
+
+(Meta)
 
 
 ## Red Arrow

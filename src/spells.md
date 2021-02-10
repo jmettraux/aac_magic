@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-11 spells.
+12 spells.
 
 
 ## Amber Arrow
@@ -88,6 +88,19 @@ A ball of light absorbing threads.
 Can be thrown at a creature to blind it (provided it has eyes, uses them, and they fit in the radius of the ball). If the weaving succeeds, the weaver has to succeed a DC 6 DEX/Shoot skill check to "place" the ball.
 
 More static uses of the ball are common, to simply prevent light/vision from crossing the ball radius.
+
+
+## Quartz Ball
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 1 rnd per WP
+* **Speed:** 30 ft per WP
+
+A reveal ball, within its radius, a thread outlines threads left by other casters. The colours of those threads is revealed. Only the threads within the radius of the ball are outlined by the quartz thread.
+
+By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 
 ## Red Finger

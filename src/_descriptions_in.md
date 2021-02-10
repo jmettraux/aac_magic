@@ -61,6 +61,13 @@ Can be thrown at a creature to blind it (provided it has eyes, uses them, and th
 More static uses of the ball are common, to simply prevent light/vision from crossing the ball radius.
 
 
+## Quartz Ball
+
+A reveal ball, within its radius, a thread outlines threads left by other casters. The colours of those threads is revealed. Only the threads within the radius of the ball are outlined by the quartz thread.
+
+By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
+
+
 ## Red Finger
 
 Also known as the weaver lighter.
