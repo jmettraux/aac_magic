@@ -40,7 +40,9 @@ Skill is the Magic skill level.
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
 
-A shield of pain with (1d6 + skill) * WP "hit points".
+A shield of pain with (1d6 + skill) * WP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
+
+As a main action, the weaver of the black shield, may consume WPs to "mend" the shield, again (1d6 + skill) * WP.
 
 
 ## Blue Disk

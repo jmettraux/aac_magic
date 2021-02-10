@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-10 spells.
+11 spells.
 
 
 ## Amber Arrow
@@ -49,6 +49,18 @@ Fires an arrow of weaving pain at a single target.
 | >3 | 1d8 + skill |
 
 Skill is the Magic skill level.
+
+
+## Black Shield
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** broad shield
+* **Duration:** 1 min per WP
+
+A shield of pain with (1d6 + skill) * WP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
+
+As a main action, the weaver of the black shield, may consume WPs to "mend" the shield, again (1d6 + skill) * WP.
 
 
 ## Blue Disk
