@@ -15,6 +15,11 @@ Fires a heat arrow at a single target.
 Can be used to put a easily flammable object in fire.
 
 
+## Amber Ball
+
+Some people are not very good at boiling water, it seems they never did it. Maybe their servant does it for them, maybe they are weavers and they use the Amber Ball to boil water.
+
+
 ## Black Arrow
 
 Fires an arrow of weaving pain at a single target.
@@ -26,6 +31,16 @@ Fires an arrow of weaving pain at a single target.
 | >3 | 1d8 + skill |
 
 Skill is the Magic skill level.
+
+
+## Black Shield
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** broad shield
+* **Duration:** 1 min per WP
+
+A shield of pain with (1d6 + skill) * WP "hit points".
 
 
 ## Blue Disk

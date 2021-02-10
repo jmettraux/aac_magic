@@ -11,3 +11,5 @@ Colours are known to many cultures. Balls, arrows, huts are known to many cultur
 
 Some travelled weavers say that in Constantinople, there are more colours and more forms and sophistication, but it's difficult to fathom.
 
+A weaver sees the thread they weave. Non-weaver don't seem to see threads, although some might... A weaver doesn't see the threads another weaver makes, unless they use a thread-revealing spell.
+

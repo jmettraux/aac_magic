@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-9 spells.
+10 spells.
 
 
 ## Amber Arrow
@@ -19,6 +19,17 @@ Fires a heat arrow at a single target.
 1d3 damage unless the target succeeds at a Physical save.
 
 Can be used to put a easily flammable object in fire.
+
+
+## Amber Ball
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 1 rnd per WP
+* **Speed:** 30 ft per WP
+
+Some people are not very good at boiling water, it seems they never did it. Maybe their servant does it for them, maybe they are weavers and they use the Amber Ball to boil water.
 
 
 ## Black Arrow
