@@ -1,6 +1,8 @@
 
 # magic
 
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
+
 Weavers are persons with the gift of weaving, weaving magical threads to achieve effects.
 
 The gift doesn't seem hereditary. The majority of the weavers consider it a curse rather than a gift and hide it. A minority of people are weavers. Some weavers don't even know they have the gift, they might be gifted but blind, they don't see the threads although they trigger the weaving.
