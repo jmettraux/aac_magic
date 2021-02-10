@@ -67,6 +67,8 @@ A reveal ball, within its radius, a thread outlines threads left by other caster
 
 By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
+The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
+
 
 ## Red Finger
 
