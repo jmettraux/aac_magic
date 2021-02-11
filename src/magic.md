@@ -7,7 +7,7 @@ Weavers are persons with the gift of weaving, weaving magical threads to achieve
 
 The gift doesn't seem hereditary. The majority of the weavers consider it a curse rather than a gift and hide it. A minority of people are weavers. Some weavers don't even know they have the gift, they might be gifted but blind, they don't see the threads although they trigger the weaving.
 
-Some non-gifted people, through their friendship with weaver know of the gift. They keep the secret for fear of their friend to be discovered. Some non-weavers abuse weak weavers and use them but keep the silence.
+Some non-gifted people, through their friendship with a weaver know of the gift. They keep the secret for fear of their friend to be discovered. Some non-weavers abuse weak weavers and use them but keep the silence.
 
 A weaver sees the thread they weave. Non-weavers don't seem to see threads, although some might... A weaver doesn't see the threads another weaver makes, unless they use a thread-revealing spell.
 
