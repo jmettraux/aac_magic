@@ -27,6 +27,17 @@
 
 ## form specifics
 
+
+### Finger
+
+TODO should finger and hand forms be instant actions?
+
+
+### Hand
+
+TODO should finger and hand forms be instant actions?
+
+
 ### Hut
 
 As an instant action, the weaver may move the hut by five feet. It costs 1 WP.  The content, animate and inanimate is moved with the hut.

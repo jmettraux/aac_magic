@@ -70,6 +70,13 @@ By consuming 1 extra WP, all the threads (quartz and others) are revealed to oth
 The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
 
 
+## Red Disk
+
+Disk of fire.
+
+When the spell ends and its fire hasn't propagated to some flammable elements, the fire ends.
+
+
 ## Red Finger
 
 Also known as the weaver lighter.
@@ -79,6 +86,13 @@ Read threads emit a flame at the point of the weaver's finger.
 Once the weavery stops, the threads dissolve, the heat disperses.
 
 
+## Scarlet Finger
+
+The weaver drops the tip of their finger on a victim's skin or fur and drains (1 + skill + attribute modifier) HPs. Those HPs are turned into WPs for the weaver. The attribute modifier is the one for the attribute used for casting (INT, WIS, or CHA).
+
+The GM grants a saving throw to the victim or not.
+
+
 ## Scarlet Hand
 
 The weaver lays their hand on the wound of a living target and weave threads that drain the the wounded of some of their hit points.
@@ -86,6 +100,15 @@ The weaver lays their hand on the wound of a living target and weave threads tha
 The target suffers 1d6 + skill damage which are turned to WPs and added to the weaver's current WP count.
 
 (Remember that weaving requires at least 1 WP, so the in the worst case, the weaver might gain 1 - 1 WPs and the target might lose 1 HP).
+
+
+## Silver Hand
+
+The hand of the weaver leaves a trace of fence thread mid-air. It blocks anything except for threads.
+
+As an instant action, the weaver can invest 1 WP to let the silver hand last one more round. The range for this "investment" is 30 feet.
+
+Can be used as a "weaver duck tape".
 
 
 ## Silver Hut

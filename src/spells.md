@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-12 spells.
+15 spells.
 
 
 ## Amber Arrow
@@ -102,6 +102,20 @@ A reveal ball, within its radius, a thread outlines threads left by other caster
 
 By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
+The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
+
+
+## Red Disk
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 10 min per WP
+
+Disk of fire.
+
+When the spell ends and its fire hasn't propagated to some flammable elements, the fire ends.
+
 
 ## Red Finger
 
@@ -117,6 +131,18 @@ Read threads emit a flame at the point of the weaver's finger.
 Once the weavery stops, the threads dissolve, the heat disperses.
 
 
+## Scarlet Finger
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** -
+* **Duration:** 1 rnd
+
+The weaver drops the tip of their finger on a victim's skin or fur and drains (1 + skill + attribute modifier) HPs. Those HPs are turned into WPs for the weaver. The attribute modifier is the one for the attribute used for casting (INT, WIS, or CHA).
+
+The GM grants a saving throw to the victim or not.
+
+
 ## Scarlet Hand
 
 * **Casting Time:** main action
@@ -129,6 +155,20 @@ The weaver lays their hand on the wound of a living target and weave threads tha
 The target suffers 1d6 + skill damage which are turned to WPs and added to the weaver's current WP count.
 
 (Remember that weaving requires at least 1 WP, so the in the worst case, the weaver might gain 1 - 1 WPs and the target might lose 1 HP).
+
+
+## Silver Hand
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** -
+* **Duration:** 1 rnd
+
+The hand of the weaver leaves a trace of fence thread mid-air. It blocks anything except for threads.
+
+As an instant action, the weaver can invest 1 WP to let the silver hand last one more round. The range for this "investment" is 30 feet.
+
+Can be used as a "weaver duck tape".
 
 
 ## Silver Hut

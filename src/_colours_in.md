@@ -34,3 +34,10 @@ DEX + INT : Evasion
 WIS + CHA : Mental
 Whatever : Luck
 
+
+## colour specifics
+
+### Red
+
+Fire, combustion. Weaver in dark ages England don't know what oxygen is, but they noticed that red threads didn't emit fire when cast in suffocating places. Some weavers call flame "blacksmith breath" (or "redsmith breath").
+
