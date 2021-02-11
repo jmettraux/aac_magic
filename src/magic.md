@@ -9,7 +9,7 @@ The gift doesn't seem hereditary. The majority of the weavers consider it a curs
 
 Some non-gifted people, through their friendship with weaver know of the gift. They keep the secret for fear of their friend to be discovered. Some non-weavers abuse weak weavers and use them but keep the silence.
 
-A weaver sees the thread they weave. Non-weaver don't seem to see threads, although some might... A weaver doesn't see the threads another weaver makes, unless they use a thread-revealing spell.
+A weaver sees the thread they weave. Non-weavers don't seem to see threads, although some might... A weaver doesn't see the threads another weaver makes, unless they use a thread-revealing spell.
 
 Colours are known to many cultures. Different spells have different thread colours. It seems that the black threads are about pain and damage for all the weavers, and that blue threads generate cold or nullify heat were they appear, these are two examples.
 
@@ -17,6 +17,6 @@ Weavers seem to agree on colours, but there may be some of them with twisted per
 
 Balls, arrows, huts are known to many cultures. A simple vocabulary emerged around forms and colours, they easily translate from a language to the other. Weaver may thus easily describe what they are trying to achieve to each other.
 
-Some travelled weavers say that in Constantinople, there are more colours and more forms and sophistication, but it's difficult to fathom.
+Some travelled weavers say that in Constantinople or in the Caliphate, there are more colours and more forms and sophistication, but it'd take a lifetime to ascertain.
 
 

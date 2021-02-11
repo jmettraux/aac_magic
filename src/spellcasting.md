@@ -19,6 +19,8 @@ The attribute modifier is either INT, WIS, or CHA, the Weaver decides which one 
 
 The Weaver (or the GM) are invited to "roleplay" the spell depending on the att modifier used. INT cold logic, WIS street smart, CHA force of will.
 
+If the roll fails, the weavery fails, the WP are consumed anyway.
+
 ## becoming frail to obtain WPs
 
 A Weaver may accept become "frail" (see Injury) and immediately gain 1d6 WP plus the best of its INT, CHA, or WIS modifiers.
