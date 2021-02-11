@@ -20,6 +20,20 @@ Can be used to put a easily flammable object in fire.
 Some people are not very good at boiling water, it seems they never did it. Maybe their servant does it for them, maybe they are weavers and they use the Amber Ball to boil water.
 
 
+## Amber Shield
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** broad shield
+* **Duration:** 1 min per WP
+
+The heat lens. Creatures attempting to cross the shield take 1d6 damage + weaver skill level.
+
+Hot air waves distort light, so the shield is somehow discernable.
+
+Missiles and polearm ends are not stopped by the shield.
+
+
 ## Black Arrow
 
 Fires an arrow of weaving pain at a single target.
@@ -34,11 +48,6 @@ Skill is the Magic skill level.
 
 
 ## Black Shield
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
 
 A shield of pain with (1d6 + skill) * WP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
@@ -120,6 +129,11 @@ The hut has (1d8 + weaver magic skill) * WP hit points. As long as the hut has H
 By paying 1 WP (and an instant action), the weaver adds (1d8 + weaver magic skill) HPs to the hut.
 
 
+## Turquoise Hut
+
+Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP after 10 minutes of rest).
+
+
 ## Turquoise Pole
 
 All the creatures touched by the pole gain 1d3 + skill HPs.
@@ -127,12 +141,14 @@ All the creatures touched by the pole gain 1d3 + skill HPs.
 The pole does stabilize a Mortally Wounded Creature.
 
 
-## White Shield
+## White Pole
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
+Weaves a tube of light, five feet long or less (as bright as a neon tube). The threads may be woven on a base of organic matter. Some weavers grow the tube on top of their naked heads.
+
+As an instant action, the weaver may extend the "lifetime" of the pole for 1 round by paying 1 WP.
+
+
+## White Shield
 
 This shield is sometimes called the "past window". The image seen through it is the same as the image that passed at the moment it was weaved. It can thus be used for some invisibility trick. The problem is that it works both ways, the other side looks like what it was at weaving time and vice versa. You can move behind the shield, but looking through it won't tell you much about the current situation there.
 

@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-15 spells.
+18 spells.
 
 
 ## Amber Arrow
@@ -30,6 +30,20 @@ Can be used to put a easily flammable object in fire.
 * **Speed:** 30 ft per WP
 
 Some people are not very good at boiling water, it seems they never did it. Maybe their servant does it for them, maybe they are weavers and they use the Amber Ball to boil water.
+
+
+## Amber Shield
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** broad shield
+* **Duration:** 1 min per WP
+
+The heat lens. Creatures attempting to cross the shield take 1d6 damage + weaver skill level.
+
+Hot air waves distort light, so the shield is somehow discernable.
+
+Missiles and polearm ends are not stopped by the shield.
 
 
 ## Black Arrow
@@ -185,6 +199,16 @@ The hut has (1d8 + weaver magic skill) * WP hit points. As long as the hut has H
 By paying 1 WP (and an instant action), the weaver adds (1d8 + weaver magic skill) HPs to the hut.
 
 
+## Turquoise Hut
+
+* **Casting Time:** 2 main actions
+* **Range:** close (5 foot per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 1 min per WP
+
+Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP after 10 minutes of rest).
+
+
 ## Turquoise Pole
 
 * **Casting Time:** main action
@@ -195,6 +219,18 @@ By paying 1 WP (and an instant action), the weaver adds (1d8 + weaver magic skil
 All the creatures touched by the pole gain 1d3 + skill HPs.
 
 The pole does stabilize a Mortally Wounded Creature.
+
+
+## White Pole
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+
+Weaves a tube of light, five feet long or less (as bright as a neon tube). The threads may be woven on a base of organic matter. Some weavers grow the tube on top of their naked heads.
+
+As an instant action, the weaver may extend the "lifetime" of the pole for 1 round by paying 1 WP.
 
 
 ## White Shield

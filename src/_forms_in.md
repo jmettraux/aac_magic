@@ -27,6 +27,10 @@
 
 ## form specifics
 
+All the forms are invisible, except when woven with black threads or white threads. Red threads are involved with combustion, their flame might be visible.
+
+TODO have tags for spells (prolongable, xable, ...)
+
 
 ### Finger
 
@@ -39,6 +43,8 @@ TODO should finger and hand forms be instant actions?
 
 
 ### Hut
+
+(weaving a hut requires 2 main actions)
 
 As an instant action, the weaver may move the hut by five feet. It costs 1 WP.  The content, animate and inanimate is moved with the hut.
 
