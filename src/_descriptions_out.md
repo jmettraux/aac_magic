@@ -23,6 +23,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Heat)
 
@@ -33,6 +35,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Heat)
 
@@ -43,6 +47,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Heat)
 
@@ -53,16 +58,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Heat)
 
 
 ## Amber Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Heat)
 
@@ -73,6 +81,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Heat)
 
@@ -83,6 +92,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Heat)
 
@@ -94,6 +105,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Heat)
 
@@ -105,6 +118,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Heat)
 
@@ -127,6 +142,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Damage)
 
@@ -137,6 +154,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Damage)
 
@@ -147,6 +166,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Damage)
 
@@ -157,16 +177,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Damage)
 
 
 ## Black Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Damage)
 
@@ -177,6 +200,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Damage)
 
@@ -187,6 +211,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Damage)
 
@@ -198,6 +224,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Damage)
 
@@ -209,6 +237,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Damage)
 
@@ -231,6 +261,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Cold)
 
@@ -241,6 +273,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Cold)
 
@@ -251,6 +285,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Cold)
 
@@ -261,16 +296,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Cold)
 
 
 ## Blue Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Cold)
 
@@ -281,6 +319,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Cold)
 
@@ -291,6 +330,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Cold)
 
@@ -302,6 +343,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Cold)
 
@@ -313,6 +356,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Cold)
 
@@ -335,6 +380,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Darkness)
 
@@ -345,6 +392,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Darkness)
 
@@ -355,6 +404,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Darkness)
 
@@ -365,16 +415,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Darkness)
 
 
 ## Night Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Darkness)
 
@@ -385,6 +438,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Darkness)
 
@@ -395,6 +449,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Darkness)
 
@@ -406,6 +462,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Darkness)
 
@@ -417,6 +475,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Darkness)
 
@@ -439,6 +499,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Meta)
 
@@ -449,6 +511,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Meta)
 
@@ -459,6 +523,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Meta)
 
@@ -469,16 +534,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Meta)
 
 
 ## Quartz Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Meta)
 
@@ -489,6 +557,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Meta)
 
@@ -499,6 +568,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Meta)
 
@@ -510,6 +581,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Meta)
 
@@ -521,6 +594,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Meta)
 
@@ -543,6 +618,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Fire)
 
@@ -553,6 +630,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fire)
 
@@ -563,6 +642,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Fire)
 
@@ -573,16 +653,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Fire)
 
 
 ## Red Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fire)
 
@@ -593,6 +676,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Fire)
 
@@ -603,6 +687,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Fire)
 
@@ -614,6 +700,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fire)
 
@@ -625,6 +713,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fire)
 
@@ -647,6 +737,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Drain)
 
@@ -657,6 +749,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Drain)
 
@@ -667,6 +761,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Drain)
 
@@ -677,16 +772,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Drain)
 
 
 ## Scarlet Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Drain)
 
@@ -697,6 +795,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Drain)
 
@@ -707,6 +806,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Drain)
 
@@ -718,6 +819,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Drain)
 
@@ -729,6 +832,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Drain)
 
@@ -751,6 +856,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Fence)
 
@@ -761,6 +868,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fence)
 
@@ -771,6 +880,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Fence)
 
@@ -781,16 +891,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Fence)
 
 
 ## Silver Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fence)
 
@@ -801,6 +914,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Fence)
 
@@ -811,6 +925,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Fence)
 
@@ -822,6 +938,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fence)
 
@@ -833,6 +951,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fence)
 
@@ -855,6 +975,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Healing)
 
@@ -865,6 +987,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Healing)
 
@@ -875,6 +999,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Healing)
 
@@ -885,16 +1010,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Healing)
 
 
 ## Turquoise Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Healing)
 
@@ -905,6 +1033,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Healing)
 
@@ -915,6 +1044,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Healing)
 
@@ -926,6 +1057,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Healing)
 
@@ -937,6 +1070,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Healing)
 
@@ -959,6 +1094,8 @@
 * **Diameter:** 1 ft per WP
 * **Duration:** 1 rnd per WP
 * **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Light)
 
@@ -969,6 +1106,8 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Light)
 
@@ -979,6 +1118,7 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Light)
 
@@ -989,16 +1129,19 @@
 * **Range:** touch (touch)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Light)
 
 
 ## White Hut
 
-* **Casting Time:** 2 main actions
+* **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Light)
 
@@ -1009,6 +1152,7 @@
 * **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
 
 (Light)
 
@@ -1019,6 +1163,8 @@
 * **Range:** touch (touch)
 * **Diameter:** broad shield
 * **Duration:** 1 min per WP
+* **Move:** 1 WP, 10 ft
+* **Prolong:** 1 WP, 1 min
 
 (Light)
 
@@ -1030,6 +1176,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Light)
 
@@ -1041,6 +1189,8 @@
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
 * **Speed:** 80 ft per WP
+* **Move:** no
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Light)
 

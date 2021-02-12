@@ -1,18 +1,20 @@
 
 # forms
 
-| form   | ct  | diameter     | range  | duration      | speed (per rnd) |
-|--------|-----|--------------|--------|---------------|-----------------|
-| Arrow  | ma  | -            | long   | 1 rnd per WP  | 80 ft per WP    |
-| Ball   | ma  | 1 ft per WP  | medium | 1 rnd per WP  | 30 ft per WP    |
-| Disk   | ma  | 5 ft per WP  | short  | 10 min per WP | 0               |
-| Finger | ma  | -            | touch  | 1 rnd         | 0               |
-| Hand   | ma  | -            | touch  | 1 rnd         | 0               |
-| Hut    | 2ma | 5 ft per WP  | close  | 1 min per WP  | 0               |
-| Pole   | ma  | -            | short  | 1 rnd         | 0               |
-| Shield | ma  | broad shield | touch  | 1 min per WP  | 0               |
-| Tunnel | ma  | 5 ft per WP  | medium | 1 min per WP  | 80 ft per WP    |
-| Well   | ma  | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
+ma: main action, ota: on turn action, ia: instant action
+
+| form   | ct     | diameter     | range  | duration      | speed (per rnd) |
+|--------|--------|--------------|--------|---------------|-----------------|
+| Arrow  | ma     | -            | long   | 1 rnd per WP  | 80 ft per WP    |
+| Ball   | ma     | 1 ft per WP  | medium | 1 rnd per WP  | 30 ft per WP    |
+| Disk   | ma     | 5 ft per WP  | short  | 10 min per WP | 0               |
+| Finger | ma     | -            | touch  | 1 rnd         | 0               |
+| Hand   | ma     | -            | touch  | 1 rnd         | 0               |
+| Hut    | ma+ota | 5 ft per WP  | close  | 1 min per WP  | 0               |
+| Pole   | ma     | -            | short  | 1 rnd         | 0               |
+| Shield | ma     | broad shield | touch  | 1 min per WP  | 0               |
+| Tunnel | ma     | 5 ft per WP  | medium | 1 min per WP  | 80 ft per WP    |
+| Well   | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
 
 | Flail  | -             | short  | 1 rnd         | 80 ft per WP    |
 
@@ -23,6 +25,24 @@
 | short	  | 10 feet per WP |
 | medium  | 30 feet per WP |
 | long    | 80 feet per WP |
+
+| from   | move        | prolong                            |
+|--------|-------------|------------------------------------|
+| Arrow  | -           | -                                  |
+| Ball   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 rnd |
+| Disk   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
+| Finger | -           | 1 WP, 1 rnd                        |
+| Hand   | -           | 1 WP, 1 rnd                        |
+| Hut    | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
+| Pole   | -           | 1 WP, 1 rnd                        |
+| Shield | 1 WP, 10 ft | 1 WP, 1 min                        |
+| Tunnel | no          | within (level * 10ft), 1 WP, 1 min |
+| Well   | no          | within (level * 10ft), 1 WP, 1 min |
+
+Move requires an on turn action. Prolong requires an instant action.
+
+As an instant action and for 1 WP, the weaver may move a shield by 10 feet instantly.
+
 
 
 ## form specifics
@@ -44,31 +64,20 @@ TODO
 
 ### Disk
 
-TODO
+Similar to a shield, but horizontal.
 
 
 ### Finger
 
-TODO should finger and hand forms be instant actions?
-
-
-### Disk
-
-Similar to a shield, but horizontal.
+TODO should finger and hand forms be instant actions? On turn actions?
 
 
 ### Hand
 
-TODO should finger and hand forms be instant actions?
+TODO should finger and hand forms be instant actions? On turn actions?
 
 
 ### Hut
-
-(weaving a hut requires 2 main actions)
-
-As an instant action, the weaver may move the hut by five feet. It costs 1 WP.  The content, animate and inanimate is moved with the hut.
-
-As a main action, the weaver may prolong the hut lifetime by 1 minute. It costs 1 WP.
 
 As an instant action, the weaver may open or close the entrance to the hut.
 
@@ -83,8 +92,6 @@ Weaver use it to touch things or creature 10 feet away from them and apply an ef
 ### Shield
 
 They are sometimes called lenses or vertical disks, they are as wide as a circular broad shield. They stand in mid-air where the weaver willed them.
-
-As an instant action and for 1 WP, the weaver may move a shield by 10 feet instantly.
 
 
 ### Tunnel

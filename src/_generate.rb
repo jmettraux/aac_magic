@@ -35,6 +35,14 @@ ranges =
     .inject({}) { |h, (k, v)| h[k] = v; h }
 #pp ranges
 
+extra =
+  File.readlines(File.join(__dir__, '_forms_in.md'))
+    .drop_while { |l| ! l.start_with?('| from   | move ') }[2..-1]
+    .take_while { |l| l.start_with?('| ') }
+    .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
+    .inject({}) { |h, (k, mve, plg)| h[k] = { move: mve, prolong: plg }; h }
+#pp extra
+
 desclines =
   File.readlines(File.join(__dir__, '_descriptions_in.md'))
     .inject([]) { |a, l|
@@ -68,10 +76,15 @@ File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
 
     cfx = colours[ck]
     frm = forms[fk]
-    cst = frm[:ct] == '2ma' ? '2 main actions' : 'main action'
+    cst =
+      frm[:ct] == 'ma+ota' ?
+      '1 main action, then 1 on turn action' :
+      'main action'
     rng = ranges[frm[:range]]
     nam = "#{ck} #{fk}"
     dsc = desclines[nam]
+    mov = extra[fk][:move]
+    plg = extra[fk][:prolong]
 
     f.puts "\n## #{nam}"
     f.puts
@@ -80,6 +93,8 @@ File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
     f.puts "* **Diameter:** #{frm[:diameter]}"
     f.puts "* **Duration:** #{frm[:duration]}"
     f.puts "* **Speed:** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+    f.puts "* **Move:** #{mov}" if mov != '-'
+    f.puts "* **Prolong:** #{plg}" if plg != '-'
     f.puts
     f.puts "(#{cfx})"
     f.puts
@@ -105,10 +120,15 @@ File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
 
     cfx = colours[ck]
     frm = forms[fk]
-    cst = frm[:ct] == '2ma' ? '2 main actions' : 'main action'
+    cst =
+      frm[:ct] == 'ma+ota' ?
+      '1 main action, then 1 on turn action' :
+      'main action'
     rng = ranges[frm[:range]]
     nam = "#{ck} #{fk}"
     dsc = desclines[nam]
+    mov = extra[fk][:move]
+    plg = extra[fk][:prolong]
 
     next unless dsc
 
@@ -119,6 +139,8 @@ File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
     f.puts "* **Diameter:** #{frm[:diameter]}"
     f.puts "* **Duration:** #{frm[:duration]}"
     f.puts "* **Speed:** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+    f.puts "* **Move:** #{mov}" if mov != '-'
+    f.puts "* **Prolong:** #{plg}" if plg != '-'
     f.puts
     f.puts dsc.join('')
     f.puts
