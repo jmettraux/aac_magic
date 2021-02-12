@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-18 spells.
+19 spells.
 
 
 ## Amber Arrow
@@ -87,6 +87,22 @@ As a main action, the weaver of the black shield, may consume WPs to "mend" the 
 Weaves cold threads into a disk that lays on the floor. In a dry place, the disk is invisible, in a humid place, ice forms and is visible.
 
 Depending on the context, a creature might slide on the disk and fall. A wet hairy creature might get stuck to the disk, especially if the surface below the disk has some relief.
+
+
+## Blue Finger
+
+* **Casting Time:** main action
+* **Range:** touch (touch)
+* **Diameter:** -
+* **Duration:** 1 rnd
+
+Threads generating cold are woven around the index finger of the weaver. The weaver is not affected negatively by the cold.
+
+The threads can deal WP + skill cold damage. The GM can give an Evasion save to the victim if appropriate.
+
+The finger can also be used to stop ongoing heat/burning damage.
+
+(Beware touching metal objects!)
 
 
 ## Night Ball

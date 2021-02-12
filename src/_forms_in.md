@@ -1,18 +1,18 @@
 
 # forms
 
-| form   | ct  | diameter      | range  | duration      | speed (per rnd) |
-|--------|-----|---------------|--------|---------------|-----------------|
-| Arrow  | ma  | -             | long   | 1 rnd per WP  | 80 ft per WP    |
-| Ball   | ma  | 1 ft per WP   | medium | 1 rnd per WP  | 30 ft per WP    |
-| Disk   | ma  | 5 ft per WP   | short  | 10 min per WP | 0               |
-| Finger | ma  | -             | touch  | 1 rnd         | 0               |
-| Hand   | ma  | -             | touch  | 1 rnd         | 0               |
-| Hut    | 2ma | 5 ft per WP   | close  | 1 min per WP  | 0               |
-| Pole   | ma  | -             | short  | 1 rnd         | 0               |
-| Shield | ma  | broad shield  | touch  | 1 min per WP  | 0               |
-| Tunnel | ma  | 5 ft per WP   | medium | 1 min per WP  | 80 ft per WP    |
-| Well   | ma  | 5 ft per WP   | close  | 1 min per WP  | 80 ft per WP    |
+| form   | ct  | diameter     | range  | duration      | speed (per rnd) |
+|--------|-----|--------------|--------|---------------|-----------------|
+| Arrow  | ma  | -            | long   | 1 rnd per WP  | 80 ft per WP    |
+| Ball   | ma  | 1 ft per WP  | medium | 1 rnd per WP  | 30 ft per WP    |
+| Disk   | ma  | 5 ft per WP  | short  | 10 min per WP | 0               |
+| Finger | ma  | -            | touch  | 1 rnd         | 0               |
+| Hand   | ma  | -            | touch  | 1 rnd         | 0               |
+| Hut    | 2ma | 5 ft per WP  | close  | 1 min per WP  | 0               |
+| Pole   | ma  | -            | short  | 1 rnd         | 0               |
+| Shield | ma  | broad shield | touch  | 1 min per WP  | 0               |
+| Tunnel | ma  | 5 ft per WP  | medium | 1 min per WP  | 80 ft per WP    |
+| Well   | ma  | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
 
 | Flail  | -             | short  | 1 rnd         | 80 ft per WP    |
 
@@ -29,12 +29,32 @@
 
 All the forms are invisible, except when woven with black threads or white threads. Red threads are involved with combustion, their flame might be visible.
 
-TODO have tags for spells (prolongable, xable, ...)
+TODO have traits for spells (prolongable, xable, ...) Really?
+
+
+### Arrow
+
+TODO
+
+
+### Ball
+
+TODO
+
+
+### Disk
+
+TODO
 
 
 ### Finger
 
 TODO should finger and hand forms be instant actions?
+
+
+### Disk
+
+Similar to a shield, but horizontal.
 
 
 ### Hand
@@ -67,7 +87,12 @@ They are sometimes called lenses or vertical disks, they are as wide as a circul
 As an instant action and for 1 WP, the weaver may move a shield by 10 feet instantly.
 
 
-### Disk
+### Tunnel
 
-Similar to a shield, but horizontal.
+TODO
+
+
+### Well
+
+TODO
 

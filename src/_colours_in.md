@@ -37,7 +37,7 @@ Whatever : Luck
 
 ## colour specifics
 
-FIXME All the forms are invisible, except when woven with black threads or white threads. Red threads are involved with combustion, their flame might be visible. Amber threads produced heat might heat air and the result waves might distort light, making the result of amber threads somehow discernable.
+FIXME All the forms are invisible, except when woven with black threads or white threads. Red threads are involved with combustion, their flame might be visible. Amber threads produced heat might heat air and the result waves might distort light, making the result of amber threads somehow discernable. Night threads absorb light, they look like darkness, they are thus visible (except in darkness).
 
 ### Amber
 
