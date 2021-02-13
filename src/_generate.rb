@@ -60,7 +60,8 @@ desclines =
       h[a[0]] = aa unless aa.length == 1 && aa[0].match?(/^\(.+\)\n$/)
       h }
 #pp desclines
-puts "  . %3d spells described" % desclines.count
+puts '  . %3d spells described' % desclines.count
+puts '  . %3d spells to describe' % (prod.count - desclines.count)
 
 File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
 
@@ -70,9 +71,14 @@ File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
   f.puts "[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now."
 
   f.puts
-  f.puts "#{prod.count} potential spells."
+  f.puts "#{prod.count} potential spells,"
+  f.puts "#{prod.count - desclines.count} spells to describe."
 
   prod.each do |ck, fk|
+
+    nam = "#{ck} #{fk}"
+
+    next if desclines[nam]
 
     cfx = colours[ck]
     frm = forms[fk]
@@ -81,7 +87,6 @@ File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
       '1 main action, then 1 on turn action' :
       'main action'
     rng = ranges[frm[:range]]
-    nam = "#{ck} #{fk}"
     dsc = desclines[nam]
     mov = extra[fk][:move]
     plg = extra[fk][:prolong]

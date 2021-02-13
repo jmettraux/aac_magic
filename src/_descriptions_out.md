@@ -3,31 +3,8 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-90 potential spells.
-
-## Amber Arrow
-
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
-
-(Heat)
-
-
-## Amber Ball
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
-
-(Heat)
-
+90 potential spells,
+70 spells to describe.
 
 ## Amber Disk
 
@@ -86,18 +63,6 @@
 (Heat)
 
 
-## Amber Shield
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 10 ft
-* **Prolong:** 1 WP, 1 min
-
-(Heat)
-
-
 ## Amber Tunnel
 
 * **Casting Time:** main action
@@ -109,17 +74,6 @@
 * **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Heat)
-
-
-## Black Arrow
-
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
-
-(Damage)
 
 
 ## Black Ball
@@ -192,18 +146,6 @@
 (Damage)
 
 
-## Black Shield
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 10 ft
-* **Prolong:** 1 WP, 1 min
-
-(Damage)
-
-
 ## Black Tunnel
 
 * **Casting Time:** main action
@@ -237,29 +179,6 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
-
-(Cold)
-
-
-## Blue Disk
-
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Cold)
-
-
-## Blue Finger
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
 
 (Cold)
 
@@ -330,19 +249,6 @@
 * **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
-
-(Darkness)
-
-
-## Night Ball
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Darkness)
 
@@ -436,19 +342,6 @@
 * **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
-
-(Meta)
-
-
-## Quartz Ball
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Meta)
 
@@ -559,29 +452,6 @@
 (Fire)
 
 
-## Red Disk
-
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Fire)
-
-
-## Red Finger
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
-
-(Fire)
-
-
 ## Red Hand
 
 * **Casting Time:** main action
@@ -673,28 +543,6 @@
 * **Duration:** 10 min per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Drain)
-
-
-## Scarlet Finger
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
-
-(Drain)
-
-
-## Scarlet Hand
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
 
 (Drain)
 
@@ -794,29 +642,6 @@
 (Fence)
 
 
-## Silver Hand
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
-
-(Fence)
-
-
-## Silver Hut
-
-* **Casting Time:** 1 main action, then 1 on turn action
-* **Range:** close (5 foot per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Fence)
-
-
 ## Silver Pole
 
 * **Casting Time:** main action
@@ -851,17 +676,6 @@
 * **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fence)
-
-
-## Turquoise Arrow
-
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
-
-(Healing)
 
 
 ## Turquoise Ball
@@ -904,29 +718,6 @@
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
-
-(Healing)
-
-
-## Turquoise Hut
-
-* **Casting Time:** 1 main action, then 1 on turn action
-* **Range:** close (5 foot per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Healing)
-
-
-## Turquoise Pole
-
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
 * **Diameter:** -
 * **Duration:** 1 rnd
 * **Prolong:** 1 WP, 1 rnd
@@ -1025,29 +816,6 @@
 * **Duration:** 1 min per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Light)
-
-
-## White Pole
-
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
-
-(Light)
-
-
-## White Shield
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 10 ft
-* **Prolong:** 1 WP, 1 min
 
 (Light)
 
