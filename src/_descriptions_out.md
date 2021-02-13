@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 90 potential spells,
-70 spells to describe.
+69 spells to describe.
 
 ## Amber Disk
 
@@ -787,17 +787,6 @@
 
 
 ## White Finger
-
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
-
-(Light)
-
-
-## White Hand
 
 * **Casting Time:** main action
 * **Range:** touch (touch)

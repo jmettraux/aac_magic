@@ -151,6 +151,15 @@ All the creatures touched by the pole gain 1d3 + skill HPs.
 The pole does stabilize a Mortally Wounded creature.
 
 
+## White Hand
+
+The weaver shows their hand and the white thread they've just weaved flashes in their palm.
+
+Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 AC to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful evasion roll.
+
+Cannot prolong.
+
+
 ## White Pole
 
 Weaves a tube of light, five feet long or less (as bright as a neon tube). The threads may be woven on a base of organic matter. Some weavers grow the tube on top of their naked heads.
