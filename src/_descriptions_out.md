@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 90 potential spells,
-69 spells to describe.
+68 spells to describe.
 
 ## Amber Disk
 
@@ -509,17 +509,6 @@
 * **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Fire)
-
-
-## Scarlet Arrow
-
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
-
-(Drain)
 
 
 ## Scarlet Ball

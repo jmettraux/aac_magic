@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-21 spells.
+22 spells.
 
 
 ## Amber Arrow
@@ -16,7 +16,7 @@
 
 Fires a heat arrow at a single target.
 
-1d3 damage unless the target succeeds at a Physical save.
+1d3 + Magic skill level damage unless the target succeeds at a Physical save.
 
 Can be used to put a easily flammable object in fire.
 
@@ -175,6 +175,21 @@ Also known as the weaver lighter.
 Read threads emit a flame at the point of the weaver's finger.
 
 Once the weavery stops, the threads dissolve, the heat disperses.
+
+
+## Scarlet Arrow
+
+* **Casting Time:** main action
+* **Range:** long (80 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd per WP
+* **Speed:** 80 ft per WP
+
+The scarlet thread arrow fires from the weaver's hand, it goes through its target and takes 1d8 + skill HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
+
+Should the arrow fall into water, it dissolves twice faster.
+
+Remember only the caster sees their own thread, but should a weaver pick up the arrow, it may absorb the collected WPs if it succeeds a difficulty 6 Magic skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the WPs are lost, if the skill check fails with a double 1, the weaver incurs 1 HP damage.
 
 
 ## Scarlet Finger
