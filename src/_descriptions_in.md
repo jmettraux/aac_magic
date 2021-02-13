@@ -171,9 +171,15 @@ Cannot prolong.
 
 ## White Pole
 
-Weaves a tube of light, five feet long or less (as bright as a neon tube). The threads may be woven on a base of organic matter. Some weavers grow the tube on top of their naked heads.
+2 feet taller than its weaver, the pole gathers light at one tip transmitting it to the other tip.
 
-As an instant action, the weaver may extend the "lifetime" of the pole for 1 round by paying 1 WP.
+Can be used as a sort of periscope, to look unnoticed through straw or foliage. Remember the pole is invisible to most creatures.
+
+A weaver with Magic-1 or better may control the flow of light turning the pole into a microsope or a telescope.
+
+The weaver may consume 1 WP to bend the pole, bow-like, but it won't turn into an endoscope.
+
+Can be prolonged for free with a main action and a successful difficulty 6 skill check, same attribute modifier as used when weaving.
 
 
 ## White Shield

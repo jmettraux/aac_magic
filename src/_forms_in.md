@@ -98,8 +98,3 @@ They are sometimes called lenses or vertical disks, they are as wide as a circul
 
 TODO
 
-
-### Well
-
-TODO
-
