@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-100 potential spells.
+90 potential spells.
 
 ## Amber Arrow
 
@@ -99,19 +99,6 @@
 
 
 ## Amber Tunnel
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Heat)
-
-
-## Amber Well
 
 * **Casting Time:** main action
 * **Range:** close (5 foot per WP)
@@ -220,19 +207,6 @@
 ## Black Tunnel
 
 * **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Damage)
-
-
-## Black Well
-
-* **Casting Time:** main action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -337,19 +311,6 @@
 
 
 ## Blue Tunnel
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Cold)
-
-
-## Blue Well
 
 * **Casting Time:** main action
 * **Range:** close (5 foot per WP)
@@ -458,19 +419,6 @@
 ## Night Tunnel
 
 * **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Darkness)
-
-
-## Night Well
-
-* **Casting Time:** main action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -575,19 +523,6 @@
 
 
 ## Quartz Tunnel
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Meta)
-
-
-## Quartz Well
 
 * **Casting Time:** main action
 * **Range:** close (5 foot per WP)
@@ -696,19 +631,6 @@
 ## Red Tunnel
 
 * **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Fire)
-
-
-## Red Well
-
-* **Casting Time:** main action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -813,19 +735,6 @@
 
 
 ## Scarlet Tunnel
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Drain)
-
-
-## Scarlet Well
 
 * **Casting Time:** main action
 * **Range:** close (5 foot per WP)
@@ -934,19 +843,6 @@
 ## Silver Tunnel
 
 * **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Fence)
-
-
-## Silver Well
-
-* **Casting Time:** main action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -1053,19 +949,6 @@
 ## Turquoise Tunnel
 
 * **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Healing)
-
-
-## Turquoise Well
-
-* **Casting Time:** main action
 * **Range:** close (5 foot per WP)
 * **Diameter:** 5 ft per WP
 * **Duration:** 1 min per WP
@@ -1170,19 +1053,6 @@
 
 
 ## White Tunnel
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Speed:** 80 ft per WP
-* **Move:** no
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
-
-(Light)
-
-
-## White Well
 
 * **Casting Time:** main action
 * **Range:** close (5 foot per WP)

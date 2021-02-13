@@ -13,10 +13,11 @@ ma: main action, ota: on turn action, ia: instant action
 | Hut    | ma+ota | 5 ft per WP  | close  | 1 min per WP  | 0               |
 | Pole   | ma     | -            | short  | 1 rnd         | 0               |
 | Shield | ma     | broad shield | touch  | 1 min per WP  | 0               |
-| Tunnel | ma     | 5 ft per WP  | medium | 1 min per WP  | 80 ft per WP    |
-| Well   | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
+| Tunnel | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
 
 | Flail  | -             | short  | 1 rnd         | 80 ft per WP    |
+| Well   | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
+| Well   | no          | within (level * 10ft), 1 WP, 1 min |
 
 | range   |                |
 |---------|----------------|
@@ -37,7 +38,6 @@ ma: main action, ota: on turn action, ia: instant action
 | Pole   | -           | 1 WP, 1 rnd                        |
 | Shield | 1 WP, 10 ft | 1 WP, 1 min                        |
 | Tunnel | no          | within (level * 10ft), 1 WP, 1 min |
-| Well   | no          | within (level * 10ft), 1 WP, 1 min |
 
 Move requires an on turn action. Prolong requires an instant action.
 
