@@ -15,11 +15,6 @@ Some people are not very good at boiling water, it seems they never did it. Mayb
 
 ## Amber Shield
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
-
 The heat lens. Creatures attempting to cross the shield take 1d6 damage + weaver skill level.
 
 Hot air waves distort light, so the shield is somehow discernable.
@@ -133,6 +128,17 @@ The hut has (1d8 + weaver magic skill) * WP hit points. As long as the hut has H
 By paying 1 WP (and an instant action), the weaver adds (1d8 + weaver magic skill) HPs to the hut.
 
 
+## Turquoise Arrow
+
+* **Casting Time:** main action
+* **Range:** long (80 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd per WP
+* **Speed:** 80 ft per WP
+
+Works from 15 feet on only. Gives 1d3 + skill HP to the target. Does not stabilize a Mortally Wounded creature.
+
+
 ## Turquoise Hut
 
 Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP after 10 minutes of rest).
@@ -142,7 +148,7 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 
 All the creatures touched by the pole gain 1d3 + skill HPs.
 
-The pole does stabilize a Mortally Wounded Creature.
+The pole does stabilize a Mortally Wounded creature.
 
 
 ## White Pole

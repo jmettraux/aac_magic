@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-19 spells.
+20 spells.
 
 
 ## Amber Arrow
@@ -236,6 +236,17 @@ The hut has (1d8 + weaver magic skill) * WP hit points. As long as the hut has H
 By paying 1 WP (and an instant action), the weaver adds (1d8 + weaver magic skill) HPs to the hut.
 
 
+## Turquoise Arrow
+
+* **Casting Time:** main action
+* **Range:** long (80 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd per WP
+* **Speed:** 80 ft per WP
+
+Works from 15 feet on only. Gives 1d3 + skill HP to the target. Does not stabilize a Mortally Wounded creature.
+
+
 ## Turquoise Hut
 
 * **Casting Time:** 1 main action, then 1 on turn action
@@ -258,7 +269,7 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 
 All the creatures touched by the pole gain 1d3 + skill HPs.
 
-The pole does stabilize a Mortally Wounded Creature.
+The pole does stabilize a Mortally Wounded creature.
 
 
 ## White Pole
