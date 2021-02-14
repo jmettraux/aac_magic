@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-23 spells.
+24 spells.
 
 
 ## Amber Arrow
@@ -146,6 +146,19 @@ A reveal ball, within its radius, a thread outlines threads left by other caster
 By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
+
+
+## Quartz Pole
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Prolong:** 1 WP, 1 rnd
+
+The pole is woven in the caster's hands, it can be used to probe for threads. It feels like holding a bamboo pole.
+
+By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 
 ## Red Disk

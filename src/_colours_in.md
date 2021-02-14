@@ -39,9 +39,15 @@ Whatever : Luck
 
 FIXME All the forms are invisible, except when woven with black threads or white threads. Red threads are involved with combustion, their flame might be visible. Amber threads produced heat might heat air and the result waves might distort light, making the result of amber threads somehow discernable. Night threads absorb light, they look like darkness, they are thus visible (except in darkness).
 
+
 ### Amber
 
 Boiling temperature. Some weavers may invest WPs to reach higher temperatures.
+
+
+### Quartz
+
+By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 
 ### Red
