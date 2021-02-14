@@ -6,3 +6,8 @@ generate:
 	wc src/spells.md
 	@echo
 
+stats:
+	@echo
+	ruby src/_stats.rb
+	@echo
+
