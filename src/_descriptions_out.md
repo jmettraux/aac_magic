@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 90 potential spells,
-68 spells to describe.
+67 spells to describe.
 
 ## Amber Disk
 
@@ -591,19 +591,6 @@
 * **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
-
-(Fence)
-
-
-## Silver Ball
-
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
 
 (Fence)
 

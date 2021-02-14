@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-22 spells.
+23 spells.
 
 
 ## Amber Arrow
@@ -220,6 +220,23 @@ The target suffers 1d6 + skill damage which are turned to WPs and added to the w
 (Remember that weaving requires at least 1 WP, so the in the worst case, the weaver might gain 1 - 1 WPs and the target might lose 1 HP).
 
 
+## Silver Ball
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 1 rnd per WP
+* **Speed:** 30 ft per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+
+The weaver throws a ball that pushes anything in its way. Direct damage is not dealt, but shields and spears are pushed aside and the ball does not yield.
+
+Getting stuck between a silver ball and a thick wall might hurt.
+
+Remember, may not be prolonged if out of prolongation reach.
+
+
 ## Silver Hand
 
 * **Casting Time:** main action
@@ -310,9 +327,15 @@ Cannot prolong.
 * **Duration:** 1 rnd
 * **Prolong:** 1 WP, 1 rnd
 
-Weaves a tube of light, five feet long or less (as bright as a neon tube). The threads may be woven on a base of organic matter. Some weavers grow the tube on top of their naked heads.
+2 feet taller than its weaver, the pole gathers light at one tip transmitting it to the other tip.
 
-As an instant action, the weaver may extend the "lifetime" of the pole for 1 round by paying 1 WP.
+Can be used as a sort of periscope, to look unnoticed through straw or foliage. Remember the pole is invisible to most creatures.
+
+A weaver with Magic-1 or better may control the flow of light turning the pole into a microsope or a telescope.
+
+The weaver may consume 1 WP to bend the pole, bow-like, but it won't turn into an endoscope.
+
+Can be prolonged for free with a main action and a successful difficulty 6 skill check, same attribute modifier as used when weaving.
 
 
 ## White Shield

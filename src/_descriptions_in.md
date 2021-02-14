@@ -119,6 +119,15 @@ The target suffers 1d6 + skill damage which are turned to WPs and added to the w
 (Remember that weaving requires at least 1 WP, so the in the worst case, the weaver might gain 1 - 1 WPs and the target might lose 1 HP).
 
 
+## Silver Ball
+
+The weaver throws a ball that pushes anything in its way. Direct damage is not dealt, but shields and spears are pushed aside and the ball does not yield.
+
+Getting stuck between a silver ball and a thick wall might hurt.
+
+Remember, may not be prolonged if out of prolongation reach.
+
+
 ## Silver Hand
 
 The hand of the weaver leaves a trace of fence thread mid-air. It blocks anything except for threads.
