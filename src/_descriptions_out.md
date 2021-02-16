@@ -3,8 +3,8 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-90 potential spells,
-66 spells to describe.
+100 potential spells,
+76 spells to describe.
 
 ## Amber Disk
 
@@ -25,6 +25,17 @@
 * **Diameter:** -
 * **Duration:** 1 rnd
 * **Prolong:** 1 WP, 1 rnd
+
+(Heat)
+
+
+## Amber Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
 
 (Heat)
 
@@ -112,6 +123,17 @@
 (Damage)
 
 
+## Black Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
+
+(Damage)
+
+
 ## Black Hand
 
 * **Casting Time:** main action
@@ -179,6 +201,17 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+
+(Cold)
+
+
+## Blue Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
 
 (Cold)
 
@@ -276,6 +309,17 @@
 (Darkness)
 
 
+## Night Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
+
+(Darkness)
+
+
 ## Night Hand
 
 * **Casting Time:** main action
@@ -369,6 +413,17 @@
 (Meta)
 
 
+## Quartz Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
+
+(Meta)
+
+
 ## Quartz Hand
 
 * **Casting Time:** main action
@@ -437,6 +492,17 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+
+(Fire)
+
+
+## Red Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
 
 (Fire)
 
@@ -525,6 +591,17 @@
 (Drain)
 
 
+## Scarlet Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
+
+(Drain)
+
+
 ## Scarlet Hut
 
 * **Casting Time:** 1 main action, then 1 on turn action
@@ -607,6 +684,17 @@
 (Fence)
 
 
+## Silver Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
+
+(Fence)
+
+
 ## Silver Pole
 
 * **Casting Time:** main action
@@ -675,6 +763,17 @@
 * **Diameter:** -
 * **Duration:** 1 rnd
 * **Prolong:** 1 WP, 1 rnd
+
+(Healing)
+
+
+## Turquoise Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
 
 (Healing)
 
@@ -758,6 +857,17 @@
 * **Diameter:** -
 * **Duration:** 1 rnd
 * **Prolong:** 1 WP, 1 rnd
+
+(Light)
+
+
+## White Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
 
 (Light)
 

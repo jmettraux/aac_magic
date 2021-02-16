@@ -9,13 +9,13 @@ ma: main action, ota: on turn action, ia: instant action
 | Ball   | ma     | 1 ft per WP  | medium | 1 rnd per WP  | 30 ft per WP    |
 | Disk   | ma     | 5 ft per WP  | short  | 10 min per WP | 0               |
 | Finger | ma     | -            | touch  | 1 rnd         | 0               |
+| Flail  | ma     | -            | short  | 1 rnd         | 80 ft per WP    |
 | Hand   | ma     | -            | touch  | 1 rnd         | 0               |
 | Hut    | ma+ota | 5 ft per WP  | close  | 1 min per WP  | 0               |
 | Pole   | ma     | -            | short  | 1 rnd         | 0               |
 | Shield | ma     | broad shield | touch  | 1 min per WP  | 0               |
 | Tunnel | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
 
-| Flail  | -             | short  | 1 rnd         | 80 ft per WP    |
 | Well   | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
 | Well   | no          | within (level * 10ft), 1 WP, 1 min |
 
@@ -33,6 +33,7 @@ ma: main action, ota: on turn action, ia: instant action
 | Ball   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 rnd |
 | Disk   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
 | Finger | -           | 1 WP, 1 rnd                        |
+| Flail  | -           | -                                  |
 | Hand   | -           | 1 WP, 1 rnd                        |
 | Hut    | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
 | Pole   | -           | 1 WP, 1 rnd                        |
@@ -70,6 +71,11 @@ Similar to a shield, but horizontal.
 ### Finger
 
 TODO should finger and hand forms be instant actions? On turn actions?
+
+
+### Flail
+
+The weaver places his hand next to his ear, weaves the flail and then "deploys" it, reaching the max length/reach of the flail.
 
 
 ### Hand
