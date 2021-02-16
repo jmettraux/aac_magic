@@ -10,12 +10,16 @@ Can be used to put a easily flammable object in fire.
 
 ## Amber Ball
 
+The weaver stove.
+
 Some people are not very good at boiling water, it seems they never did it. Maybe their servant does it for them, maybe they are weavers and they use the Amber Ball to boil water.
 
 
 ## Amber Shield
 
-The heat lens. Creatures attempting to cross the shield take 1d6 damage + weaver skill level.
+Intense heat lens.
+
+Creatures attempting to cross the shield take 1d6 damage + weaver skill level.
 
 Hot air waves distort light, so the shield is somehow discernable.
 
@@ -37,6 +41,8 @@ Skill is the Magic skill level.
 
 ## Black Shield
 
+A lens of pain, inflicting damage upon traversal.
+
 A shield of pain with (1d6 + skill) * WP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
 As a main action, the weaver of the black shield, may consume WPs to "mend" the shield, again (1d6 + skill) * WP.
@@ -44,12 +50,16 @@ As a main action, the weaver of the black shield, may consume WPs to "mend" the 
 
 ## Blue Disk
 
+A disk of active cold / ice on the floor.
+
 Weaves cold threads into a disk that lays on the floor. In a dry place, the disk is invisible, in a humid place, ice forms and is visible.
 
 Depending on the context, a creature might slide on the disk and fall. A wet hairy creature might get stuck to the disk, especially if the surface below the disk has some relief.
 
 
 ## Blue Finger
+
+Damage dealing cold finger.
 
 Threads generating cold are woven around the index finger of the weaver. The weaver is not affected negatively by the cold.
 
@@ -71,6 +81,8 @@ More static uses of the ball are common, to simply prevent light/vision from cro
 
 ## Quartz Ball
 
+Magic revealing floating ball.
+
 A reveal ball, within its radius, a thread outlines threads left by other casters. The colours of those threads is revealed. Only the threads within the radius of the ball are outlined by the quartz thread.
 
 By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
@@ -80,6 +92,8 @@ The ball might be quite smaller than the form of the thread it reveals. Blind ma
 
 ## Quartz Flail
 
+Thread breaking thread flail.
+
 Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the WP against an INT / Magic skill roll for the original caster (GM, please use 13 by default).
 
 The flail only collides once.
@@ -88,6 +102,8 @@ An unlucky weaver might flail uselessly at nothing, wasting WPs.
 
 
 ## Quartz Pole
+
+Thread probing pole.
 
 The pole is woven in the caster's hands, it can be used to probe for threads. It feels like holding a bamboo pole.
 
@@ -112,6 +128,8 @@ Once the weavery stops, the threads dissolve, the heat disperses.
 
 ## Scarlet Arrow
 
+Hit point draining arrows, can be harvested if recovered.
+
 The scarlet thread arrow fires from the weaver's hand, it goes through its target and takes 1d8 + skill HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
 
 Should the arrow fall into water, it dissolves twice faster.
@@ -121,12 +139,16 @@ Remember only the caster sees their own thread, but should a weaver pick up the 
 
 ## Scarlet Finger
 
+Hit point draining finger.
+
 The weaver drops the tip of their finger on a victim's skin or fur and drains (1 + skill + attribute modifier) HPs. Those HPs are turned into WPs for the weaver. The attribute modifier is the one for the attribute used for casting (INT, WIS, or CHA).
 
 The GM grants a saving throw to the victim or not.
 
 
 ## Scarlet Hand
+
+Hit point draining out of wounds.
 
 The weaver lays their hand on the wound of a living target and weave threads that drain the the wounded of some of their hit points.
 
@@ -137,6 +159,8 @@ The target suffers 1d6 + skill damage which are turned to WPs and added to the w
 
 ## Silver Ball
 
+Bowling silver ball.
+
 The weaver throws a ball that pushes anything in its way. Direct damage is not dealt, but shields and spears are pushed aside and the ball does not yield.
 
 Getting stuck between a silver ball and a thick wall might hurt.
@@ -145,6 +169,8 @@ Remember, may not be prolonged if out of prolongation reach.
 
 
 ## Silver Hand
+
+Weaver duck tape.
 
 The hand of the weaver leaves a trace of fence thread mid-air. It blocks anything except for threads.
 
@@ -164,16 +190,14 @@ By paying 1 WP (and an instant action), the weaver adds (1d8 + weaver magic skil
 
 ## Turquoise Arrow
 
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
+Healing arrow.
 
 Works from 15 feet on only. Gives 1d3 + skill HP to the target. Does not stabilize a Mortally Wounded creature.
 
 
 ## Turquoise Hut
+
+Stabilization hut.
 
 Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP after 10 minutes of rest).
 
@@ -187,6 +211,8 @@ The pole does stabilize a Mortally Wounded creature.
 
 ## White Hand
 
+Flashing hand.
+
 The weaver shows their hand and the white thread they've just weaved flashes in their palm.
 
 Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 AC to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful evasion roll.
@@ -195,6 +221,8 @@ Cannot prolong.
 
 
 ## White Pole
+
+Weaver scope.
 
 2 feet taller than its weaver, the pole gathers light at one tip transmitting it to the other tip.
 
@@ -208,6 +236,8 @@ Can be prolonged for free with a main action and a successful difficulty 6 skill
 
 
 ## White Shield
+
+Image alteration shield.
 
 This shield is sometimes called the "past window". The image seen through it is the same as the image that passed at the moment it was weaved. It can thus be used for some invisibility trick. The problem is that it works both ways, the other side looks like what it was at weaving time and vice versa. You can move behind the shield, but looking through it won't tell you much about the current situation there.
 

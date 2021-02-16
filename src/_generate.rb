@@ -13,7 +13,7 @@ colours =
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
     .inject({}) { |h, (k, v)| h[k] = v; h }
 #pp colours
-puts ".%3d colours:  %s" % [ colours.count, colours.keys.join(',') ]
+puts ". %3d colours: %s" % [ colours.count, colours.keys.join(',') ]
 
 forms =
   File.readlines(File.join(__dir__, '_forms_in.md'))
@@ -24,10 +24,10 @@ forms =
       h[k] = { ct: ct, diameter: dia, range: rng, duration: dur, speed: spd }
       h }
 #pp forms
-puts ".%3d forms:    %s" % [ forms.count, forms.keys.join(',') ]
+puts ". %3d forms:   %s" % [ forms.count, forms.keys.join(',') ]
 
 prod = colours.keys.product(forms.keys)
-puts ".%3d potential spells" % prod.count
+puts ". %3d potential spells" % prod.count
 
 ranges =
   File.readlines(File.join(__dir__, '_forms_in.md'))
@@ -62,8 +62,8 @@ desclines =
       h[a[0]] = aa unless aa.length == 1 && aa[0].match?(/^\(.+\)\n$/)
       h }
 #pp desclines
-puts '.%3d spells described' % desclines.count
-puts '.%3d spells to describe' % (prod.count - desclines.count)
+puts '. %3d spells described' % desclines.count
+puts '. %3d spells to describe' % (prod.count - desclines.count)
 
 
 File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
