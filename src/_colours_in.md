@@ -34,6 +34,8 @@ DEX + INT : Evasion
 WIS + CHA : Mental
 Whatever : Luck
 
+Idea: have Red > Night > White > ... > Red to play like Scissor > Leaf > Stone > Scissor games...
+
 
 ## colour specifics
 
@@ -45,6 +47,21 @@ FIXME All the forms are invisible, except when woven with black threads or white
 Boiling temperature. Some weavers may invest WPs to reach higher temperatures.
 
 
+### Black
+
+TODO
+
+
+### Blue
+
+TODO
+
+
+### Night
+
+TODO
+
+
 ### Quartz
 
 By consuming 1 extra WP, all the threads (quartz and others) are revealed to other weavers. Non weavers must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
@@ -53,4 +70,23 @@ By consuming 1 extra WP, all the threads (quartz and others) are revealed to oth
 ### Red
 
 Fire, combustion. Weaver in dark ages England don't know what oxygen is, but they noticed that red threads didn't emit fire when cast in suffocating places. Some weavers call flame "blacksmith breath" (or "redsmith breath").
+
+### Scarlet
+
+TODO
+
+
+### Silver
+
+TODO
+
+
+### Turquoise
+
+TODO
+
+
+### White
+
+TODO
 
