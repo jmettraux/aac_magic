@@ -79,6 +79,15 @@ Can be thrown at a creature to blind it (provided it has eyes, uses them, and th
 More static uses of the ball are common, to simply prevent light/vision from crossing the ball radius.
 
 
+## Night Hut
+
+Chamber of obscurity, no light comes in or out.
+
+Loose night threads woven in the form of a hut absorb light. Anything goes though except light.
+
+(It's practical for weaver who do film photography).
+
+
 ## Quartz Ball
 
 Magic revealing floating ball.

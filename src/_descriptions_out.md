@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 100 potential spells,
-75 spells to describe.
+74 spells to describe.
 
 ## Amber Disk
 
@@ -327,18 +327,6 @@
 * **Diameter:** -
 * **Duration:** 1 rnd
 * **Prolong:** 1 WP, 1 rnd
-
-(Darkness)
-
-
-## Night Hut
-
-* **Casting Time:** 1 main action, then 1 on turn action
-* **Range:** close (5 foot per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Darkness)
 

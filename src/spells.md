@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-25 spells.
+26 spells.
 
 
 ## Amber Arrow
@@ -139,6 +139,22 @@ A ball of light absorbing threads.
 Can be thrown at a creature to blind it (provided it has eyes, uses them, and they fit in the radius of the ball). If the weaving succeeds, the weaver has to succeed a DC 6 DEX/Shoot skill check to "place" the ball.
 
 More static uses of the ball are common, to simply prevent light/vision from crossing the ball radius.
+
+
+## Night Hut
+
+* **Casting Time:** 1 main action, then 1 on turn action
+* **Range:** close (5 foot per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 1 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+Chamber of obscurity, no light comes in or out.
+
+Loose night threads woven in the form of a hut absorb light. Anything goes though except light.
+
+(It's practical for weaver who do film photography).
 
 
 ## Quartz Ball
