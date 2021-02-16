@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 100 potential spells,
-74 spells to describe.
+73 spells to describe.
 
 ## Amber Disk
 
@@ -119,17 +119,6 @@
 * **Diameter:** -
 * **Duration:** 1 rnd
 * **Prolong:** 1 WP, 1 rnd
-
-(Damage)
-
-
-## Black Flail
-
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Speed:** 80 ft per WP
 
 (Damage)
 

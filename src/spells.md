@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-26 spells.
+27 spells.
 
 
 ## Amber Arrow
@@ -71,6 +71,25 @@ Fires an arrow of weaving pain at a single target.
 | >3 | 1d8 + skill |
 
 Skill is the Magic skill level.
+
+The arrow is invisible and may avoid allies and non-targets in a complex and curved flight.
+
+Silver threads do stop the black arrow.
+
+
+## Black Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
+
+Flail of magical pain.
+
+Inflicts 1d6 + skill damage points. There must a direct way between the weaver and their target.
+
+Silver threads do stop the black flail.
 
 
 ## Black Shield
