@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-27 spells.
+28 spells.
 
 
 ## Amber Arrow
@@ -158,6 +158,25 @@ A ball of light absorbing threads.
 Can be thrown at a creature to blind it (provided it has eyes, uses them, and they fit in the radius of the ball). If the weaving succeeds, the weaver has to succeed a DC 6 DEX/Shoot skill check to "place" the ball.
 
 More static uses of the ball are common, to simply prevent light/vision from crossing the ball radius.
+
+
+## Night Disk
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+A disk of darkness hiding what is below or behind it.
+
+Some people weave it in dark places to hide traps and trenches. Some weavers place its threads over nothing, just to scare already scared foes.
+
+It just looks like a pool of darkness.
 
 
 ## Night Hut

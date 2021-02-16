@@ -92,6 +92,22 @@ Can be thrown at a creature to blind it (provided it has eyes, uses them, and th
 More static uses of the ball are common, to simply prevent light/vision from crossing the ball radius.
 
 
+## Night Disk
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** 5 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+A disk of darkness hiding what is below or behind it.
+
+Some people weave it in dark places to hide traps and trenches. Some weavers place its threads over nothing, just to scare already scared foes.
+
+It just looks like a pool of darkness.
+
+
 ## Night Hut
 
 Chamber of obscurity, no light comes in or out.

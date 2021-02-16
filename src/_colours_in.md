@@ -36,6 +36,8 @@ Whatever : Luck
 
 Idea: have Red > Night > White > ... > Red to play like Scissor > Leaf > Stone > Scissor games...
 
+_Silver > Black_ silver fences block black attacks.
+
 
 ## colour specifics
 
@@ -70,6 +72,7 @@ By consuming 1 extra WP, all the threads (quartz and others) are revealed to oth
 ### Red
 
 Fire, combustion. Weaver in dark ages England don't know what oxygen is, but they noticed that red threads didn't emit fire when cast in suffocating places. Some weavers call flame "blacksmith breath" (or "redsmith breath").
+
 
 ### Scarlet
 
