@@ -78,6 +78,15 @@ By consuming 1 extra WP, all the threads (quartz and others) are revealed to oth
 The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
 
 
+## Quartz Flail
+
+Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the WP against an INT / Magic skill roll for the original caster (GM, please use 13 by default).
+
+The flail only collides once.
+
+An unlucky weaver might flail uselessly at nothing, wasting WPs.
+
+
 ## Quartz Pole
 
 The pole is woven in the caster's hands, it can be used to probe for threads. It feels like holding a bamboo pole.
