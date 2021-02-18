@@ -5,6 +5,15 @@ lines = File.readlines('src/_descriptions_in.md')
   .select { |l| l.match?(/^## .+/) }
   .collect { |l| l.strip[3..-1] }
 
+colour_table =
+  File.readlines(File.join(__dir__, '_colours_in.md'))
+    .drop_while { |l| ! l.start_with?('| colour ') }
+    .take_while { |l| l.start_with?('|') }
+effects =
+  colour_table[2..-1]
+    .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
+    .inject({}) { |h, (k, v)| h[k] = v; h }
+
 colours = lines
   .inject({}) { |h, l| c, f = l.split(' '); (h[c] ||= []) << l; h }
 forms = lines
@@ -12,10 +21,11 @@ forms = lines
 
 #pp lines
 #pp colours
+#pp effects
 #pp forms
 
 colours.each do |c, a|
-  puts ". %-10s: %2d : %s" % [ c, a.count, a.join(', ') ]
+  puts ". %-10s: %8s : %2d : %s" % [ c, effects[c], a.count, a.join(', ') ]
 end
 
 puts
