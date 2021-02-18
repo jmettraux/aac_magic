@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-30 spells.
+31 spells.
 
 
 ## Amber Arrow
@@ -106,6 +106,20 @@ A lens of pain, inflicting damage upon traversal.
 A shield of pain with (1d6 + skill) * WP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
 As a main action, the weaver of the black shield, may consume WPs to "mend" the shield, again (1d6 + skill) * WP.
+
+
+## Blue Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+A ring of cold, keeping things inside cold.
+
+Applied around a creature or part of it may inflict 1d2 + skill damage per round.
 
 
 ## Blue Disk

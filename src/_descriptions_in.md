@@ -61,6 +61,13 @@ A shield of pain with (1d6 + skill) * WP "hit points". A creature attempting to 
 As a main action, the weaver of the black shield, may consume WPs to "mend" the shield, again (1d6 + skill) * WP.
 
 
+## Blue Crown
+
+A ring of cold, keeping things inside cold.
+
+Applied around a creature or part of it may inflict 1d2 + skill damage per round.
+
+
 ## Blue Disk
 
 A disk of active cold / ice on the floor.
