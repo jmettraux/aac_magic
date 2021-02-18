@@ -7,6 +7,7 @@ ma: main action, ota: on turn action, ia: instant action
 |--------|--------|--------------|--------|---------------|-----------------|
 | Arrow  | ma     | -            | long   | 1 rnd per WP  | 80 ft per WP    |
 | Ball   | ma     | 1 ft per WP  | medium | 1 rnd per WP  | 30 ft per WP    |
+| Crown  | ma     | 1 ft per WP  | medium | 10 min per WP | 0               |
 | Disk   | ma     | 5 ft per WP  | short  | 10 min per WP | 0               |
 | Finger | ma     | -            | touch  | 1 rnd         | 0               |
 | Flail  | ma     | -            | short  | 1 rnd         | 80 ft per WP    |
@@ -31,6 +32,7 @@ ma: main action, ota: on turn action, ia: instant action
 |--------|-------------|------------------------------------|
 | Arrow  | -           | -                                  |
 | Ball   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 rnd |
+| Crown  | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
 | Disk   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
 | Finger | -           | 1 WP, 1 rnd                        |
 | Flail  | -           | -                                  |
@@ -59,6 +61,11 @@ TODO
 
 
 ### Ball
+
+TODO
+
+
+### Crown
 
 TODO
 

@@ -3,8 +3,20 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-100 potential spells,
-71 spells to describe.
+110 potential spells,
+81 spells to describe.
+
+## Amber Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+(Heat)
+
 
 ## Amber Disk
 
@@ -96,6 +108,18 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+
+(Damage)
+
+
+## Black Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Damage)
 
@@ -194,6 +218,18 @@
 (Cold)
 
 
+## Blue Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+(Cold)
+
+
 ## Blue Flail
 
 * **Casting Time:** main action
@@ -275,6 +311,18 @@
 (Darkness)
 
 
+## Night Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+(Darkness)
+
+
 ## Night Finger
 
 * **Casting Time:** main action
@@ -351,6 +399,18 @@
 * **Diameter:** -
 * **Duration:** 1 rnd per WP
 * **Speed:** 80 ft per WP
+
+(Meta)
+
+
+## Quartz Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Meta)
 
@@ -450,6 +510,18 @@
 (Fire)
 
 
+## Red Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+(Fire)
+
+
 ## Red Hand
 
 * **Casting Time:** main action
@@ -518,6 +590,18 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+
+(Drain)
+
+
+## Scarlet Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Drain)
 
@@ -604,6 +688,18 @@
 (Fence)
 
 
+## Silver Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+(Fence)
+
+
 ## Silver Disk
 
 * **Casting Time:** main action
@@ -683,6 +779,18 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+
+(Healing)
+
+
+## Turquoise Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Healing)
 
@@ -777,6 +885,18 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+
+(Light)
+
+
+## White Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
 
 (Light)
 
