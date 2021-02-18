@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-29 spells.
+30 spells.
 
 
 ## Amber Arrow
@@ -360,6 +360,22 @@ The weaver throws a ball that pushes anything in its way. Direct damage is not d
 Getting stuck between a silver ball and a thick wall might hurt.
 
 Remember, may not be prolonged if out of prolongation reach.
+
+
+## Silver Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+The silver crown or the slave crown. Used by weavers to bind people.
+
+The caster weaves a ring of silver threads around something. Some pranksters like to tie the feet of two adversaries together.
+
+May also be used to to protect things from impact, but it's a crown or a donut, not a ball.
 
 
 ## Silver Hand

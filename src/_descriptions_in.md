@@ -219,6 +219,15 @@ Getting stuck between a silver ball and a thick wall might hurt.
 Remember, may not be prolonged if out of prolongation reach.
 
 
+## Silver Crown
+
+The silver crown or the slave crown. Used by weavers to bind people.
+
+The caster weaves a ring of silver threads around something. Some pranksters like to tie the feet of two adversaries together.
+
+May also be used to to protect things from impact, but it's a crown or a donut, not a ball.
+
+
 ## Silver Hand
 
 Weaver duck tape.
