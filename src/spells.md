@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-28 spells.
+29 spells.
 
 
 ## Amber Arrow
@@ -259,6 +259,8 @@ Disk of fire.
 
 When the spell ends and its fire hasn't propagated to some flammable elements, the fire ends.
 
+Inflicts 1d4 + skill per round damage points to creatures exposed to it.
+
 
 ## Red Finger
 
@@ -273,6 +275,23 @@ Also known as the weaver lighter.
 Read threads emit a flame at the point of the weaver's finger.
 
 Once the weavery stops, the threads dissolve, the heat disperses.
+
+Might deal 1 + skill damage points to a target.
+
+
+## Red Flail
+
+* **Casting Time:** main action
+* **Range:** short (10 feet per WP)
+* **Diameter:** -
+* **Duration:** 1 rnd
+* **Speed:** 80 ft per WP
+
+Flail of fire.
+
+Inflicts 1d6 + skill damage points. There must a direct way between the weaver and their target. May put the target on fire, at the GM discretion.
+
+Silver threads do stop the red flail.
 
 
 ## Scarlet Arrow

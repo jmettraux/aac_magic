@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 100 potential spells,
-72 spells to describe.
+71 spells to describe.
 
 ## Amber Disk
 
@@ -446,17 +446,6 @@
 * **Speed:** 30 ft per WP
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 rnd
-
-(Fire)
-
-
-## Red Flail
-
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Speed:** 80 ft per WP
 
 (Fire)
 
