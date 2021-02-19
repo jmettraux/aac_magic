@@ -34,3 +34,6 @@ forms.each do |f, a|
   puts ". %-7s: %2d : %s" % [ f, a.count, a.join(', ') ]
 end
 
+puts
+puts "  #{lines.count} spells"
+
