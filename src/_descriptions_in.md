@@ -276,6 +276,15 @@ All the creatures touched by the pole gain 1d3 + skill HPs.
 The pole does stabilize a Mortally Wounded creature.
 
 
+## White Crown
+
+Halo or aureola of light.
+
+A crown of light, some weavers use it to light their tables at night.
+
+By default, it is static. For 1 extra WP, it can me threaded so that it follows something (a head for example).
+
+
 ## White Hand
 
 Flashing hand.

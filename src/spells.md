@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-31 spells.
+32 spells.
 
 
 ## Amber Arrow
@@ -463,6 +463,22 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 All the creatures touched by the pole gain 1d3 + skill HPs.
 
 The pole does stabilize a Mortally Wounded creature.
+
+
+## White Crown
+
+* **Casting Time:** main action
+* **Range:** medium (30 feet per WP)
+* **Diameter:** 1 ft per WP
+* **Duration:** 10 min per WP
+* **Move:** 1 WP, 5 ft
+* **Prolong:** within (level * 10ft), 1 WP, 1 min
+
+Halo or aureola of light.
+
+A crown of light, some weavers use it to light their tables at night.
+
+By default, it is static. For 1 extra WP, it can me threaded so that it follows something (a head for example).
 
 
 ## White Hand
