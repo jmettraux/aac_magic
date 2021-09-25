@@ -99,7 +99,7 @@
 (Heat)
 
 
-## Black Ball
+## Coal Ball
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
@@ -112,7 +112,7 @@
 (Damage)
 
 
-## Black Crown
+## Coal Crown
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
@@ -124,7 +124,7 @@
 (Damage)
 
 
-## Black Disk
+## Coal Disk
 
 * **Casting Time:** main action
 * **Range:** short (10 feet per WP)
@@ -136,7 +136,7 @@
 (Damage)
 
 
-## Black Finger
+## Coal Finger
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
@@ -147,7 +147,7 @@
 (Damage)
 
 
-## Black Hand
+## Coal Hand
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
@@ -158,7 +158,7 @@
 (Damage)
 
 
-## Black Hut
+## Coal Hut
 
 * **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
@@ -170,7 +170,7 @@
 (Damage)
 
 
-## Black Pole
+## Coal Pole
 
 * **Casting Time:** main action
 * **Range:** short (10 feet per WP)
@@ -181,7 +181,7 @@
 (Damage)
 
 
-## Black Tunnel
+## Coal Tunnel
 
 * **Casting Time:** main action
 * **Range:** close (5 foot per WP)
@@ -841,7 +841,7 @@
 (Healing)
 
 
-## White Arrow
+## Gold Arrow
 
 * **Casting Time:** main action
 * **Range:** long (80 feet per WP)
@@ -852,7 +852,7 @@
 (Light)
 
 
-## White Ball
+## Gold Ball
 
 * **Casting Time:** main action
 * **Range:** medium (30 feet per WP)
@@ -865,7 +865,7 @@
 (Light)
 
 
-## White Disk
+## Gold Disk
 
 * **Casting Time:** main action
 * **Range:** short (10 feet per WP)
@@ -877,7 +877,7 @@
 (Light)
 
 
-## White Finger
+## Gold Finger
 
 * **Casting Time:** main action
 * **Range:** touch (touch)
@@ -888,7 +888,7 @@
 (Light)
 
 
-## White Flail
+## Gold Flail
 
 * **Casting Time:** main action
 * **Range:** short (10 feet per WP)
@@ -899,7 +899,7 @@
 (Light)
 
 
-## White Hut
+## Gold Hut
 
 * **Casting Time:** 1 main action, then 1 on turn action
 * **Range:** close (5 foot per WP)
@@ -911,7 +911,7 @@
 (Light)
 
 
-## White Tunnel
+## Gold Tunnel
 
 * **Casting Time:** main action
 * **Range:** close (5 foot per WP)

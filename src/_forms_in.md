@@ -50,7 +50,7 @@ As an instant action and for 1 WP, the weaver may move a shield by 10 feet insta
 
 ## form specifics
 
-All the forms are invisible, except when woven with black threads or white threads. Red threads are involved with combustion, their flame might be visible.
+All the forms are invisible, except when woven with coal threads or gold threads. Red threads are involved with combustion, their flame might be visible.
 
 TODO have traits for spells (prolongable, xable, ...) Really?
 

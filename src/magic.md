@@ -11,7 +11,7 @@ Some non-gifted people, through their friendship with a weaver know of the gift.
 
 A weaver sees the thread they weave. Non-weavers don't seem to see threads, although some might... A weaver doesn't see the threads another weaver makes, unless they use a thread-revealing spell.
 
-Colours are known to many cultures. Different spells have different thread colours. It seems that the black threads are about pain and damage for all the weavers, and that blue threads generate cold or nullify heat were they appear, these are two examples.
+Colours are known to many cultures. Different spells have different thread colours. It seems that the coal threads are about pain and damage for all the weavers, and that blue threads generate cold or nullify heat were they appear, these are two examples.
 
 Weavers seem to agree on colours, but there may be some of them with twisted perception of the colours (as written above, some are even blind to the threads).
 

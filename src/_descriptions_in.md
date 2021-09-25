@@ -26,7 +26,7 @@ Hot air waves distort light, so the shield is somehow discernable.
 Missiles and polearm ends are not stopped by the shield.
 
 
-## Black Arrow
+## Coal Arrow
 
 Fires an arrow of weaving pain at a single target.
 
@@ -40,25 +40,25 @@ Skill is the Magic skill level.
 
 The arrow is invisible and may avoid allies and non-targets in a complex and curved flight.
 
-Silver threads do stop the black arrow.
+Silver threads do stop the coal arrow.
 
 
-## Black Flail
+## Coal Flail
 
 Flail of magical pain.
 
 Inflicts 1d6 + skill damage points. There must a direct way between the weaver and their target.
 
-Silver threads do stop the black flail.
+Silver threads do stop the coal flail.
 
 
-## Black Shield
+## Coal Shield
 
 A lens of pain, inflicting damage upon traversal.
 
 A shield of pain with (1d6 + skill) * WP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
-As a main action, the weaver of the black shield, may consume WPs to "mend" the shield, again (1d6 + skill) * WP.
+As a main action, the weaver of the coal shield, may consume WPs to "mend" the shield, again (1d6 + skill) * WP.
 
 
 ## Blue Crown
@@ -276,7 +276,7 @@ All the creatures touched by the pole gain 1d3 + skill HPs.
 The pole does stabilize a Mortally Wounded creature.
 
 
-## White Crown
+## Gold Crown
 
 Halo or aureola of light.
 
@@ -285,18 +285,18 @@ A crown of light, some weavers use it to light their tables at night.
 By default, it is static. For 1 extra WP, it can me threaded so that it follows something (a head for example).
 
 
-## White Hand
+## Gold Hand
 
 Flashing hand.
 
-The weaver shows their hand and the white thread they've just weaved flashes in their palm.
+The weaver shows their hand and the gold thread they've just weaved flashes in their palm.
 
 Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 AC to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful evasion roll.
 
 Cannot prolong.
 
 
-## White Pole
+## Gold Pole
 
 Weaver scope.
 
@@ -311,7 +311,7 @@ The weaver may consume 1 WP to bend the pole, bow-like, but it won't turn into a
 Can be prolonged for free with a main action and a successful difficulty 6 skill check, same attribute modifier as used when weaving.
 
 
-## White Shield
+## Gold Shield
 
 Image alteration shield.
 
