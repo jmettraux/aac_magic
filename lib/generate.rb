@@ -5,7 +5,7 @@ require 'pp'
 puts
 
 colour_table =
-  File.readlines(File.join(__dir__, '_colours_in.md'))
+  File.readlines('src/_colours_in.md')
     .drop_while { |l| ! l.start_with?('| colour ') }
     .take_while { |l| l.start_with?('|') }
 colours =
@@ -16,7 +16,7 @@ colours =
 puts ". %3d colours: %s" % [ colours.count, colours.keys.join(',') ]
 
 forms =
-  File.readlines(File.join(__dir__, '_forms_in.md'))
+  File.readlines('src/_forms_in.md')
     .drop_while { |l| ! l.start_with?('| form ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
@@ -30,7 +30,7 @@ prod = colours.keys.product(forms.keys)
 puts ". %3d potential spells" % prod.count
 
 ranges =
-  File.readlines(File.join(__dir__, '_forms_in.md'))
+  File.readlines('src/_forms_in.md')
     .drop_while { |l| ! l.start_with?('| range ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
@@ -38,7 +38,7 @@ ranges =
 #pp ranges
 
 extra =
-  File.readlines(File.join(__dir__, '_forms_in.md'))
+  File.readlines('src/_forms_in.md')
     .drop_while { |l| ! l.start_with?('| from   | move ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
@@ -46,7 +46,7 @@ extra =
 #pp extra
 
 desclines =
-  File.readlines(File.join(__dir__, '_descriptions_in.md'))
+  File.readlines('src/_descriptions_in.md')
     .inject([]) { |a, l|
       case l
       when /^## (.+)$/
@@ -66,7 +66,7 @@ puts '. %3d spells described' % desclines.count
 puts '. %3d spells to describe' % (prod.count - desclines.count)
 
 
-File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
+File.open('src/_descriptions_out.md', 'wb') do |f|
 
   f.puts
   f.puts "# (SPELL DESCRIPTIONS)"
@@ -110,7 +110,7 @@ File.open(File.join(__dir__, '_descriptions_out.md'), 'wb') do |f|
 end
 
 
-File.open(File.join(__dir__, 'spells.md'), 'wb') do |f|
+File.open('src/spells.md', 'wb') do |f|
 
   f.puts
   f.puts "# spells"

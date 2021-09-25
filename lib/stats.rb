@@ -6,7 +6,7 @@ lines = File.readlines('src/_descriptions_in.md')
   .collect { |l| l.strip[3..-1] }
 
 colour_table =
-  File.readlines(File.join(__dir__, '_colours_in.md'))
+  File.readlines('src/_colours_in.md')
     .drop_while { |l| ! l.start_with?('| colour ') }
     .take_while { |l| l.start_with?('|') }
 effects =
