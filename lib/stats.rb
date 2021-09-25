@@ -25,12 +25,14 @@ forms = lines
 #pp forms
 
 colours.each do |c, a|
+  a = a.collect { |n| "#{c[0, 1]} #{n.split.last}" }
   puts ". %-10s: %8s : %2d : %s" % [ c, effects[c], a.count, a.join(', ') ]
 end
 
 puts
 
 forms.each do |f, a|
+  a = a.collect { |n| "#{n.split.first} #{f[0, 1]}" }
   puts ". %-7s: %2d : %s" % [ f, a.count, a.join(', ') ]
 end
 
