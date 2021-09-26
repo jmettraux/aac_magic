@@ -100,11 +100,29 @@ File.open('src/_descriptions_out.md', 'wb') do |f|
   end
 end
 
+KEYS = {
+  casting_time: 'Casting Time',
+  range: 'Range',
+  diameter: 'Diameter',
+  duration: 'Duration',
+  speed: 'Speed',
+  move: 'Move',
+  prolong: 'Prolong' }
+COMPACT_KEYS = {
+  casting_time: 'Cst',
+  range: 'Rng',
+  diameter: 'Dia',
+  duration: 'Dur',
+  speed: 'Spd',
+  move: 'Mov',
+  prolong: 'Prol' }
 
 def write_spells(opts)
 
   cpt = opts[:compact]
   div = opts[:div]
+
+  ks = cpt ? COMPACT_KEYS : KEYS
 
   File.open("src/#{opts[:fname]}", 'wb') do |f|
 
@@ -140,17 +158,13 @@ def write_spells(opts)
       f.puts "<!-- <div.spell> -->" if div
       f.puts "\n## #{nam}"
       f.puts
-      if cpt
-        f.puts "* **Cst Time** #{cst}"
-      else
-        f.puts "* **Casting Time** #{cst}"
-      end
-      f.puts "* **Range** #{frm[:range]}"
-      f.puts "* **Diameter** #{dia}" if cpt != true || dia != '-'
-      f.puts "* **Duration** #{frm[:duration]}"
-      f.puts "* **Speed** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
-      f.puts "* **Move** #{mov}" if mov != '-'
-      f.puts "* **Prolong** #{plg}" if plg != '-'
+      f.puts "* **#{ks[:casting_time]}** #{cst}"
+      f.puts "* **#{ks[:range]}** #{frm[:range]}"
+      f.puts "* **#{ks[:diameter]}** #{dia}" if cpt != true || dia != '-'
+      f.puts "* **#{ks[:duration]}** #{frm[:duration]}"
+      f.puts "* **#{ks[:speed]}** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+      f.puts "* **#{ks[:move]}** #{mov}" if mov != '-'
+      f.puts "* **#{ks[:prolong]}** #{plg}" if plg != '-'
       f.puts
       f.puts dsc.join('')
       f.puts "\n<!-- </div> -->" if div

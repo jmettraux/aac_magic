@@ -177,9 +177,6 @@ More static uses of the ball are common, to simply prevent light/vision from cro
 * **Move** 1 CP/5ft
 * **Prolong** w/i (lvl * 10ft), 1 CP/min
 
-* **Move:** 1 CP / 5ft
-* **Prolong:** w/i (level * 10ft), 1 CP/min
-
 A disk of darkness hiding what is below or behind it.
 
 Some people weave it in dark places to hide traps and trenches. Some casters place its threads over nothing, just to scare already scared foes.
