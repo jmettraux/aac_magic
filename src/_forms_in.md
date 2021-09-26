@@ -26,19 +26,19 @@ Casting costs a Main Action.
 | Well   |      | within (level * 10ft), 1 WP, 1 min |
 -->
 
-| from   | move        | prolong                            |
-|--------|-------------|------------------------------------|
-| Arrow  | -           | -                                  |
-| Ball   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 rnd |
-| Crown  | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
-| Disk   | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
-| Finger | -           | 1 WP, 1 rnd                        |
-| Flail  | -           | -                                  |
-| Hand   | -           | 1 WP, 1 rnd                        |
-| Hut    | 1 WP, 5 ft  | within (level * 10ft), 1 WP, 1 min |
-| Pole   | -           | 1 WP, 1 rnd                        |
-| Shield | 1 WP, 10 ft | 1 WP, 1 min                        |
-| Tunnel | no          | within (level * 10ft), 1 WP, 1 min |
+| from   | move      | prolong                    |
+|--------|-----------|----------------------------|
+| Arrow  | -         | -                          |
+| Ball   | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/rnd |
+| Crown  | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/min |
+| Disk   | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/min |
+| Finger | -         | 1 CP/rnd                   |
+| Flail  | -         | -                          |
+| Hand   | -         | 1 CP/rnd                   |
+| Hut    | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/min |
+| Pole   | -         | 1 CP/rnd                   |
+| Shield | 1 CP/10ft | 1 CP/min                   |
+| Tunnel | no        | w/i (lvl * 10ft), 1 CP/min |
 
 Move requires an on turn action. Prolong requires an instant action.
 

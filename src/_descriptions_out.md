@@ -12,8 +12,8 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Heat)
 
@@ -24,8 +24,8 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Heat)
 
@@ -36,7 +36,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Heat)
 
@@ -58,7 +58,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Heat)
 
@@ -69,8 +69,8 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Heat)
 
@@ -81,7 +81,7 @@
 * **Range** S 10ft/CP
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Heat)
 
@@ -94,7 +94,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Heat)
 
@@ -106,8 +106,8 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 rnd
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
 
 (Damage)
 
@@ -118,8 +118,8 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Damage)
 
@@ -130,8 +130,8 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Damage)
 
@@ -142,7 +142,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Damage)
 
@@ -153,7 +153,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Damage)
 
@@ -164,8 +164,8 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Damage)
 
@@ -176,7 +176,7 @@
 * **Range** S 10ft/CP
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Damage)
 
@@ -189,7 +189,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Damage)
 
@@ -212,8 +212,8 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 rnd
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
 
 (Cold)
 
@@ -235,7 +235,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Cold)
 
@@ -246,8 +246,8 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Cold)
 
@@ -258,7 +258,7 @@
 * **Range** S 10ft/CP
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Cold)
 
@@ -269,8 +269,8 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Move** 1 WP, 10 ft
-* **Prolong** 1 WP, 1 min
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
 
 (Cold)
 
@@ -283,7 +283,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Cold)
 
@@ -305,8 +305,8 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Darkness)
 
@@ -317,7 +317,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Darkness)
 
@@ -339,7 +339,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Darkness)
 
@@ -350,7 +350,7 @@
 * **Range** S 10ft/CP
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Darkness)
 
@@ -361,8 +361,8 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Move** 1 WP, 10 ft
-* **Prolong** 1 WP, 1 min
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
 
 (Darkness)
 
@@ -375,7 +375,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Darkness)
 
@@ -397,8 +397,8 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Meta)
 
@@ -409,8 +409,8 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Meta)
 
@@ -421,7 +421,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Meta)
 
@@ -432,7 +432,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Meta)
 
@@ -443,8 +443,8 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Meta)
 
@@ -455,8 +455,8 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Move** 1 WP, 10 ft
-* **Prolong** 1 WP, 1 min
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
 
 (Meta)
 
@@ -469,7 +469,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Meta)
 
@@ -492,8 +492,8 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 rnd
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
 
 (Fire)
 
@@ -504,8 +504,8 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Fire)
 
@@ -516,7 +516,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Fire)
 
@@ -527,8 +527,8 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Fire)
 
@@ -539,7 +539,7 @@
 * **Range** S 10ft/CP
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Fire)
 
@@ -550,8 +550,8 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Move** 1 WP, 10 ft
-* **Prolong** 1 WP, 1 min
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
 
 (Fire)
 
@@ -564,7 +564,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Fire)
 
@@ -576,8 +576,8 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 rnd
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
 
 (Drain)
 
@@ -588,8 +588,8 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Drain)
 
@@ -600,8 +600,8 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Drain)
 
@@ -623,8 +623,8 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Drain)
 
@@ -635,7 +635,7 @@
 * **Range** S 10ft/CP
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Drain)
 
@@ -646,8 +646,8 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Move** 1 WP, 10 ft
-* **Prolong** 1 WP, 1 min
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
 
 (Drain)
 
@@ -660,7 +660,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Drain)
 
@@ -682,8 +682,8 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Fence)
 
@@ -694,7 +694,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Fence)
 
@@ -716,7 +716,7 @@
 * **Range** S 10ft/CP
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Fence)
 
@@ -727,8 +727,8 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Move** 1 WP, 10 ft
-* **Prolong** 1 WP, 1 min
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
 
 (Fence)
 
@@ -741,7 +741,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Fence)
 
@@ -753,8 +753,8 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 rnd
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
 
 (Healing)
 
@@ -765,8 +765,8 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Healing)
 
@@ -777,8 +777,8 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Healing)
 
@@ -789,7 +789,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Healing)
 
@@ -811,7 +811,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Healing)
 
@@ -822,8 +822,8 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Move** 1 WP, 10 ft
-* **Prolong** 1 WP, 1 min
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
 
 (Healing)
 
@@ -836,7 +836,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Healing)
 
@@ -859,8 +859,8 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 rnd
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
 
 (Light)
 
@@ -871,8 +871,8 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Light)
 
@@ -883,7 +883,7 @@
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 WP, 1 rnd
+* **Prolong** 1 CP/rnd
 
 (Light)
 
@@ -905,8 +905,8 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Move** 1 WP, 5 ft
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Light)
 
@@ -919,7 +919,7 @@
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
 * **Move** no
-* **Prolong** within (level * 10ft), 1 WP, 1 min
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Light)
 
