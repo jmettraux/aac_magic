@@ -13,7 +13,7 @@ COLOURS =
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
     .inject({}) { |h, (k, v)| h[k] = v; h }
 #pp COLOURS
-puts ". %3d COLOURS: %s" % [ COLOURS.count, COLOURS.keys.join(',') ]
+puts ". %3d colours: %s" % [ COLOURS.count, COLOURS.keys.join(',') ]
 
 FORMS =
   File.readlines('src/_forms_in.md')
@@ -24,7 +24,7 @@ FORMS =
       h[k] = { ct: 'MA', diameter: dia, range: rng, duration: dur, speed: spd }
       h }
 #pp FORMS
-puts ". %3d FORMS:   %s" % [ FORMS.count, FORMS.keys.join(',') ]
+puts ". %3d forms:   %s" % [ FORMS.count, FORMS.keys.join(',') ]
 
 PROD = COLOURS.keys.product(FORMS.keys)
 puts ". %3d potential spells" % PROD.count
