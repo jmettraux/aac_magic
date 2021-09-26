@@ -124,7 +124,7 @@ Magic revealing floating ball.
 
 A reveal ball, within its radius, a thread outlines threads left by other casters. The colours of those threads is revealed. Only the threads within the radius of the ball are outlined by the quartz thread.
 
-By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
+By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DD 8 WIS / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
 
@@ -133,7 +133,7 @@ The ball might be quite smaller than the form of the thread it reveals. Blind ma
 
 Thread breaking thread flail.
 
-Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the CP against an INT / Magic skill roll for the original caster (GM, please use 13 by default).
+Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the CP against an INT / `Cast` skill roll for the original caster (GM, please use 13 by default).
 
 The flail only collides once.
 
@@ -146,7 +146,7 @@ Thread probing pole.
 
 The pole is woven in the caster's hands, it can be used to probe for threads. It feels like holding a bamboo pole.
 
-By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DD 8 WIS / Magic skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
+By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DD 8 WIS / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 
 ## Red Disk
@@ -186,7 +186,7 @@ The scarlet thread arrow fires from the caster's hand, it goes through its targe
 
 Should the arrow fall into water, it dissolves twice faster.
 
-Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a difficulty 6 Magic skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the CPs are lost, if the skill check fails with a double 1, the caster incurs 1 HP damage.
+Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a difficulty 6 `Cast` skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the CPs are lost, if the skill check fails with a double 1, the caster incurs 1 HP damage.
 
 
 ## Scarlet Finger
@@ -298,7 +298,7 @@ Caster scope.
 
 Can be used as a sort of periscope, to look unnoticed through straw or foliage. Remember the pole is invisible to most creatures.
 
-A caster with Magic-1 or better may control the flow of light turning the pole into a microsope or a telescope.
+A caster with `Cast` 1 or better may control the flow of light turning the pole into a microsope or a telescope.
 
 The caster may consume 1 CP to bend the pole, bow-like, but it won't turn into an endoscope.
 
