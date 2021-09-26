@@ -18,7 +18,7 @@ Fires a heat arrow at a single target.
 
 1d3 + `Cast` skill level damage unless the target succeeds at a Physical save.
 
-Can be used to put a easily flammable object in fire.
+Can be used to ignite easily flammable objects.
 
 
 ## Amber Ball
@@ -33,7 +33,7 @@ Can be used to put a easily flammable object in fire.
 
 The caster stove.
 
-Some people are not very good at boiling water, it seems they never did it. Maybe their servant does it for them, maybe they are casters and they use the Amber Ball to boil water.
+Some people are not very good at boiling water, it seems they never did it. Maybe their servant does it for them, maybe they are casters and they use the _Amber Ball_ to boil water.
 
 
 ## Amber Shield
@@ -47,7 +47,7 @@ Some people are not very good at boiling water, it seems they never did it. Mayb
 
 Intense heat lens.
 
-Creatures attempting to cross the shield take 1d6 damage + caster skill level.
+Creatures attempting to cross the shield lose (1d6 + caster `Cast`) HPs.
 
 Hot air waves distort light, so the shield is somehow discernable.
 
@@ -64,7 +64,7 @@ Missiles and polearm ends are not stopped by the shield.
 
 Fires an arrow of weaving pain at a single target.
 
-CP 1 → 1d4 + `Cast` skill | CP 2 → 1d6 + `Cast` skill | CP >= 3 → 1d8 + `Cast` skill
+CP 1 → 1d4 + `Cast` | CP 2 → 1d6 + `Cast` | CP >= 3 → 1d8 + `Cast`
 
 The arrow is invisible and may avoid allies and non-targets in a complex and curved flight.
 
@@ -81,7 +81,7 @@ Silver threads do stop the coal arrow.
 
 Flail of magical pain.
 
-Inflicts 1d6 + skill damage points. There must a direct way between the caster and their target.
+Inflicts (1d6 + `Cast`) damage points. There must a direct way between the caster and their target.
 
 Silver threads do stop the coal flail.
 
@@ -97,9 +97,9 @@ Silver threads do stop the coal flail.
 
 A lens of pain, inflicting damage upon traversal.
 
-A shield of pain with (1d6 + skill) * CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
+A shield of pain with (1d6 + `Cast`) * CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
-As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + skill) * CP.
+As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + `Cast`) * CP.
 
 
 ## Blue Crown
@@ -113,7 +113,7 @@ As a main action, the caster of the coal shield, may consume CPs to "mend" the s
 
 A ring of cold, keeping things inside cold.
 
-Applied around a creature or part of it may inflict 1d2 + skill damage per round.
+Applied around a creature or part of it may inflict (1d2 + `Cast`) damage per round.
 
 
 ## Blue Disk
@@ -142,9 +142,9 @@ Depending on the context, a creature might slide on the disk and fall. A wet hai
 
 Damage dealing cold finger.
 
-Threads generating cold are woven around the index finger of the caster. The caster is not affected negatively by the cold.
+Threads generating cold are woven around the index finger of the caster (who is not affected negatively by the cold).
 
-The threads can deal CP + skill cold damage. The GM can give an Evasion save to the victim if appropriate.
+The threads can deal CP + `Cast` points of cold damage. The referee can grant an _Evasion_ save to the victim if appropriate.
 
 The finger can also be used to stop ongoing heat/burning damage.
 
@@ -163,7 +163,7 @@ The finger can also be used to stop ongoing heat/burning damage.
 
 A ball of light absorbing threads.
 
-Can be thrown at a creature to blind it (provided it has eyes, uses them, and they fit in the radius of the ball). If the weaving succeeds, the caster has to succeed a DC 6 DEX/Shoot skill check to "place" the ball.
+Can be thrown at a creature to blind it (provided it has eyes, uses them, and they fit in the radius of the ball). The referre may require a DC 6 `DEX` / `Shoot` skill check to "place" the ball at the right place.
 
 More static uses of the ball are common, to simply prevent light/vision from crossing the ball radius.
 
@@ -197,7 +197,7 @@ Chamber of obscurity, no light comes in or out.
 
 Loose night threads woven in the form of a hut absorb light. Anything goes though except light.
 
-(It's practical for caster who do film photography).
+(It's practical for casters that are into film photography).
 
 
 ## Quartz Ball
@@ -214,7 +214,7 @@ Magic revealing floating ball.
 
 A reveal ball, within its radius, a thread outlines threads left by other casters. The colours of those threads is revealed. Only the threads within the radius of the ball are outlined by the quartz thread.
 
-By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DD 8 WIS / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
+By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DC 8 `WIS` / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
 
@@ -229,7 +229,7 @@ The ball might be quite smaller than the form of the thread it reveals. Blind ma
 
 Thread breaking thread flail.
 
-Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the CP against an INT / `Cast` skill roll for the original caster (GM, please use 13 by default).
+Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the CP against an `INT` / `Cast` skill roll for the original caster (GM, please use 13 by default).
 
 The flail only collides once.
 
@@ -248,7 +248,7 @@ Thread probing pole.
 
 The pole is woven in the caster's hands, it can be used to probe for threads. It feels like holding a bamboo pole.
 
-By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DD 8 WIS / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
+By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DC 8 `WIS` / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
 
 
 ## Red Disk
@@ -264,7 +264,7 @@ Disk of fire.
 
 When the spell ends and its fire hasn't propagated to some flammable elements, the fire ends.
 
-Inflicts 1d4 + skill per round damage points to creatures exposed to it.
+Inflicts 1d4 + `Cast` per round damage points to creatures exposed to it.
 
 
 ## Red Finger
@@ -281,7 +281,7 @@ Read threads emit a flame at the point of the caster's finger.
 
 Once the castery stops, the threads dissolve, the heat disperses.
 
-Might deal 1 + skill damage points to a target.
+Might deal 1 + `Cast` damage points to a target.
 
 
 ## Red Flail
@@ -294,7 +294,7 @@ Might deal 1 + skill damage points to a target.
 
 Flail of fire.
 
-Inflicts 1d6 + skill damage points. There must a direct way between the caster and their target. May put the target on fire, at the GM discretion.
+Inflicts 1d6 + `Cast` damage points. There must a direct way between the caster and their target. May put the target on fire, at the GM discretion.
 
 Silver threads do stop the red flail.
 
@@ -309,11 +309,11 @@ Silver threads do stop the red flail.
 
 Hit point draining arrows, can be harvested if recovered.
 
-The scarlet thread arrow fires from the caster's hand, it goes through its target and takes 1d8 + skill HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
+The scarlet thread arrow fires from the caster's hand, it goes through its target and drains 1d8 + `Cast` HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
 
 Should the arrow fall into water, it dissolves twice faster.
 
-Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a difficulty 6 `Cast` skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the CPs are lost, if the skill check fails with a double 1, the caster incurs 1 HP damage.
+Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a DC 6 `Cast` skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the CPs are lost, if the skill check fails with a double 1, the caster incurs 1 HP damage.
 
 
 ## Scarlet Finger
@@ -326,9 +326,9 @@ Remember only the caster sees their own thread, but should a caster pick up the 
 
 Hit point draining finger.
 
-The caster drops the tip of their finger on a victim's skin or fur and drains (1 + skill + attribute modifier) HPs. Those HPs are turned into CPs for the caster. The attribute modifier is the one for the attribute used for casting (INT, WIS, or CHA).
+The caster drops the tip of their finger on a victim's skin or fur and drains (1 + _volume_) HPs. Those HPs are turned into CPs for the caster.
 
-The GM grants a saving throw to the victim or not.
+The referee might grant a saving throw to the victim.
 
 
 ## Scarlet Hand
@@ -341,11 +341,11 @@ The GM grants a saving throw to the victim or not.
 
 Hit point draining out of wounds.
 
-The caster lays their hand on the wound of a living target and weave threads that drain the the wounded of some of their hit points.
+The caster lays their hand on the wound of a living target and weave threads that drain the the wounded of some of their HPs.
 
-The target suffers 1d6 + skill damage which are turned to CPs and added to the caster's current CP count.
+The target loses 1d6 + _volume_ HPs which are turned to CPs and added to the caster's current CP count.
 
-(Remember that weaving requires at least 1 CP, so the in the worst case, the caster might gain 1 - 1 CPs and the target might lose 1 HP).
+(Remember that casting requires at least 1 CP, so the in the worst case, the caster might gain 1 - 1 CPs and the target might lose 1 HP).
 
 
 ## Silver Ball
@@ -411,9 +411,9 @@ Can be used as a "caster duck tape".
 
 Weaves a thread fence into a hut shape.
 
-The hut has (1d8 + caster magic skill) * CP hit points. As long as the hut has HPs it protectes completely its content.
+The hut has (1d8 + _volume_) * CP hit points. As long as the hut has HPs it protectes completely its content.
 
-By paying 1 CP (and an instant action), the caster adds (1d8 + caster magic skill) HPs to the hut.
+By paying 1 CP (and an instant action), the caster adds (1d8 + _volume_) HPs to the hut.
 
 
 ## Turquoise Arrow
@@ -426,7 +426,7 @@ By paying 1 CP (and an instant action), the caster adds (1d8 + caster magic skil
 
 Healing arrow.
 
-Works from 15 feet on only. Gives 1d3 + skill HP to the target. Does not stabilize a Mortally Wounded creature.
+Works from 15 feet on only. Grants 1d3 + _volume_ HP to the target. Does not stabilize a Mortally Wounded creature.
 
 
 ## Turquoise Hut
@@ -451,7 +451,7 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 * **Duration** 1 rnd
 * **Prolong** 1 CP/rnd
 
-All the creatures touched by the pole gain 1d3 + skill HPs.
+All the creatures touched by the pole are granted (1d3 + _volume_) HPs.
 
 The pole does stabilize a Mortally Wounded creature.
 
@@ -469,7 +469,7 @@ Halo or aureola of light.
 
 A crown of light, some casters use it to light their tables at night.
 
-By default, it is static. For 1 extra CP, it can me threaded so that it follows something (a head for example).
+By default, it is static. For 1 extra CP, it can be threaded so that it follows something (a head for example).
 
 
 ## Gold Hand
@@ -484,7 +484,7 @@ Flashing hand.
 
 The caster shows their hand and the gold thread they've just weaved flashes in their palm.
 
-Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 AC to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful evasion roll.
+Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful _Evasion_ save roll.
 
 Cannot prolong.
 
@@ -507,7 +507,7 @@ A caster with `Cast` 1 or better may control the flow of light turning the pole 
 
 The caster may consume 1 CP to bend the pole, bow-like, but it won't turn into an endoscope.
 
-Can be prolonged for free with a main action and a successful difficulty 6 skill check, same attribute modifier as used when weaving.
+Can be prolonged for free with a main action and a successful DC 6 skill check, same attribute modifier as used when weaving.
 
 
 ## Gold Shield

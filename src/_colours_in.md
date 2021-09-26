@@ -16,12 +16,11 @@ The colour of the effect, as seen by the weaver.
 | Turquoise | Healing  |
 | Gold      | Light    |
 
-| Wind | Wind |
-
-| Bronze    | |
-| Crimson   | |
-| Ivory     | |
-| Purple    | |
+| Wind    | Wind |
+| Bronze  | |
+| Crimson | |
+| Ivory   | |
+| Purple  | |
 
 Threads
 
