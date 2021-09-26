@@ -3,7 +3,7 @@ generate:
 	@echo
 	ruby lib/generate.rb
 	@echo
-	wc src/spells.md
+	wc src/spells*.md
 	@echo
 g: generate
 
