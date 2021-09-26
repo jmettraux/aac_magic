@@ -103,6 +103,9 @@ end
 
 def write_spells(opts)
 
+  cpt = opts[:compact]
+  div = opts[:div]
+
   File.open("src/#{opts[:fname]}", 'wb') do |f|
 
     f.puts
@@ -126,6 +129,7 @@ def write_spells(opts)
         #frm[:ct] == 'ma+ota' ?
         #'1 main action, then 1 on turn action' :
         #'main action'
+      dia = frm[:diameter]
       nam = "#{ck} #{fk}"
       dsc = DESCLINES[nam]
       mov = EXTRA[fk][:move]
@@ -133,26 +137,28 @@ def write_spells(opts)
 
       next unless dsc
 
+      f.puts "<!-- <div.spell> -->" if div
       f.puts "\n## #{nam}"
       f.puts
-      f.puts "* **Casting Time** #{cst}"
+      if cpt
+        f.puts "* **Cst Time** #{cst}"
+      else
+        f.puts "* **Casting Time** #{cst}"
+      end
       f.puts "* **Range** #{frm[:range]}"
-      f.puts "* **Diameter** #{frm[:diameter]}"
+      f.puts "* **Diameter** #{dia}" if cpt != true || dia != '-'
       f.puts "* **Duration** #{frm[:duration]}"
       f.puts "* **Speed** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
       f.puts "* **Move** #{mov}" if mov != '-'
       f.puts "* **Prolong** #{plg}" if plg != '-'
       f.puts
       f.puts dsc.join('')
-      if opts[:clear]
-        f.puts "<!-- clear -->"
-        f.puts
-      end
+      f.puts "\n<!-- </div> -->" if div
       f.puts
     end
   end
 end
 
 write_spells(fname: 'spells.md')
-#write_spells(fname: 'spells_clear.md', clear: true)
+write_spells(fname: 'spells_aa.md', compact: true, div: true)
 
