@@ -8,11 +8,11 @@
 
 ## Amber Arrow
 
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
+* **Casting Time** main action
+* **Range** L 80ft/CP
+* **Diameter** -
+* **Duration** 1 rnd/CP
+* **Speed** 80ft/CP
 
 Fires a heat arrow at a single target.
 
@@ -23,13 +23,13 @@ Can be used to put a easily flammable object in fire.
 
 ## Amber Ball
 
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 rnd
 
 The caster stove.
 
@@ -38,12 +38,12 @@ Some people are not very good at boiling water, it seems they never did it. Mayb
 
 ## Amber Shield
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 10 ft
-* **Prolong:** 1 WP, 1 min
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** broad shield
+* **Duration** 1 min/CP
+* **Move** 1 WP, 10 ft
+* **Prolong** 1 WP, 1 min
 
 Intense heat lens.
 
@@ -56,11 +56,11 @@ Missiles and polearm ends are not stopped by the shield.
 
 ## Coal Arrow
 
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
+* **Casting Time** main action
+* **Range** L 80ft/CP
+* **Diameter** -
+* **Duration** 1 rnd/CP
+* **Speed** 80ft/CP
 
 Fires an arrow of weaving pain at a single target.
 
@@ -79,11 +79,11 @@ Silver threads do stop the coal arrow.
 
 ## Coal Flail
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Speed:** 80 ft per WP
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Speed** 80ft/CP
 
 Flail of magical pain.
 
@@ -94,12 +94,12 @@ Silver threads do stop the coal flail.
 
 ## Coal Shield
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 10 ft
-* **Prolong:** 1 WP, 1 min
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** broad shield
+* **Duration** 1 min/CP
+* **Move** 1 WP, 10 ft
+* **Prolong** 1 WP, 1 min
 
 A lens of pain, inflicting damage upon traversal.
 
@@ -110,12 +110,12 @@ As a main action, the caster of the coal shield, may consume WPs to "mend" the s
 
 ## Blue Crown
 
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 A ring of cold, keeping things inside cold.
 
@@ -124,12 +124,12 @@ Applied around a creature or part of it may inflict 1d2 + skill damage per round
 
 ## Blue Disk
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 A disk of active cold / ice on the floor.
 
@@ -140,11 +140,11 @@ Depending on the context, a creature might slide on the disk and fall. A wet hai
 
 ## Blue Finger
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Damage dealing cold finger.
 
@@ -159,13 +159,13 @@ The finger can also be used to stop ongoing heat/burning damage.
 
 ## Night Ball
 
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 rnd
 
 A ball of light absorbing threads.
 
@@ -176,12 +176,12 @@ More static uses of the ball are common, to simply prevent light/vision from cro
 
 ## Night Disk
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 * **Move:** 1 WP, 5 ft
 * **Prolong:** within (level * 10ft), 1 WP, 1 min
@@ -195,12 +195,12 @@ It just looks like a pool of darkness.
 
 ## Night Hut
 
-* **Casting Time:** 1 main action, then 1 on turn action
-* **Range:** close (5 foot per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** C 5ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 Chamber of obscurity, no light comes in or out.
 
@@ -211,13 +211,13 @@ Loose night threads woven in the form of a hut absorb light. Anything goes thoug
 
 ## Quartz Ball
 
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 rnd
 
 Magic revealing floating ball.
 
@@ -230,11 +230,11 @@ The ball might be quite smaller than the form of the thread it reveals. Blind ma
 
 ## Quartz Flail
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Speed:** 80 ft per WP
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Speed** 80ft/CP
 
 Thread breaking thread flail.
 
@@ -247,11 +247,11 @@ An unlucky caster might flail uselessly at nothing, wasting WPs.
 
 ## Quartz Pole
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Thread probing pole.
 
@@ -262,12 +262,12 @@ By consuming 1 extra WP, all the threads (quartz and others) are revealed to oth
 
 ## Red Disk
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 Disk of fire.
 
@@ -278,11 +278,11 @@ Inflicts 1d4 + skill per round damage points to creatures exposed to it.
 
 ## Red Finger
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Also known as the caster lighter.
 
@@ -295,11 +295,11 @@ Might deal 1 + skill damage points to a target.
 
 ## Red Flail
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Speed:** 80 ft per WP
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Speed** 80ft/CP
 
 Flail of fire.
 
@@ -310,11 +310,11 @@ Silver threads do stop the red flail.
 
 ## Scarlet Arrow
 
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
+* **Casting Time** main action
+* **Range** L 80ft/CP
+* **Diameter** -
+* **Duration** 1 rnd/CP
+* **Speed** 80ft/CP
 
 Hit point draining arrows, can be harvested if recovered.
 
@@ -327,11 +327,11 @@ Remember only the caster sees their own thread, but should a caster pick up the 
 
 ## Scarlet Finger
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Hit point draining finger.
 
@@ -342,11 +342,11 @@ The GM grants a saving throw to the victim or not.
 
 ## Scarlet Hand
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Hit point draining out of wounds.
 
@@ -359,13 +359,13 @@ The target suffers 1d6 + skill damage which are turned to WPs and added to the c
 
 ## Silver Ball
 
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 1 rnd per WP
-* **Speed:** 30 ft per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 rnd
 
 Bowling silver ball.
 
@@ -378,12 +378,12 @@ Remember, may not be prolonged if out of prolongation reach.
 
 ## Silver Crown
 
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 The silver crown or the slave crown. Used by casters to bind people.
 
@@ -394,11 +394,11 @@ May also be used to to protect things from impact, but it's a crown or a donut, 
 
 ## Silver Hand
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Caster duck tape.
 
@@ -411,12 +411,12 @@ Can be used as a "caster duck tape".
 
 ## Silver Hut
 
-* **Casting Time:** 1 main action, then 1 on turn action
-* **Range:** close (5 foot per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** C 5ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 Weaves a thread fence into a hut shape.
 
@@ -427,11 +427,11 @@ By paying 1 WP (and an instant action), the caster adds (1d8 + caster magic skil
 
 ## Turquoise Arrow
 
-* **Casting Time:** main action
-* **Range:** long (80 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd per WP
-* **Speed:** 80 ft per WP
+* **Casting Time** main action
+* **Range** L 80ft/CP
+* **Diameter** -
+* **Duration** 1 rnd/CP
+* **Speed** 80ft/CP
 
 Healing arrow.
 
@@ -440,12 +440,12 @@ Works from 15 feet on only. Gives 1d3 + skill HP to the target. Does not stabili
 
 ## Turquoise Hut
 
-* **Casting Time:** 1 main action, then 1 on turn action
-* **Range:** close (5 foot per WP)
-* **Diameter:** 5 ft per WP
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** C 5ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 Stabilization hut.
 
@@ -454,11 +454,11 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 
 ## Turquoise Pole
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 All the creatures touched by the pole gain 1d3 + skill HPs.
 
@@ -467,12 +467,12 @@ The pole does stabilize a Mortally Wounded creature.
 
 ## Gold Crown
 
-* **Casting Time:** main action
-* **Range:** medium (30 feet per WP)
-* **Diameter:** 1 ft per WP
-* **Duration:** 10 min per WP
-* **Move:** 1 WP, 5 ft
-* **Prolong:** within (level * 10ft), 1 WP, 1 min
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 WP, 5 ft
+* **Prolong** within (level * 10ft), 1 WP, 1 min
 
 Halo or aureola of light.
 
@@ -483,11 +483,11 @@ By default, it is static. For 1 extra WP, it can me threaded so that it follows 
 
 ## Gold Hand
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Flashing hand.
 
@@ -500,11 +500,11 @@ Cannot prolong.
 
 ## Gold Pole
 
-* **Casting Time:** main action
-* **Range:** short (10 feet per WP)
-* **Diameter:** -
-* **Duration:** 1 rnd
-* **Prolong:** 1 WP, 1 rnd
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 WP, 1 rnd
 
 Caster scope.
 
@@ -521,12 +521,12 @@ Can be prolonged for free with a main action and a successful difficulty 6 skill
 
 ## Gold Shield
 
-* **Casting Time:** main action
-* **Range:** touch (touch)
-* **Diameter:** broad shield
-* **Duration:** 1 min per WP
-* **Move:** 1 WP, 10 ft
-* **Prolong:** 1 WP, 1 min
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** broad shield
+* **Duration** 1 min/CP
+* **Move** 1 WP, 10 ft
+* **Prolong** 1 WP, 1 min
 
 Image alteration shield.
 

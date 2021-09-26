@@ -3,30 +3,28 @@
 
 ma: main action, ota: on turn action, ia: instant action
 
-| form   | ct     | diameter     | range  | duration      | speed (per rnd) |
-|--------|--------|--------------|--------|---------------|-----------------|
-| Arrow  | ma     | -            | long   | 1 rnd per WP  | 80 ft per WP    |
-| Ball   | ma     | 1 ft per WP  | medium | 1 rnd per WP  | 30 ft per WP    |
-| Crown  | ma     | 1 ft per WP  | medium | 10 min per WP | 0               |
-| Disk   | ma     | 5 ft per WP  | short  | 10 min per WP | 0               |
-| Finger | ma     | -            | touch  | 1 rnd         | 0               |
-| Flail  | ma     | -            | short  | 1 rnd         | 80 ft per WP    |
-| Hand   | ma     | -            | touch  | 1 rnd         | 0               |
-| Hut    | ma+ota | 5 ft per WP  | close  | 1 min per WP  | 0               |
-| Pole   | ma     | -            | short  | 1 rnd         | 0               |
-| Shield | ma     | broad shield | touch  | 1 min per WP  | 0               |
-| Tunnel | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
+| form   | diameter     | range     | duration  | speed/rnd |
+|--------|:------------:|:---------:|:---------:|:---------:|
+| Arrow  | -            | L 80ft/CP | 1 rnd/CP  | 80ft/CP   |
+| Ball   | 1ft/CP       | M 30ft/CP | 1 rnd/CP  | 30ft/CP   |
+| Crown  | 1ft/CP       | M 30ft/CP | 10 min/CP | 0         |
+| Disk   | 5ft/CP       | S 10ft/CP | 10 min/CP | 0         |
+| Finger | -            | T touch   | 1 rnd     | 0         |
+| Flail  | -            | S 10ft/CP | 1 rnd     | 80ft/CP   |
+| Hand   | -            | T touch   | 1 rnd     | 0         |
+| Hut    | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 0         |
+| Pole   | -            | S 10ft/CP | 1 rnd     | 0         |
+| Shield | broad shield | T touch   | 1 min/CP  | 0         |
+| Tunnel | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 80ft/CP   |
 
-| Well   | ma     | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
-| Well   | no          | within (level * 10ft), 1 WP, 1 min |
+**T**: touch, **C**: close, **S**: short, **M**: medium, **L**: long
 
-| range   |                |
-|---------|----------------|
-| touch	  | touch          |
-| close	  | 5 foot per WP  |
-| short	  | 10 feet per WP |
-| medium  | 30 feet per WP |
-| long    | 80 feet per WP |
+Casting costs a Main Action.
+
+<!--
+| Well   | | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
+| Well   |      | within (level * 10ft), 1 WP, 1 min |
+-->
 
 | from   | move        | prolong                            |
 |--------|-------------|------------------------------------|

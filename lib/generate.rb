@@ -20,22 +20,14 @@ forms =
     .drop_while { |l| ! l.start_with?('| form ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
-    .inject({}) { |h, (k, ct, dia, rng, dur, spd)|
-      h[k] = { ct: ct, diameter: dia, range: rng, duration: dur, speed: spd }
+    .inject({}) { |h, (k, dia, rng, dur, spd)|
+      h[k] = { ct: 'MA', diameter: dia, range: rng, duration: dur, speed: spd }
       h }
 #pp forms
 puts ". %3d forms:   %s" % [ forms.count, forms.keys.join(',') ]
 
 prod = colours.keys.product(forms.keys)
 puts ". %3d potential spells" % prod.count
-
-ranges =
-  File.readlines('src/_forms_in.md')
-    .drop_while { |l| ! l.start_with?('| range ') }[2..-1]
-    .take_while { |l| l.start_with?('| ') }
-    .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
-    .inject({}) { |h, (k, v)| h[k] = v; h }
-#pp ranges
 
 extra =
   File.readlines('src/_forms_in.md')
@@ -89,20 +81,19 @@ File.open('src/_descriptions_out.md', 'wb') do |f|
       frm[:ct] == 'ma+ota' ?
       '1 main action, then 1 on turn action' :
       'main action'
-    rng = ranges[frm[:range]]
     dsc = desclines[nam]
     mov = extra[fk][:move]
     plg = extra[fk][:prolong]
 
     f.puts "\n## #{nam}"
     f.puts
-    f.puts "* **Casting Time:** #{cst}"
-    f.puts "* **Range:** #{frm[:range]} (#{rng})"
-    f.puts "* **Diameter:** #{frm[:diameter]}"
-    f.puts "* **Duration:** #{frm[:duration]}"
-    f.puts "* **Speed:** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
-    f.puts "* **Move:** #{mov}" if mov != '-'
-    f.puts "* **Prolong:** #{plg}" if plg != '-'
+    f.puts "* **Casting Time** #{cst}"
+    f.puts "* **Range** #{frm[:range]}"
+    f.puts "* **Diameter** #{frm[:diameter]}"
+    f.puts "* **Duration** #{frm[:duration]}"
+    f.puts "* **Speed** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+    f.puts "* **Move** #{mov}" if mov != '-'
+    f.puts "* **Prolong** #{plg}" if plg != '-'
     f.puts
     f.puts "(#{cfx})"
     f.puts
@@ -133,7 +124,6 @@ File.open('src/spells.md', 'wb') do |f|
       frm[:ct] == 'ma+ota' ?
       '1 main action, then 1 on turn action' :
       'main action'
-    rng = ranges[frm[:range]]
     nam = "#{ck} #{fk}"
     dsc = desclines[nam]
     mov = extra[fk][:move]
@@ -143,13 +133,13 @@ File.open('src/spells.md', 'wb') do |f|
 
     f.puts "\n## #{nam}"
     f.puts
-    f.puts "* **Casting Time:** #{cst}"
-    f.puts "* **Range:** #{frm[:range]} (#{rng})"
-    f.puts "* **Diameter:** #{frm[:diameter]}"
-    f.puts "* **Duration:** #{frm[:duration]}"
-    f.puts "* **Speed:** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
-    f.puts "* **Move:** #{mov}" if mov != '-'
-    f.puts "* **Prolong:** #{plg}" if plg != '-'
+    f.puts "* **Casting Time** #{cst}"
+    f.puts "* **Range** #{frm[:range]}"
+    f.puts "* **Diameter** #{frm[:diameter]}"
+    f.puts "* **Duration** #{frm[:duration]}"
+    f.puts "* **Speed** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+    f.puts "* **Move** #{mov}" if mov != '-'
+    f.puts "* **Prolong** #{plg}" if plg != '-'
     f.puts
     f.puts dsc.join('')
     f.puts
