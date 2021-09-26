@@ -3,7 +3,7 @@
 
 Fires a heat arrow at a single target.
 
-1d3 + `Cast` skill level damage unless the target succeeds at a Physical save.
+1d3 + _volume_ damage unless the target succeeds at a Physical save.
 
 Can be used to ignite easily flammable objects.
 
@@ -19,7 +19,7 @@ Some people are not very good at boiling water, it seems they never did it. Mayb
 
 Intense heat lens.
 
-Creatures attempting to cross the shield lose (1d6 + caster `Cast`) HPs.
+Creatures attempting to cross the shield lose (1d6 + _volume_) HPs.
 
 Hot air waves distort light, so the shield is somehow discernable.
 
@@ -30,7 +30,7 @@ Missiles and polearm ends are not stopped by the shield.
 
 Fires an arrow of weaving pain at a single target.
 
-CP 1 → 1d4 + `Cast` | CP 2 → 1d6 + `Cast` | CP >= 3 → 1d8 + `Cast`
+CP 1 → 1d4 + _volume_ | CP 2 → 1d6 + _volume_ | CP >= 3 → 1d8 + _volume_
 
 The arrow is invisible and may avoid allies and non-targets in a complex and curved flight.
 
@@ -41,7 +41,7 @@ Silver threads do stop the coal arrow.
 
 Flail of magical pain.
 
-Inflicts (1d6 + `Cast`) damage points. There must a direct way between the caster and their target.
+Inflicts (1d6 + _volume_) damage points. There must a direct way between the caster and their target.
 
 Silver threads do stop the coal flail.
 
@@ -50,16 +50,16 @@ Silver threads do stop the coal flail.
 
 A lens of pain, inflicting damage upon traversal.
 
-A shield of pain with (1d6 + `Cast`) * CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
+A shield of pain with (1d6 + _volume_) * CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
-As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + `Cast`) * CP.
+As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + _volume_) * CP.
 
 
 ## Blue Crown
 
 A ring of cold, keeping things inside cold.
 
-Applied around a creature or part of it may inflict (1d2 + `Cast`) damage per round.
+Applied around a creature or part of it may inflict (1d2 + _volume_) damage per round.
 
 
 ## Blue Disk
@@ -77,7 +77,7 @@ Damage dealing cold finger.
 
 Threads generating cold are woven around the index finger of the caster (who is not affected negatively by the cold).
 
-The threads can deal CP + `Cast` points of cold damage. The referee can grant an _Evasion_ save to the victim if appropriate.
+The threads can deal (CP + _volume_) points of cold damage. The referee can grant an _Evasion_ save to the victim if appropriate.
 
 The finger can also be used to stop ongoing heat/burning damage.
 
@@ -148,7 +148,7 @@ Disk of fire.
 
 When the spell ends and its fire hasn't propagated to some flammable elements, the fire ends.
 
-Inflicts 1d4 + `Cast` per round damage points to creatures exposed to it.
+Inflicts (1d4 + _volume_) per round damage points to creatures exposed to it.
 
 
 ## Red Finger
@@ -159,14 +159,14 @@ Read threads emit a flame at the point of the caster's finger.
 
 Once the castery stops, the threads dissolve, the heat disperses.
 
-Might deal 1 + `Cast` damage points to a target.
+Might deal (1 + _volume_) damage points to a target.
 
 
 ## Red Flail
 
 Flail of fire.
 
-Inflicts 1d6 + `Cast` damage points. There must a direct way between the caster and their target. May put the target on fire, at the GM discretion.
+Inflicts (1d6 + _volume_) damage points. There must a direct way between the caster and their target. May put the target on fire, at the GM discretion.
 
 Silver threads do stop the red flail.
 
@@ -175,7 +175,7 @@ Silver threads do stop the red flail.
 
 Hit point draining arrows, can be harvested if recovered.
 
-The scarlet thread arrow fires from the caster's hand, it goes through its target and drains 1d8 + `Cast` HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
+The scarlet thread arrow fires from the caster's hand, it goes through its target and drains (1d8 + _volume_) HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
 
 Should the arrow fall into water, it dissolves twice faster.
 
