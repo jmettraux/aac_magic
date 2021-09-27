@@ -17,25 +17,19 @@ puts ". %3d colours: %s" % [ COLOURS.count, COLOURS.keys.join(',') ]
 
 FORMS =
   File.readlines('src/_forms_in.md')
-    .drop_while { |l| ! l.start_with?('| form ') }[2..-1]
+    .drop_while { |l| ! l.start_with?('| name ') }[2..-1]
     .take_while { |l| l.start_with?('| ') }
     .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
-    .inject({}) { |h, (k, dia, rng, dur, spd)|
-      h[k] = { ct: 'MA', diameter: dia, range: rng, duration: dur, speed: spd }
+    .inject({}) { |h, (k, ct, dia, rng, dur, spd, ctl, mov, prl)|
+      h[k] = {
+        ct: ct, diameter: dia, range: rng, duration: dur, speed: spd,
+        control: ctl, move: mov, prolong: prl }
       h }
 #pp FORMS
 puts ". %3d forms:   %s" % [ FORMS.count, FORMS.keys.join(',') ]
 
 PROD = COLOURS.keys.product(FORMS.keys)
 puts ". %3d potential spells" % PROD.count
-
-EXTRA =
-  File.readlines('src/_forms_in.md')
-    .drop_while { |l| ! l.start_with?('| from   | move ') }[2..-1]
-    .take_while { |l| l.start_with?('| ') }
-    .collect { |l| l.split(/\s*\|\s+/).select { |s| s.length > 0 } }
-    .inject({}) { |h, (k, mve, plg)| h[k] = { move: mve, prolong: plg }; h }
-#pp EXTRA
 
 DESCLINES =
   File.readlines('src/_descriptions_in.md')
@@ -77,13 +71,14 @@ File.open('src/_descriptions_out.md', 'wb') do |f|
 
     cfx = COLOURS[ck]
     frm = FORMS[fk]
-    cst = 'main action'
-      #frm[:ct] == 'ma+ota' ?
-      #'1 main action, then 1 on turn action' :
-      #'main action'
+    cst =
+      frm[:ct] == 'MA+OTA' ?
+      '1 main action, then 1 on turn action' :
+      'main action'
     dsc = DESCLINES[nam]
-    mov = EXTRA[fk][:move]
-    plg = EXTRA[fk][:prolong]
+    ctl = frm[:control]
+    mov = frm[:move]
+    plg = frm[:prolong]
 
     f.puts "\n## #{nam}"
     f.puts
@@ -92,6 +87,7 @@ File.open('src/_descriptions_out.md', 'wb') do |f|
     f.puts "* **Diameter** #{frm[:diameter]}"
     f.puts "* **Duration** #{frm[:duration]}"
     f.puts "* **Speed** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+    f.puts "* **Control** <= #{ctl}" if ctl != '-'
     f.puts "* **Move** #{mov}" if mov != '-'
     f.puts "* **Prolong** #{plg}" if plg != '-'
     f.puts
@@ -105,6 +101,7 @@ KEYS = {
   range: 'Range',
   diameter: 'Diameter',
   duration: 'Duration',
+  control: 'Control',
   speed: 'Speed',
   move: 'Move',
   prolong: 'Prolong' }
@@ -113,6 +110,7 @@ COMPACT_KEYS = {
   range: 'Rng',
   diameter: 'Dia',
   duration: 'Dur',
+  control: 'Ctl',
   speed: 'Spd',
   move: 'Mov',
   prolong: 'Prol' }
@@ -143,15 +141,16 @@ def write_spells(opts)
 
       cfx = COLOURS[ck]
       frm = FORMS[fk]
-      cst = 'main action'
-        #frm[:ct] == 'ma+ota' ?
-        #'1 main action, then 1 on turn action' :
-        #'main action'
+      cst =
+        frm[:ct] == 'MA+OTA' ?
+        '1 main action, then 1 on turn action' :
+        'main action'
       dia = frm[:diameter]
       nam = "#{ck} #{fk}"
       dsc = DESCLINES[nam]
-      mov = EXTRA[fk][:move]
-      plg = EXTRA[fk][:prolong]
+      ctl = frm[:control]
+      mov = frm[:move]
+      plg = frm[:prolong]
 
       next unless dsc
 
@@ -163,6 +162,7 @@ def write_spells(opts)
       f.puts "* **#{ks[:diameter]}** #{dia}" if cpt != true || dia != '-'
       f.puts "* **#{ks[:duration]}** #{frm[:duration]}"
       f.puts "* **#{ks[:speed]}** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
+      f.puts "* **#{ks[:control]}** <= #{ctl}" if ctl != '-'
       f.puts "* **#{ks[:move]}** #{mov}" if mov != '-'
       f.puts "* **#{ks[:prolong]}** #{plg}" if plg != '-'
       f.puts

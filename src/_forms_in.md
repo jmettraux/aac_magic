@@ -3,42 +3,26 @@
 
 ma: main action, ota: on turn action, ia: instant action
 
-| form   | diameter     | range     | duration  | speed/rnd |
-|--------|:------------:|:---------:|:---------:|:---------:|
-| Arrow  | -            | L 80ft/CP | 1 rnd/CP  | 80ft/CP   |
-| Ball   | 1ft/CP       | M 30ft/CP | 1 rnd/CP  | 30ft/CP   |
-| Crown  | 1ft/CP       | M 30ft/CP | 10 min/CP | 0         |
-| Disk   | 5ft/CP       | S 10ft/CP | 10 min/CP | 0         |
-| Finger | -            | T touch   | 1 rnd     | 0         |
-| Flail  | -            | S 10ft/CP | 1 rnd     | 80ft/CP   |
-| Hand   | -            | T touch   | 1 rnd     | 0         |
-| Hut    | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 0         |
-| Pole   | -            | S 10ft/CP | 1 rnd     | 0         |
-| Shield | broad shield | T touch   | 1 min/CP  | 0         |
-| Tunnel | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 80ft/CP   |
+| name   | ctime  | diameter     | range     | duration  | speed/rnd | ctrl <=  | move      | prolong  |
+|--------|:------:|:------------:|:---------:|:---------:|:---------:|:--------:|:---------:|:--------:|
+| Arrow  | MA     | -            | L 80ft/CP | 1 rnd/CP  | 80ft/CP   | -        | -         | -        |
+| Ball   | MA     | 1ft/CP       | M 30ft/CP | 1 rnd/CP  | 30ft/CP   | 10ft/lvl | 1 CP/5ft  | 1 CP/rnd |
+| Crown  | MA     | 1ft/CP       | M 30ft/CP | 10 min/CP | 0         | 10ft/lvl | 1 CP/5ft  | 1 CP/min |
+| Disk   | MA     | 5ft/CP       | S 10ft/CP | 10 min/CP | 0         | 10ft/lvl | 1 CP/5ft  | 1 CP/min |
+| Finger | MA     | -            | T touch   | 1 rnd     | 0         | -        | -         | 1 CP/rnd |
+| Flail  | MA     | -            | S 10ft/CP | 1 rnd     | 80ft/CP   | -        | -         | -        |
+| Hand   | MA     | -            | T touch   | 1 rnd     | 0         | -        | -         | 1 CP/rnd |
+| Hut    | MA+OTA | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 0         | 10ft/lvl | 1 CP/5ft  | 1 CP/min |
+| Pole   | MA     | -            | S 10ft/CP | 1 rnd     | 0         | -        | -         | 1 CP/rnd |
+| Shield | MA     | broad shield | T touch   | 1 min/CP  | 0         | 10ft/lvl | 1 CP/10ft | 1 CP/min |
+| Tunnel | MA     | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 80ft/CP   | 10ft/lvl | no        | 1 CP/min |
 
-**T**: touch, **C**: close, **S**: short, **M**: medium, **L**: long
-
-Casting costs a Main Action.
+**MA**: main action, **OTA**: on turn action, **T**: touch, **C**: close, **S**: short, **M**: medium, **L**: long
 
 <!--
 | Well   | | 5 ft per WP  | close  | 1 min per WP  | 80 ft per WP    |
 | Well   |      | within (level * 10ft), 1 WP, 1 min |
 -->
-
-| from   | move      | prolong                    |
-|--------|-----------|----------------------------|
-| Arrow  | -         | -                          |
-| Ball   | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/rnd |
-| Crown  | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/min |
-| Disk   | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/min |
-| Finger | -         | 1 CP/rnd                   |
-| Flail  | -         | -                          |
-| Hand   | -         | 1 CP/rnd                   |
-| Hut    | 1 CP/5ft  | w/i (lvl * 10ft), 1 CP/min |
-| Pole   | -         | 1 CP/rnd                   |
-| Shield | 1 CP/10ft | 1 CP/min                   |
-| Tunnel | no        | w/i (lvl * 10ft), 1 CP/min |
 
 Move requires an on turn action. Prolong requires an instant action.
 

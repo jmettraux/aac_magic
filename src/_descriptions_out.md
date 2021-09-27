@@ -12,8 +12,9 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Heat)
 
@@ -24,8 +25,9 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Heat)
 
@@ -65,12 +67,13 @@
 
 ## Amber Hut
 
-* **Casting Time** main action
+* **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Heat)
 
@@ -93,8 +96,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Heat)
 
@@ -117,8 +121,9 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
+* **Prolong** 1 CP/rnd
 
 (Cold)
 
@@ -147,12 +152,13 @@
 
 ## Blue Hut
 
-* **Casting Time** main action
+* **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Cold)
 
@@ -174,6 +180,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -187,8 +194,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Cold)
 
@@ -200,8 +208,9 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
+* **Prolong** 1 CP/rnd
 
 (Damage)
 
@@ -212,8 +221,9 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Damage)
 
@@ -224,8 +234,9 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Damage)
 
@@ -254,12 +265,13 @@
 
 ## Coal Hut
 
-* **Casting Time** main action
+* **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Damage)
 
@@ -282,8 +294,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Damage)
 
@@ -306,8 +319,9 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
+* **Prolong** 1 CP/rnd
 
 (Light)
 
@@ -318,8 +332,9 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Light)
 
@@ -348,12 +363,13 @@
 
 ## Gold Hut
 
-* **Casting Time** main action
+* **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Light)
 
@@ -365,8 +381,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Light)
 
@@ -388,8 +405,9 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Darkness)
 
@@ -444,6 +462,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -457,8 +476,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Darkness)
 
@@ -480,8 +500,9 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Meta)
 
@@ -492,8 +513,9 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Meta)
 
@@ -522,12 +544,13 @@
 
 ## Quartz Hut
 
-* **Casting Time** main action
+* **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Meta)
 
@@ -538,6 +561,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -551,8 +575,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Meta)
 
@@ -575,8 +600,9 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
+* **Prolong** 1 CP/rnd
 
 (Fire)
 
@@ -587,8 +613,9 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Fire)
 
@@ -606,12 +633,13 @@
 
 ## Red Hut
 
-* **Casting Time** main action
+* **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Fire)
 
@@ -633,6 +661,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -646,8 +675,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Fire)
 
@@ -659,8 +689,9 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
+* **Prolong** 1 CP/rnd
 
 (Drain)
 
@@ -671,8 +702,9 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Drain)
 
@@ -690,12 +722,13 @@
 
 ## Scarlet Hut
 
-* **Casting Time** main action
+* **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Drain)
 
@@ -717,6 +750,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -730,8 +764,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Drain)
 
@@ -753,8 +788,9 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Fence)
 
@@ -798,6 +834,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -811,8 +848,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Fence)
 
@@ -824,8 +862,9 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
+* **Prolong** 1 CP/rnd
 
 (Healing)
 
@@ -836,8 +875,9 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Healing)
 
@@ -848,8 +888,9 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Healing)
 
@@ -882,6 +923,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -895,8 +937,9 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
 * **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
+* **Prolong** 1 CP/min
 
 (Healing)
 
