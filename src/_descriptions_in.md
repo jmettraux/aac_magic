@@ -170,7 +170,7 @@ Magic revealing floating ball.
 
 A reveal ball, within its radius, a thread outlines threads left by other casters. The colours of those threads is revealed. Only the threads within the radius of the ball are outlined by the quartz thread.
 
-By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DC 8 `WIS` / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
+By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DC 8 `WIS` / `Cast` skill check to see. The referee may decide that some characters or creatures are thread blind and simply cannot see.
 
 The ball might be quite smaller than the form of the thread it reveals. Blind man and elephant situation.
 
@@ -179,7 +179,7 @@ The ball might be quite smaller than the form of the thread it reveals. Blind ma
 
 Thread breaking thread flail.
 
-Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the CP against an `INT` / `Cast` skill roll for the original caster (GM, please use 13 by default).
+Should the flail threads collide with any other thread weave, the flail might unweave the target. The successful spellcasting score + the CP against an `INT` / `Cast` skill roll for the original caster (referee, please use 13 by default).
 
 The flail only collides once.
 
@@ -192,7 +192,7 @@ Thread probing pole.
 
 The pole is woven in the caster's hands, it can be used to probe for threads. It feels like holding a bamboo pole.
 
-By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DC 8 `WIS` / `Cast` skill check to see. The GM may decide that some characters or creatures are thread blind and simply cannot see.
+By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DC 8 `WIS` / `Cast` skill check to see. The referee may decide that some characters or creatures are thread blind and simply cannot see.
 
 
 ## Red Disk
@@ -219,7 +219,7 @@ Might deal (1 + _élan_) damage points to a target.
 
 Flail of fire.
 
-Inflicts (1d6 + _élan_) damage points. There must a direct way between the caster and their target. May put the target on fire, at the GM discretion.
+Inflicts (1d6 + _élan_) damage points. There must a direct way between the caster and their target. May put the target on fire, at the referee discretion.
 
 Silver threads do stop the red flail.
 
