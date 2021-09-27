@@ -116,13 +116,14 @@ COMPACT_KEYS = {
   prolong: 'Prol' }
 
 def increase(count, maxes)
+
   a, b = count.chars.collect(&:to_i)
-p [ count, a, b ]
   b = b + 1
   if b > maxes[1]
     a = a + 1
     b = 1
   end
+
   "#{a}#{b}"
 end
 
@@ -172,7 +173,8 @@ def write_spells(opts)
 
       f.puts "<!-- <div.spell> -->" if div
       if dic
-        f.puts "\n## ~~#{number}~~ #{nam}"
+        #f.puts "\n## ~~#{number}~~ #{nam}"
+        f.puts "\n## #{nam} ~~#{number}~~"
       else
         f.puts "\n## #{nam}"
       end
