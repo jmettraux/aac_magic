@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 110 potential spells,
-76 spells to describe.
+75 spells to describe.
 
 ## Amber Crown
 
@@ -272,17 +272,6 @@
 * **Control** <= 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
-
-(Damage)
-
-
-## Coal Pole
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
 
 (Damage)
 

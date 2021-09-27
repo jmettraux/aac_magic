@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-34 spells.
+35 spells.
 
 
 ## Amber Arrow
@@ -137,6 +137,19 @@ Flail of magical pain.
 Inflicts (1d6 + _élan_) damage points. There must a direct way between the caster and their target.
 
 Silver threads do stop the coal flail.
+
+
+## Coal Pole
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+Pole of woven pain. The Caster pike.
+
+Takes (1d10 + _élan_) HPs per round to the single target. Silver threads block block the pole if the silver caster succeeds a DC 8 `INT` / `Cast` skill check.
 
 
 ## Coal Shield
