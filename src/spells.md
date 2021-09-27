@@ -16,7 +16,7 @@
 
 Fires a heat arrow at a single target.
 
-1d3 + _volume_ damage unless the target succeeds at a Physical save.
+1d3 + _élan_ damage unless the target succeeds at a Physical save.
 
 Can be used to ignite easily flammable objects.
 
@@ -47,7 +47,7 @@ Some people are not very good at boiling water, it seems they never did it. Mayb
 
 Intense heat lens.
 
-Creatures attempting to cross the shield lose (1d6 + _volume_) HPs.
+Creatures attempting to cross the shield lose (1d6 + _élan_) HPs.
 
 Hot air waves distort light, so the shield is somehow discernable.
 
@@ -64,7 +64,7 @@ Missiles and polearm ends are not stopped by the shield.
 
 Fires an arrow of weaving pain at a single target.
 
-CP 1 → 1d4 + _volume_ | CP 2 → 1d6 + _volume_ | CP >= 3 → 1d8 + _volume_
+CP 1 → 1d4 + _élan_ | CP 2 → 1d6 + _élan_ | CP >= 3 → 1d8 + _élan_
 
 The arrow is invisible and may avoid allies and non-targets in a complex and curved flight.
 
@@ -81,7 +81,7 @@ Silver threads do stop the coal arrow.
 
 Flail of magical pain.
 
-Inflicts (1d6 + _volume_) damage points. There must a direct way between the caster and their target.
+Inflicts (1d6 + _élan_) damage points. There must a direct way between the caster and their target.
 
 Silver threads do stop the coal flail.
 
@@ -97,9 +97,9 @@ Silver threads do stop the coal flail.
 
 A lens of pain, inflicting damage upon traversal.
 
-A shield of pain with (1d6 + _volume_) * CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
+A shield of pain with (1d6 + _élan_) * CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
-As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + _volume_) * CP.
+As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + _élan_) * CP.
 
 
 ## Blue Crown
@@ -113,7 +113,7 @@ As a main action, the caster of the coal shield, may consume CPs to "mend" the s
 
 A ring of cold, keeping things inside cold.
 
-Applied around a creature or part of it may inflict (1d2 + _volume_) damage per round.
+Applied around a creature or part of it may inflict (1d2 + _élan_) damage per round.
 
 
 ## Blue Disk
@@ -144,7 +144,7 @@ Damage dealing cold finger.
 
 Threads generating cold are woven around the index finger of the caster (who is not affected negatively by the cold).
 
-The threads can deal (CP + _volume_) points of cold damage. The referee can grant an _Evasion_ save to the victim if appropriate.
+The threads can deal (CP + _élan_) points of cold damage. The referee can grant an _Evasion_ save to the victim if appropriate.
 
 The finger can also be used to stop ongoing heat/burning damage.
 
@@ -264,7 +264,7 @@ Disk of fire.
 
 When the spell ends and its fire hasn't propagated to some flammable elements, the fire ends.
 
-Inflicts (1d4 + _volume_) per round damage points to creatures exposed to it.
+Inflicts (1d4 + _élan_) per round damage points to creatures exposed to it.
 
 
 ## Red Finger
@@ -281,7 +281,7 @@ Read threads emit a flame at the point of the caster's finger.
 
 Once the castery stops, the threads dissolve, the heat disperses.
 
-Might deal (1 + _volume_) damage points to a target.
+Might deal (1 + _élan_) damage points to a target.
 
 
 ## Red Flail
@@ -294,7 +294,7 @@ Might deal (1 + _volume_) damage points to a target.
 
 Flail of fire.
 
-Inflicts (1d6 + _volume_) damage points. There must a direct way between the caster and their target. May put the target on fire, at the GM discretion.
+Inflicts (1d6 + _élan_) damage points. There must a direct way between the caster and their target. May put the target on fire, at the GM discretion.
 
 Silver threads do stop the red flail.
 
@@ -309,7 +309,7 @@ Silver threads do stop the red flail.
 
 Hit point draining arrows, can be harvested if recovered.
 
-The scarlet thread arrow fires from the caster's hand, it goes through its target and drains (1d8 + _volume_) HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
+The scarlet thread arrow fires from the caster's hand, it goes through its target and drains (1d8 + _élan_) HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
 
 Should the arrow fall into water, it dissolves twice faster.
 
@@ -326,7 +326,7 @@ Remember only the caster sees their own thread, but should a caster pick up the 
 
 Hit point draining finger.
 
-The caster drops the tip of their finger on a victim's skin or fur and drains (1 + _volume_) HPs. Those HPs are turned into CPs for the caster.
+The caster drops the tip of their finger on a victim's skin or fur and drains (1 + _élan_) HPs. Those HPs are turned into CPs for the caster.
 
 The referee might grant a saving throw to the victim.
 
@@ -343,7 +343,7 @@ Hit point draining out of wounds.
 
 The caster lays their hand on the wound of a living target and weave threads that drain the the wounded of some of their HPs.
 
-The target loses 1d6 + _volume_ HPs which are turned to CPs and added to the caster's current CP count.
+The target loses 1d6 + _élan_ HPs which are turned to CPs and added to the caster's current CP count.
 
 (Remember that casting requires at least 1 CP, so the in the worst case, the caster might gain 1 - 1 CPs and the target might lose 1 HP).
 
@@ -411,9 +411,9 @@ Can be used as a "caster duck tape".
 
 Weaves a thread fence into a hut shape.
 
-The hut has (1d8 + _volume_) * CP hit points. As long as the hut has HPs it protectes completely its content.
+The hut has (1d8 + _élan_) * CP hit points. As long as the hut has HPs it protectes completely its content.
 
-By paying 1 CP (and an instant action), the caster adds (1d8 + _volume_) HPs to the hut.
+By paying 1 CP (and an instant action), the caster adds (1d8 + _élan_) HPs to the hut.
 
 
 ## Turquoise Arrow
@@ -426,7 +426,7 @@ By paying 1 CP (and an instant action), the caster adds (1d8 + _volume_) HPs to 
 
 Healing arrow.
 
-Works from 15 feet on only. Grants 1d3 + _volume_ HP to the target. Does not stabilize a Mortally Wounded creature.
+Works from 15 feet on only. Grants 1d3 + _élan_ HP to the target. Does not stabilize a Mortally Wounded creature.
 
 
 ## Turquoise Hut
@@ -451,7 +451,7 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 * **Duration** 1 rnd
 * **Prolong** 1 CP/rnd
 
-All the creatures touched by the pole are granted (1d3 + _volume_) HPs.
+All the creatures touched by the pole are granted (1d3 + _élan_) HPs.
 
 The pole does stabilize a Mortally Wounded creature.
 
