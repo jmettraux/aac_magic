@@ -99,6 +99,100 @@
 (Heat)
 
 
+## Blue Arrow
+
+* **Casting Time** main action
+* **Range** L 80ft/CP
+* **Diameter** -
+* **Duration** 1 rnd/CP
+* **Speed** 80ft/CP
+
+(Cold)
+
+
+## Blue Ball
+
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
+
+(Cold)
+
+
+## Blue Flail
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Speed** 80ft/CP
+
+(Cold)
+
+
+## Blue Hand
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+(Cold)
+
+
+## Blue Hut
+
+* **Casting Time** main action
+* **Range** C 5ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 min/CP
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
+
+(Cold)
+
+
+## Blue Pole
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+(Cold)
+
+
+## Blue Shield
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** broad shield
+* **Duration** 1 min/CP
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
+
+(Cold)
+
+
+## Blue Tunnel
+
+* **Casting Time** main action
+* **Range** C 5ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 min/CP
+* **Speed** 80ft/CP
+* **Move** no
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
+
+(Cold)
+
+
 ## Coal Ball
 
 * **Casting Time** main action
@@ -194,7 +288,7 @@
 (Damage)
 
 
-## Blue Arrow
+## Gold Arrow
 
 * **Casting Time** main action
 * **Range** L 80ft/CP
@@ -202,10 +296,10 @@
 * **Duration** 1 rnd/CP
 * **Speed** 80ft/CP
 
-(Cold)
+(Light)
 
 
-## Blue Ball
+## Gold Ball
 
 * **Casting Time** main action
 * **Range** M 30ft/CP
@@ -215,21 +309,22 @@
 * **Move** 1 CP/5ft
 * **Prolong** w/i (lvl * 10ft), 1 CP/rnd
 
-(Cold)
+(Light)
 
 
-## Blue Flail
+## Gold Disk
 
 * **Casting Time** main action
 * **Range** S 10ft/CP
-* **Diameter** -
-* **Duration** 1 rnd
-* **Speed** 80ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
 
-(Cold)
+(Light)
 
 
-## Blue Hand
+## Gold Finger
 
 * **Casting Time** main action
 * **Range** T touch
@@ -237,10 +332,21 @@
 * **Duration** 1 rnd
 * **Prolong** 1 CP/rnd
 
-(Cold)
+(Light)
 
 
-## Blue Hut
+## Gold Flail
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Speed** 80ft/CP
+
+(Light)
+
+
+## Gold Hut
 
 * **Casting Time** main action
 * **Range** C 5ft/CP
@@ -249,33 +355,10 @@
 * **Move** 1 CP/5ft
 * **Prolong** w/i (lvl * 10ft), 1 CP/min
 
-(Cold)
+(Light)
 
 
-## Blue Pole
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
-
-(Cold)
-
-
-## Blue Shield
-
-* **Casting Time** main action
-* **Range** T touch
-* **Diameter** broad shield
-* **Duration** 1 min/CP
-* **Move** 1 CP/10ft
-* **Prolong** 1 CP/min
-
-(Cold)
-
-
-## Blue Tunnel
+## Gold Tunnel
 
 * **Casting Time** main action
 * **Range** C 5ft/CP
@@ -285,7 +368,7 @@
 * **Move** no
 * **Prolong** w/i (lvl * 10ft), 1 CP/min
 
-(Cold)
+(Light)
 
 
 ## Night Arrow
@@ -816,87 +899,4 @@
 * **Prolong** w/i (lvl * 10ft), 1 CP/min
 
 (Healing)
-
-
-## Gold Arrow
-
-* **Casting Time** main action
-* **Range** L 80ft/CP
-* **Diameter** -
-* **Duration** 1 rnd/CP
-* **Speed** 80ft/CP
-
-(Light)
-
-
-## Gold Ball
-
-* **Casting Time** main action
-* **Range** M 30ft/CP
-* **Diameter** 1ft/CP
-* **Duration** 1 rnd/CP
-* **Speed** 30ft/CP
-* **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/rnd
-
-(Light)
-
-
-## Gold Disk
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 10 min/CP
-* **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
-
-(Light)
-
-
-## Gold Finger
-
-* **Casting Time** main action
-* **Range** T touch
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
-
-(Light)
-
-
-## Gold Flail
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** -
-* **Duration** 1 rnd
-* **Speed** 80ft/CP
-
-(Light)
-
-
-## Gold Hut
-
-* **Casting Time** main action
-* **Range** C 5ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
-
-(Light)
-
-
-## Gold Tunnel
-
-* **Casting Time** main action
-* **Range** C 5ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
-* **Move** no
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
-
-(Light)
 

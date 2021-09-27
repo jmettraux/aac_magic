@@ -6,15 +6,15 @@ The colour of the effect, as seen by the weaver.
 | colour    | effect   |
 |-----------|----------|
 | Amber     | Heat     |
-| Coal      | Damage   |
 | Blue      | Cold     |
+| Coal      | Damage   |
+| Gold      | Light    |
 | Night     | Darkness |
 | Quartz    | Meta     |
 | Red       | Fire     |
 | Scarlet   | Drain    |
 | Silver    | Fence    |
 | Turquoise | Healing  |
-| Gold      | Light    |
 
 | Wind    | Wind |
 | Bronze  | |

@@ -54,6 +54,55 @@ Hot air waves distort light, so the shield is somehow discernable.
 Missiles and polearm ends are not stopped by the shield.
 
 
+## Blue Crown
+
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
+
+A ring of cold, keeping things inside cold.
+
+Applied around a creature or part of it may inflict (1d2 + _élan_) damage per round.
+
+
+## Blue Disk
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
+
+A disk of active cold / ice on the floor.
+
+Weaves cold threads into a disk that lays on the floor. In a dry place, the disk is invisible, in a humid place, ice forms and is visible.
+
+Depending on the context, a creature might slide on the disk and fall. A wet hairy creature might get stuck to the disk, especially if the surface below the disk has some relief.
+
+
+## Blue Finger
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+Damage dealing cold finger.
+
+Threads generating cold are woven around the index finger of the caster (who is not affected negatively by the cold).
+
+The threads can deal (CP + _élan_) points of cold damage. The referee can grant an _Evasion_ save to the victim if appropriate.
+
+The finger can also be used to stop ongoing heat/burning damage.
+
+(Beware touching metal objects!)
+
+
 ## Coal Arrow
 
 * **Casting Time** main action
@@ -102,7 +151,7 @@ A shield of pain with (1d6 + _élan_) * CP "hit points". A creature attempting t
 As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + _élan_) * CP.
 
 
-## Blue Crown
+## Gold Crown
 
 * **Casting Time** main action
 * **Range** M 30ft/CP
@@ -111,28 +160,14 @@ As a main action, the caster of the coal shield, may consume CPs to "mend" the s
 * **Move** 1 CP/5ft
 * **Prolong** w/i (lvl * 10ft), 1 CP/min
 
-A ring of cold, keeping things inside cold.
+Halo or aureola of light.
 
-Applied around a creature or part of it may inflict (1d2 + _élan_) damage per round.
+A crown of light, some casters use it to light their tables at night.
 
-
-## Blue Disk
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 10 min/CP
-* **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
-
-A disk of active cold / ice on the floor.
-
-Weaves cold threads into a disk that lays on the floor. In a dry place, the disk is invisible, in a humid place, ice forms and is visible.
-
-Depending on the context, a creature might slide on the disk and fall. A wet hairy creature might get stuck to the disk, especially if the surface below the disk has some relief.
+By default, it is static. For 1 extra CP, it can be threaded so that it follows something (a head for example).
 
 
-## Blue Finger
+## Gold Hand
 
 * **Casting Time** main action
 * **Range** T touch
@@ -140,15 +175,52 @@ Depending on the context, a creature might slide on the disk and fall. A wet hai
 * **Duration** 1 rnd
 * **Prolong** 1 CP/rnd
 
-Damage dealing cold finger.
+Flashing hand.
 
-Threads generating cold are woven around the index finger of the caster (who is not affected negatively by the cold).
+The caster shows their hand and the gold thread they've just weaved flashes in their palm.
 
-The threads can deal (CP + _élan_) points of cold damage. The referee can grant an _Evasion_ save to the victim if appropriate.
+Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful _Evasion_ save roll.
 
-The finger can also be used to stop ongoing heat/burning damage.
+Cannot prolong.
 
-(Beware touching metal objects!)
+
+## Gold Pole
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+Caster scope.
+
+2 feet taller than its caster, the pole gathers light at one tip transmitting it to the other tip.
+
+Can be used as a sort of periscope, to look unnoticed through straw or foliage. Remember the pole is invisible to most creatures.
+
+A caster with `Cast` 1 or better may control the flow of light turning the pole into a microsope or a telescope.
+
+The caster may consume 1 CP to bend the pole, bow-like, but it won't turn into an endoscope.
+
+Can be prolonged for free with a main action and a successful DC 6 skill check, same attribute modifier as used when weaving.
+
+
+## Gold Shield
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** broad shield
+* **Duration** 1 min/CP
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
+
+Image alteration shield.
+
+This shield is sometimes called the "past window". The image seen through it is the same as the image that passed at the moment it was weaved. It can thus be used for some invisibility trick. The problem is that it works both ways, the other side looks like what it was at weaving time and vice versa. You can move behind the shield, but looking through it won't tell you much about the current situation there.
+
+The caster may decide to simply use it as a mirror. All the the light going through it is reflected. Both sides.
+
+For one extra CP, the shield can be used as a spotlight, a light emitting shield suspended mid air.
 
 
 ## Night Ball
@@ -483,76 +555,4 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 All the creatures touched by the pole are granted (1d3 + _élan_) HPs.
 
 The pole does stabilize a Mortally Wounded creature.
-
-
-## Gold Crown
-
-* **Casting Time** main action
-* **Range** M 30ft/CP
-* **Diameter** 1ft/CP
-* **Duration** 10 min/CP
-* **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
-
-Halo or aureola of light.
-
-A crown of light, some casters use it to light their tables at night.
-
-By default, it is static. For 1 extra CP, it can be threaded so that it follows something (a head for example).
-
-
-## Gold Hand
-
-* **Casting Time** main action
-* **Range** T touch
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
-
-Flashing hand.
-
-The caster shows their hand and the gold thread they've just weaved flashes in their palm.
-
-Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful _Evasion_ save roll.
-
-Cannot prolong.
-
-
-## Gold Pole
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
-
-Caster scope.
-
-2 feet taller than its caster, the pole gathers light at one tip transmitting it to the other tip.
-
-Can be used as a sort of periscope, to look unnoticed through straw or foliage. Remember the pole is invisible to most creatures.
-
-A caster with `Cast` 1 or better may control the flow of light turning the pole into a microsope or a telescope.
-
-The caster may consume 1 CP to bend the pole, bow-like, but it won't turn into an endoscope.
-
-Can be prolonged for free with a main action and a successful DC 6 skill check, same attribute modifier as used when weaving.
-
-
-## Gold Shield
-
-* **Casting Time** main action
-* **Range** T touch
-* **Diameter** broad shield
-* **Duration** 1 min/CP
-* **Move** 1 CP/10ft
-* **Prolong** 1 CP/min
-
-Image alteration shield.
-
-This shield is sometimes called the "past window". The image seen through it is the same as the image that passed at the moment it was weaved. It can thus be used for some invisibility trick. The problem is that it works both ways, the other side looks like what it was at weaving time and vice versa. You can move behind the shield, but looking through it won't tell you much about the current situation there.
-
-The caster may decide to simply use it as a mirror. All the the light going through it is reflected. Both sides.
-
-For one extra CP, the shield can be used as a spotlight, a light emitting shield suspended mid air.
 
