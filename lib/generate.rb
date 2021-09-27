@@ -87,7 +87,7 @@ File.open('src/_descriptions_out.md', 'wb') do |f|
     f.puts "* **Diameter** #{frm[:diameter]}"
     f.puts "* **Duration** #{frm[:duration]}"
     f.puts "* **Speed** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
-    f.puts "* **Control** <= #{ctl}" if ctl != '-'
+    f.puts "* **Control** ≤ #{ctl}" if ctl != '-'
     f.puts "* **Move** #{mov}" if mov != '-'
     f.puts "* **Prolong** #{plg}" if plg != '-'
     f.puts
@@ -183,7 +183,7 @@ def write_spells(opts)
       f.puts "* **#{ks[:diameter]}** #{dia}" if cpt != true || dia != '-'
       f.puts "* **#{ks[:duration]}** #{frm[:duration]}"
       f.puts "* **#{ks[:speed]}** #{frm[:speed]}" if frm[:speed] && frm[:speed] != '0'
-      f.puts "* **#{ks[:control]}** <= #{ctl}" if ctl != '-'
+      f.puts "* **#{ks[:control]}** ≤ #{ctl}" if ctl != '-'
       f.puts "* **#{ks[:move]}** #{mov}" if mov != '-'
       f.puts "* **#{ks[:prolong]}** #{plg}" if plg != '-'
       f.puts

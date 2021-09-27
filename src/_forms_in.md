@@ -3,7 +3,7 @@
 
 ma: main action, ota: on turn action, ia: instant action
 
-| name   | ctime  | diameter     | range     | duration  | speed/rnd | ctrl <=  | move      | prolong  |
+| name   | ctime  | diameter     | range     | duration  | speed/rnd | ctrl ≤   | move      | prolong  |
 |--------|:------:|:------------:|:---------:|:---------:|:---------:|:--------:|:---------:|:--------:|
 | Arrow  | MA     | -            | L 80ft/CP | 1 rnd/CP  | 80ft/CP   | -        | -         | -        |
 | Ball   | MA     | 1ft/CP       | M 30ft/CP | 1 rnd/CP  | 30ft/CP   | 10ft/lvl | 1 CP/5ft  | 1 CP/rnd |

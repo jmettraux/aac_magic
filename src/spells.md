@@ -26,7 +26,7 @@ Can be used to ignite easily flammable objects.
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -40,7 +40,7 @@ Some people are not very good at boiling water, it seems they never did it. Mayb
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -58,7 +58,7 @@ Missiles and polearm ends are not stopped by the shield.
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -72,7 +72,7 @@ Applied around a creature or part of it may inflict (1d2 + _élan_) damage per r
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -148,7 +148,7 @@ Takes (1d10 + _élan_) HPs per round to the single target. Silver threads block 
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -164,7 +164,7 @@ As a main action, the caster of the coal shield, may consume CPs to "mend" the s
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -180,7 +180,7 @@ Supports up to (`Cast` + 2) × 100kg.
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -230,7 +230,7 @@ Can be prolonged for free with a main action and a successful DC 6 skill check, 
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -249,7 +249,7 @@ For one extra CP, the shield can be used as a spotlight, a light emitting shield
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -265,7 +265,7 @@ More static uses of the ball are common, to simply prevent light/vision from cro
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -281,7 +281,7 @@ It just looks like a pool of darkness.
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -298,7 +298,7 @@ Loose night threads woven in the form of a hut absorb light. Anything goes thoug
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -346,7 +346,7 @@ By consuming 1 extra CP, all the threads (quartz and others) are revealed to oth
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -408,7 +408,7 @@ Remember only the caster sees their own thread, but should a caster pick up the 
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -455,7 +455,7 @@ The target loses 1d6 + _élan_ HPs which are turned to CPs and added to the cast
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -473,7 +473,7 @@ Remember, may not be prolonged if out of prolongation reach.
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -505,7 +505,7 @@ Can be used as a "caster duck tape".
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -545,7 +545,7 @@ Gives back (1d6 + _élan_) HPs to the targetted creature or stabilizes it (back 
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 

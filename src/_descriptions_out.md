@@ -12,7 +12,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -25,7 +25,7 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -71,7 +71,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -96,7 +96,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -121,7 +121,7 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -156,7 +156,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -180,7 +180,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -194,7 +194,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -208,7 +208,7 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -221,7 +221,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -234,7 +234,7 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -269,7 +269,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -283,7 +283,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -308,7 +308,7 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -321,7 +321,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -367,7 +367,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -391,7 +391,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -405,7 +405,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -430,7 +430,7 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -443,7 +443,7 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -478,7 +478,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -492,7 +492,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -516,7 +516,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -573,7 +573,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -587,7 +587,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -611,7 +611,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -624,7 +624,7 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -659,7 +659,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -672,7 +672,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -686,7 +686,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -711,7 +711,7 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -724,7 +724,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -748,7 +748,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -772,7 +772,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -786,7 +786,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -800,7 +800,7 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -813,7 +813,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -837,7 +837,7 @@
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -861,7 +861,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -875,7 +875,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -899,7 +899,7 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -945,7 +945,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -959,7 +959,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
@@ -973,7 +973,7 @@
 * **Diameter** 1ft/CP
 * **Duration** 1 rnd/CP
 * **Speed** 30ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/rnd
 
@@ -986,7 +986,7 @@
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -999,7 +999,7 @@
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
 * **Duration** 10 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
 
@@ -1034,7 +1034,7 @@
 * **Range** T touch
 * **Diameter** broad shield
 * **Duration** 1 min/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
 * **Prolong** 1 CP/min
 
@@ -1048,7 +1048,7 @@
 * **Diameter** 5ft/CP
 * **Duration** 1 min/CP
 * **Speed** 80ft/CP
-* **Control** <= 10ft/lvl
+* **Control** ≤ 10ft/lvl
 * **Move** no
 * **Prolong** 1 CP/min
 
