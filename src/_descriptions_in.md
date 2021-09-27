@@ -182,6 +182,15 @@ Should the arrow fall into water, it dissolves twice faster.
 Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a DC 6 `Cast` skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the CPs are lost, if the skill check fails with a double 1, the caster incurs 1 HP damage.
 
 
+## Scarlet Disk
+
+Draining disk.
+
+A creature walking on the disk will lose (1d6 + _élan_) HP (min 1). Half of these, rounded up, will be received as CPs by the caster of the disk if he is within 50ft of the disk. By consuming 1 more CP when casting, the range can be elongated to 100ft.
+
+Creatures victim of the disk understand the magic nature of their loss if they succeed a DC 10 `WIS` / `Cast` skill check (remember -1 if they have no level in `Cast`).
+
+
 ## Scarlet Finger
 
 Hit point draining finger.

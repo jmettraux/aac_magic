@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 110 potential spells,
-77 spells to describe.
+76 spells to describe.
 
 ## Amber Crown
 
@@ -587,18 +587,6 @@
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
-* **Duration** 10 min/CP
-* **Move** 1 CP/5ft
-* **Prolong** w/i (lvl * 10ft), 1 CP/min
-
-(Drain)
-
-
-## Scarlet Disk
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** 5ft/CP
 * **Duration** 10 min/CP
 * **Move** 1 CP/5ft
 * **Prolong** w/i (lvl * 10ft), 1 CP/min

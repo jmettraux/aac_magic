@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-33 spells.
+34 spells.
 
 
 ## Amber Arrow
@@ -314,6 +314,22 @@ The scarlet thread arrow fires from the caster's hand, it goes through its targe
 Should the arrow fall into water, it dissolves twice faster.
 
 Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a DC 6 `Cast` skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the CPs are lost, if the skill check fails with a double 1, the caster incurs 1 HP damage.
+
+
+## Scarlet Disk
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 10 min/CP
+* **Move** 1 CP/5ft
+* **Prolong** w/i (lvl * 10ft), 1 CP/min
+
+Draining disk.
+
+A creature walking on the disk will lose (1d6 + _élan_) HP (min 1). Half of these, rounded up, will be received as CPs by the caster of the disk if he is within 50ft of the disk. By consuming 1 more CP when casting, the range can be elongated to 100ft.
+
+Creatures victim of the disk understand the magic nature of their loss if they succeed a DC 10 `WIS` / `Cast` skill check (remember -1 if they have no level in `Cast`).
 
 
 ## Scarlet Finger
