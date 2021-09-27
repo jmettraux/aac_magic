@@ -86,9 +86,9 @@ Takes (1d10 + _élan_) HPs per round to the single target. Silver threads block 
 
 A lens of pain, inflicting damage upon traversal.
 
-A shield of pain with (1d6 + _élan_) * CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
+A shield of pain with (1d6 + _élan_) × CP "hit points". A creature attempting to cross the shield takes 1d6 damage. Those points are removed from the shield hit points. When the shield reaches zero points, it vanishes.
 
-As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + _élan_) * CP.
+As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + _élan_) × CP.
 
 
 ## Copper Disk
@@ -97,7 +97,7 @@ Copper platform.
 
 A solid disk of copper threads hangs in the air where the caster wove it.
 
-Supports up to (`Cast` + 2) * 100kg.
+Supports up to (`Cast` + 2) × 100kg.
 
 
 ## Gold Crown
@@ -235,7 +235,7 @@ Silver threads do stop the red flail.
 
 Hit point draining arrows, can be harvested if recovered.
 
-The scarlet thread arrow fires from the caster's hand, it goes through its target and drains (1d8 + _élan_) HPs from it. The arrow flies then for damage * 10 feet and drops on the floor. It will dissolve after damage * 2 rounds.
+The scarlet thread arrow fires from the caster's hand, it goes through its target and drains (1d8 + _élan_) HPs from it. The arrow flies then for damage × 10 feet and drops on the floor. It will dissolve after damage × 2 rounds.
 
 Should the arrow fall into water, it dissolves twice faster.
 
@@ -306,7 +306,7 @@ Can be used as a "caster duck tape".
 
 Weaves a thread fence into a hut shape.
 
-The hut has (1d8 + _élan_) * CP hit points. As long as the hut has HPs it protects completely its content.
+The hut has (1d8 + _élan_) × CP hit points. As long as the hut has HPs it protects completely its content.
 
 By paying 1 CP (and an instant action), the caster adds (1d8 + _élan_) HPs to the hut.
 
