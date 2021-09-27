@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-35 spells.
+36 spells.
 
 
 ## Amber Arrow
@@ -169,6 +169,23 @@ A shield of pain with (1d6 + _élan_) * CP "hit points". A creature attempting t
 As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again (1d6 + _élan_) * CP.
 
 
+## Copper Disk
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
+* **Move** 1 CP/5ft
+* **Prolong** 1 CP/min
+
+Copper platform.
+
+A solid disk of copper threads hangs in the air where the caster wove it.
+
+Supports up to (`Cast` + 2) * 100kg.
+
+
 ## Gold Crown
 
 * **Casting Time** main action
@@ -196,9 +213,9 @@ By default, it is static. For 1 extra CP, it can be threaded so that it follows 
 
 Flashing hand.
 
-The caster shows their hand and the gold thread they've just weaved flashes in their palm.
+The caster weaves golden light threads in his hand.
 
-Creatures in front of the hand are blinded (unless they looked the other direction or had their eyes closed). Blinded creatures have -2 to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful _Evasion_ save roll.
+Creatures in front of the hand are blinded (unless they looked the other way or had their eyes closed). Blinded creatures have -2 to their AC and -2 to their hit and skill rolls while blind. As an On Turn Action, they may shake off their blindness with a successful _Mental_ save roll.
 
 Cannot prolong.
 
@@ -213,9 +230,7 @@ Cannot prolong.
 
 Caster scope.
 
-2 feet taller than its caster, the pole gathers light at one tip transmitting it to the other tip.
-
-Can be used as a sort of periscope, to look unnoticed through straw or foliage. Remember the pole is invisible to most creatures.
+2 feet taller than its caster, the pole gathers light at one tip transmitting it to the other tip. Can be used as a sort of periscope, to look unnoticed through straw or foliage. Remember the pole is invisible to most creatures.
 
 A caster with `Cast` 1 or better may control the flow of light turning the pole into a microsope or a telescope.
 

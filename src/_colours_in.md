@@ -8,6 +8,7 @@ The colour of the effect, as seen by the weaver.
 | Amber     | Heat     |
 | Blue      | Cold     |
 | Coal      | Damage   |
+| Copper    | Earth    |
 | Gold      | Light    |
 | Night     | Darkness |
 | Quartz    | Meta     |
@@ -18,7 +19,6 @@ The colour of the effect, as seen by the weaver.
 
 | Wind    | Wind |
 | Bronze  | |
-| Copper  | |
 | Crimson | |
 | Ivory   | |
 | Purple  | |

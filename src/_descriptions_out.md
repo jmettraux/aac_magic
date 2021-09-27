@@ -3,8 +3,8 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-110 potential spells,
-75 spells to describe.
+121 potential spells,
+85 spells to describe.
 
 ## Amber Crown
 
@@ -288,6 +288,128 @@
 * **Prolong** 1 CP/min
 
 (Damage)
+
+
+## Copper Arrow
+
+* **Casting Time** main action
+* **Range** L 80ft/CP
+* **Diameter** -
+* **Duration** 1 rnd/CP
+* **Speed** 80ft/CP
+
+(Earth)
+
+
+## Copper Ball
+
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Control** <= 10ft/lvl
+* **Move** 1 CP/5ft
+* **Prolong** 1 CP/rnd
+
+(Earth)
+
+
+## Copper Crown
+
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 10 min/CP
+* **Control** <= 10ft/lvl
+* **Move** 1 CP/5ft
+* **Prolong** 1 CP/min
+
+(Earth)
+
+
+## Copper Finger
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+(Earth)
+
+
+## Copper Flail
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Speed** 80ft/CP
+
+(Earth)
+
+
+## Copper Hand
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+(Earth)
+
+
+## Copper Hut
+
+* **Casting Time** 1 main action, then 1 on turn action
+* **Range** C 5ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
+* **Move** 1 CP/5ft
+* **Prolong** 1 CP/min
+
+(Earth)
+
+
+## Copper Pole
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+(Earth)
+
+
+## Copper Shield
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** broad shield
+* **Duration** 1 min/CP
+* **Control** <= 10ft/lvl
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
+
+(Earth)
+
+
+## Copper Tunnel
+
+* **Casting Time** main action
+* **Range** C 5ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 min/CP
+* **Speed** 80ft/CP
+* **Control** <= 10ft/lvl
+* **Move** no
+* **Prolong** 1 CP/min
+
+(Earth)
 
 
 ## Gold Arrow
