@@ -169,6 +169,9 @@ def write_spells(opts)
 
       next unless dsc
 
+      dsc = dsc.join
+      plg = '-' if dsc.match(/cannot prolong/i)
+
       number = increase(number, [ 6, 8 ])
 
       f.puts "<!-- <div.spell> -->" if div
@@ -187,7 +190,7 @@ def write_spells(opts)
       f.puts "* **#{ks[:move]}** #{mov}" if mov != '-'
       f.puts "* **#{ks[:prolong]}** #{plg}" if plg != '-'
       f.puts
-      f.puts dsc.join('')
+      f.puts dsc
       f.puts "\n<!-- </div> -->" if div
       f.puts
     end

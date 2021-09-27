@@ -196,7 +196,6 @@ By default, it is static. For 1 extra CP, it can be threaded so that it follows 
 * **Range** T touch
 * **Diameter** -
 * **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
 
 Flashing hand.
 
