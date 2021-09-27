@@ -115,10 +115,22 @@ COMPACT_KEYS = {
   move: 'Mov',
   prolong: 'Prol' }
 
+def increase(count, maxes)
+  a, b = count.chars.collect(&:to_i)
+p [ count, a, b ]
+  b = b + 1
+  if b > maxes[1]
+    a = a + 1
+    b = 1
+  end
+  "#{a}#{b}"
+end
+
 def write_spells(opts)
 
   cpt = opts[:compact]
   div = opts[:div]
+  dic = opts[:dice]
 
   ks = cpt ? COMPACT_KEYS : KEYS
 
@@ -137,6 +149,8 @@ def write_spells(opts)
     #f.puts colour_table
     #f.puts
 
+    number = '10'
+
     PROD.each do |ck, fk|
 
       cfx = COLOURS[ck]
@@ -154,9 +168,14 @@ def write_spells(opts)
 
       next unless dsc
 
+      number = increase(number, [ 6, 8 ])
+
       f.puts "<!-- <div.spell> -->" if div
-      f.puts "\n## #{nam}"
-      f.puts
+      if dic
+        f.puts "\n## ~~#{number}~~ #{nam}"
+      else
+        f.puts "\n## #{nam}"
+      end
       f.puts "* **#{ks[:casting_time]}** #{cst}"
       f.puts "* **#{ks[:range]}** #{frm[:range]}"
       f.puts "* **#{ks[:diameter]}** #{dia}" if cpt != true || dia != '-'
@@ -174,5 +193,5 @@ def write_spells(opts)
 end
 
 write_spells(fname: 'spells.md')
-write_spells(fname: 'spells_aa.md', compact: true, div: true)
+write_spells(fname: 'spells_aa.md', compact: true, div: true, dice: true)
 

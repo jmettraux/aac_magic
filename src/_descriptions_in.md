@@ -306,7 +306,7 @@ Can be used as a "caster duck tape".
 
 Weaves a thread fence into a hut shape.
 
-The hut has (1d8 + _élan_) * CP hit points. As long as the hut has HPs it protectes completely its content.
+The hut has (1d8 + _élan_) * CP hit points. As long as the hut has HPs it protects completely its content.
 
 By paying 1 CP (and an instant action), the caster adds (1d8 + _élan_) HPs to the hut.
 

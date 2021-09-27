@@ -7,7 +7,6 @@
 
 
 ## Amber Arrow
-
 * **Casting Time** main action
 * **Range** L 80ft/CP
 * **Diameter** -
@@ -22,7 +21,6 @@ Can be used to ignite easily flammable objects.
 
 
 ## Amber Ball
-
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
@@ -38,7 +36,6 @@ Some people are not very good at boiling water, it seems they never did it. Mayb
 
 
 ## Amber Shield
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** broad shield
@@ -57,7 +54,6 @@ Missiles and polearm ends are not stopped by the shield.
 
 
 ## Blue Crown
-
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
@@ -72,7 +68,6 @@ Applied around a creature or part of it may inflict (1d2 + _élan_) damage per r
 
 
 ## Blue Disk
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
@@ -89,7 +84,6 @@ Depending on the context, a creature might slide on the disk and fall. A wet hai
 
 
 ## Blue Finger
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** -
@@ -108,7 +102,6 @@ The finger can also be used to stop ongoing heat/burning damage.
 
 
 ## Coal Arrow
-
 * **Casting Time** main action
 * **Range** L 80ft/CP
 * **Diameter** -
@@ -125,7 +118,6 @@ Silver threads do stop the coal arrow.
 
 
 ## Coal Flail
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** -
@@ -140,7 +132,6 @@ Silver threads do stop the coal flail.
 
 
 ## Coal Pole
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** -
@@ -153,7 +144,6 @@ Takes (1d10 + _élan_) HPs per round to the single target. Silver threads block 
 
 
 ## Coal Shield
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** broad shield
@@ -170,7 +160,6 @@ As a main action, the caster of the coal shield, may consume CPs to "mend" the s
 
 
 ## Copper Disk
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
@@ -187,7 +176,6 @@ Supports up to (`Cast` + 2) * 100kg.
 
 
 ## Gold Crown
-
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
@@ -204,7 +192,6 @@ By default, it is static. For 1 extra CP, it can be threaded so that it follows 
 
 
 ## Gold Hand
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** -
@@ -221,7 +208,6 @@ Cannot prolong.
 
 
 ## Gold Pole
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** -
@@ -240,7 +226,6 @@ Can be prolonged for free with a main action and a successful DC 6 skill check, 
 
 
 ## Gold Shield
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** broad shield
@@ -259,7 +244,6 @@ For one extra CP, the shield can be used as a spotlight, a light emitting shield
 
 
 ## Night Ball
-
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
@@ -277,7 +261,6 @@ More static uses of the ball are common, to simply prevent light/vision from cro
 
 
 ## Night Disk
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
@@ -294,7 +277,6 @@ It just looks like a pool of darkness.
 
 
 ## Night Hut
-
 * **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
@@ -311,7 +293,6 @@ Loose night threads woven in the form of a hut absorb light. Anything goes thoug
 
 
 ## Quartz Ball
-
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
@@ -331,7 +312,6 @@ The ball might be quite smaller than the form of the thread it reveals. Blind ma
 
 
 ## Quartz Flail
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** -
@@ -348,7 +328,6 @@ An unlucky caster might flail uselessly at nothing, wasting CPs.
 
 
 ## Quartz Pole
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** -
@@ -363,7 +342,6 @@ By consuming 1 extra CP, all the threads (quartz and others) are revealed to oth
 
 
 ## Red Disk
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
@@ -380,7 +358,6 @@ Inflicts (1d4 + _élan_) per round damage points to creatures exposed to it.
 
 
 ## Red Finger
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** -
@@ -397,7 +374,6 @@ Might deal (1 + _élan_) damage points to a target.
 
 
 ## Red Flail
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** -
@@ -412,7 +388,6 @@ Silver threads do stop the red flail.
 
 
 ## Scarlet Arrow
-
 * **Casting Time** main action
 * **Range** L 80ft/CP
 * **Diameter** -
@@ -429,7 +404,6 @@ Remember only the caster sees their own thread, but should a caster pick up the 
 
 
 ## Scarlet Disk
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** 5ft/CP
@@ -446,7 +420,6 @@ Creatures victim of the disk understand the magic nature of their loss if they s
 
 
 ## Scarlet Finger
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** -
@@ -461,7 +434,6 @@ The referee might grant a saving throw to the victim.
 
 
 ## Scarlet Hand
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** -
@@ -478,7 +450,6 @@ The target loses 1d6 + _élan_ HPs which are turned to CPs and added to the cast
 
 
 ## Silver Ball
-
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
@@ -498,7 +469,6 @@ Remember, may not be prolonged if out of prolongation reach.
 
 
 ## Silver Crown
-
 * **Casting Time** main action
 * **Range** M 30ft/CP
 * **Diameter** 1ft/CP
@@ -515,7 +485,6 @@ May also be used to to protect things from impact, but it's a crown or a donut, 
 
 
 ## Silver Hand
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** -
@@ -532,7 +501,6 @@ Can be used as a "caster duck tape".
 
 
 ## Silver Hut
-
 * **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
@@ -543,13 +511,12 @@ Can be used as a "caster duck tape".
 
 Weaves a thread fence into a hut shape.
 
-The hut has (1d8 + _élan_) * CP hit points. As long as the hut has HPs it protectes completely its content.
+The hut has (1d8 + _élan_) * CP hit points. As long as the hut has HPs it protects completely its content.
 
 By paying 1 CP (and an instant action), the caster adds (1d8 + _élan_) HPs to the hut.
 
 
 ## Turquoise Arrow
-
 * **Casting Time** main action
 * **Range** L 80ft/CP
 * **Diameter** -
@@ -562,7 +529,6 @@ Works from 15 feet on only. Grants 1d6 + _élan_ HP to the target. Does not stab
 
 
 ## Turquoise Hand
-
 * **Casting Time** main action
 * **Range** T touch
 * **Diameter** -
@@ -575,7 +541,6 @@ Gives back (1d6 + _élan_) HPs to the targetted creature or stabilizes it (back 
 
 
 ## Turquoise Hut
-
 * **Casting Time** 1 main action, then 1 on turn action
 * **Range** C 5ft/CP
 * **Diameter** 5ft/CP
@@ -590,7 +555,6 @@ Mortally wounded creatures in the hut stabilize (as per rules, they reach 1 HP a
 
 
 ## Turquoise Pole
-
 * **Casting Time** main action
 * **Range** S 10ft/CP
 * **Diameter** -
