@@ -246,8 +246,13 @@ By paying 1 CP (and an instant action), the caster adds (1d8 + _élan_) HPs to t
 
 Healing arrow.
 
-Works from 15 feet on only. Grants 1d3 + _élan_ HP to the target. Does not stabilize a Mortally Wounded creature.
+Works from 15 feet on only. Grants 1d6 + _élan_ HP to the target. Does not stabilize a Mortally Wounded creature.
 
+## Turquoise Hand
+
+Healing hand.
+
+Gives back (1d6 + _élan_) HPs to the targetted creature or stabilizes it (back to 1 HP and not Mortally Wounded.
 
 ## Turquoise Hut
 

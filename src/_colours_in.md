@@ -18,9 +18,11 @@ The colour of the effect, as seen by the weaver.
 
 | Wind    | Wind |
 | Bronze  | |
+| Copper  | |
 | Crimson | |
 | Ivory   | |
 | Purple  | |
+| Tin     | |
 
 Threads
 

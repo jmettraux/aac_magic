@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 110 potential spells,
-78 spells to describe.
+77 spells to describe.
 
 ## Amber Crown
 
@@ -801,17 +801,6 @@
 * **Diameter** -
 * **Duration** 1 rnd
 * **Speed** 80ft/CP
-
-(Healing)
-
-
-## Turquoise Hand
-
-* **Casting Time** main action
-* **Range** T touch
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
 
 (Healing)
 
