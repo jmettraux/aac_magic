@@ -310,8 +310,6 @@ A caster with `Cast` 1 or better may control the flow of light turning the pole 
 
 The caster may consume 1 CP to bend the pole, bow-like, but it won't turn into an endoscope.
 
-Can be prolonged for free with a main action and a successful DC 6 skill check, same attribute modifier as used when weaving.
-
 
 ## Gold Shield
 
@@ -325,11 +323,9 @@ Can be prolonged for free with a main action and a successful DC 6 skill check, 
 
 Image alteration shield.
 
-This shield is sometimes called the "past window". The image seen through it is the same as the image that passed at the moment it was weaved. It can thus be used for some invisibility trick. The problem is that it works both ways, the other side looks like what it was at weaving time and vice versa. You can move behind the shield, but looking through it won't tell you much about the current situation there.
+This shield is sometimes called the "past window". The image seen through it is the same as the image that passed at the moment it was weaved. It can thus be used for some invisibility tricks. But it works both ways, the other side looks like what it was at weaving time and vice versa. You can move behind the shield, but looking through it won't tell you much about the current situation there.
 
 The caster may decide to simply use it as a mirror. All the the light going through it is reflected. Both sides.
-
-For one extra CP, the shield can be used as a spotlight, a light emitting shield suspended mid air.
 
 
 ## Night Ball
