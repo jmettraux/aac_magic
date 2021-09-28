@@ -109,6 +109,13 @@ A solid disk of copper threads hangs in the air where the caster wove it.
 Supports up to (`Cast` + 2) × 100kg.
 
 
+## Copper Hand
+
+Caster glove.
+
+Copper threads are woven inside of the palm or on the external side of the hand. Can be used as a cup or to deliver a blow (1d6 + _élan_) damage points (min 1).
+
+
 ## Copper Pole
 
 Invisible pole.
@@ -184,9 +191,16 @@ It just looks like a pool of darkness.
 
 Chamber of obscurity, no light comes in or out.
 
-Loose night threads woven in the form of a hut absorb light. Anything goes though except light.
+Loose night threads woven in the form of a hut absorb light. Anything goes through except light.
 
 (It's practical for casters that are into film photography).
+
+
+## Night Shield
+
+Vertical disk of darkness.
+
+Casters use it to conceal their actions or simply their escape. Anything goes through, except light.
 
 
 ## Quartz Ball

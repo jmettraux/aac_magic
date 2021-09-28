@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-38 spells.
+40 spells.
 
 
 ## Amber Arrow
@@ -203,6 +203,19 @@ A solid disk of copper threads hangs in the air where the caster wove it.
 Supports up to (`Cast` + 2) × 100kg.
 
 
+## Copper Hand
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+Caster glove.
+
+Copper threads are woven inside of the palm or on the external side of the hand. Can be used as a cup or to deliver a blow (1d6 + _élan_) damage points (min 1).
+
+
 ## Copper Pole
 
 * **Casting Time** main action
@@ -336,9 +349,24 @@ It just looks like a pool of darkness.
 
 Chamber of obscurity, no light comes in or out.
 
-Loose night threads woven in the form of a hut absorb light. Anything goes though except light.
+Loose night threads woven in the form of a hut absorb light. Anything goes through except light.
 
 (It's practical for casters that are into film photography).
+
+
+## Night Shield
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** broad shield
+* **Duration** 1 min/CP
+* **Control** ≤ 10ft/lvl
+* **Move** 1 CP/10ft
+* **Prolong** 1 CP/min
+
+Vertical disk of darkness.
+
+Casters use it to conceal their actions or simply their escape. Anything goes through, except light.
 
 
 ## Quartz Ball

@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 121 potential spells,
-83 spells to describe.
+81 spells to describe.
 
 ## Amber Crown
 
@@ -337,17 +337,6 @@
 (Earth)
 
 
-## Copper Hand
-
-* **Casting Time** main action
-* **Range** T touch
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
-
-(Earth)
-
-
 ## Copper Hut
 
 * **Casting Time** 1 main action, then 1 on turn action
@@ -539,19 +528,6 @@
 * **Diameter** -
 * **Duration** 1 rnd
 * **Prolong** 1 CP/rnd
-
-(Darkness)
-
-
-## Night Shield
-
-* **Casting Time** main action
-* **Range** T touch
-* **Diameter** broad shield
-* **Duration** 1 min/CP
-* **Control** ≤ 10ft/lvl
-* **Move** 1 CP/10ft
-* **Prolong** 1 CP/min
 
 (Darkness)
 
