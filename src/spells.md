@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-40 spells.
+44 spells.
 
 
 ## Amber Arrow
@@ -54,6 +54,21 @@ Creatures attempting to cross the shield lose (1d6 + _élan_) HPs (min 1).
 Hot air waves distort light, so the shield is somehow discernable.
 
 Missiles and polearm ends are not stopped by the shield.
+
+
+## Amber Powder
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Control** ≤ 10ft/lvl
+* **Prolong** 1 CP/rnd
+
+Warmer.
+
+Warms up an area with fragments of heat threads. Some casters use it to warm up creatures that were exposed to intense cold.
 
 
 ## Blue Crown
@@ -107,6 +122,21 @@ The finger can also be used to stop ongoing heat/burning damage.
 (Beware touching metal objects!)
 
 
+## Blue Powder
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Control** ≤ 10ft/lvl
+* **Prolong** 1 CP/rnd
+
+Cooler cloud.
+
+Cools down an area.
+
+
 ## Coal Arrow
 
 * **Casting Time** main action
@@ -117,7 +147,7 @@ The finger can also be used to stop ongoing heat/burning damage.
 
 Fires an arrow of weaving pain at a single target.
 
-CP 1 → 1d4 + _élan_ | CP 2 → 1d6 + _élan_ | CP >= 3 → 1d8 + _élan_ | at least 1 oint of damage
+CP 1 → 1d4 + _élan_ | CP 2 → 1d6 + _élan_ | CP ≥ 3 → 1d8 + _élan_ | at least 1 point of damage
 
 The arrow is invisible and may avoid allies and non-targets in a complex and curved flight.
 
@@ -421,6 +451,21 @@ The pole is woven in the caster's hands, it can be used to probe for threads. It
 By consuming 1 extra CP, all the threads (quartz and others) are revealed to other casters. Non casters must succeed a DC 8 `WIS` / `Cast` skill check to see. The referee may decide that some characters or creatures are thread blind and simply cannot see.
 
 
+## Quartz Powder
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Control** ≤ 10ft/lvl
+* **Prolong** 1 CP/rnd
+
+Fixation powder.
+
+Non-quartz threads within 5ft of the powder cloud are drawn in and become visible. The cloud might also be used to draw in thread arrows (as long as the cloud is maintained).
+
+
 ## Red Disk
 
 * **Casting Time** main action
@@ -468,6 +513,21 @@ Flail of fire.
 Inflicts (1d6 + _élan_) damage points (min 1). There must a direct way between the caster and their target. May put the target on fire, at the referee discretion.
 
 Silver threads do stop the red flail.
+
+
+## Red Powder
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** 5ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
+* **Control** ≤ 10ft/lvl
+* **Prolong** 1 CP/rnd
+
+Fire bees.
+
+Creatures within the cloud are subject to tiny burn points. They are disadvantaged on all their actions. Creatures attacking them gain an advantage.
 
 
 ## Scarlet Arrow

@@ -15,7 +15,7 @@ ma: main action, ota: on turn action, ia: instant action
 | Hut    | MA+OTA | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 0         | 10ft/lvl | 1 CP/5ft  | 1 CP/min |
 | Pole   | MA     | -            | S 10ft/CP | 1 rnd     | 0         | -        | -         | 1 CP/rnd |
 | Shield | MA     | broad shield | T touch   | 1 min/CP  | 0         | 10ft/lvl | 1 CP/10ft | 1 CP/min |
-| Tunnel | MA     | 5ft/CP       | C 5ft/CP  | 1 min/CP  | 80ft/CP   | 10ft/lvl | no        | 1 CP/min |
+| Powder | MA     | 5ft/CP       | S 10ft/CP | 1 rnd/CP  | 30ft/CP   | 10ft/lvl | -         | 1 CP/rnd |
 
 **MA**: main action, **OTA**: on turn action, **T**: touch, **C**: close, **S**: short, **M**: medium, **L**: long
 

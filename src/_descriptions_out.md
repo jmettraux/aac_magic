@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 121 potential spells,
-81 spells to describe.
+77 spells to describe.
 
 ## Amber Crown
 
@@ -85,20 +85,6 @@
 * **Diameter** -
 * **Duration** 1 rnd
 * **Prolong** 1 CP/rnd
-
-(Heat)
-
-
-## Amber Tunnel
-
-* **Casting Time** main action
-* **Range** C 5ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
-* **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
 
 (Heat)
 
@@ -187,20 +173,6 @@
 (Cold)
 
 
-## Blue Tunnel
-
-* **Casting Time** main action
-* **Range** C 5ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
-* **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
-
-(Cold)
-
-
 ## Coal Ball
 
 * **Casting Time** main action
@@ -276,16 +248,15 @@
 (Damage)
 
 
-## Coal Tunnel
+## Coal Powder
 
 * **Casting Time** main action
-* **Range** C 5ft/CP
+* **Range** S 10ft/CP
 * **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
 * **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
+* **Prolong** 1 CP/rnd
 
 (Damage)
 
@@ -363,16 +334,15 @@
 (Earth)
 
 
-## Copper Tunnel
+## Copper Powder
 
 * **Casting Time** main action
-* **Range** C 5ft/CP
+* **Range** S 10ft/CP
 * **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
 * **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
+* **Prolong** 1 CP/rnd
 
 (Earth)
 
@@ -450,16 +420,15 @@
 (Light)
 
 
-## Gold Tunnel
+## Gold Powder
 
 * **Casting Time** main action
-* **Range** C 5ft/CP
+* **Range** S 10ft/CP
 * **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
 * **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
+* **Prolong** 1 CP/rnd
 
 (Light)
 
@@ -532,16 +501,15 @@
 (Darkness)
 
 
-## Night Tunnel
+## Night Powder
 
 * **Casting Time** main action
-* **Range** C 5ft/CP
+* **Range** S 10ft/CP
 * **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
 * **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
+* **Prolong** 1 CP/rnd
 
 (Darkness)
 
@@ -626,20 +594,6 @@
 * **Duration** 1 min/CP
 * **Control** ≤ 10ft/lvl
 * **Move** 1 CP/10ft
-* **Prolong** 1 CP/min
-
-(Meta)
-
-
-## Quartz Tunnel
-
-* **Casting Time** main action
-* **Range** C 5ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
-* **Control** ≤ 10ft/lvl
-* **Move** no
 * **Prolong** 1 CP/min
 
 (Meta)
@@ -731,20 +685,6 @@
 (Fire)
 
 
-## Red Tunnel
-
-* **Casting Time** main action
-* **Range** C 5ft/CP
-* **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
-* **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
-
-(Fire)
-
-
 ## Scarlet Ball
 
 * **Casting Time** main action
@@ -820,16 +760,15 @@
 (Drain)
 
 
-## Scarlet Tunnel
+## Scarlet Powder
 
 * **Casting Time** main action
-* **Range** C 5ft/CP
+* **Range** S 10ft/CP
 * **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
 * **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
+* **Prolong** 1 CP/rnd
 
 (Drain)
 
@@ -904,16 +843,15 @@
 (Fence)
 
 
-## Silver Tunnel
+## Silver Powder
 
 * **Casting Time** main action
-* **Range** C 5ft/CP
+* **Range** S 10ft/CP
 * **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
 * **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
+* **Prolong** 1 CP/rnd
 
 (Fence)
 
@@ -993,16 +931,15 @@
 (Healing)
 
 
-## Turquoise Tunnel
+## Turquoise Powder
 
 * **Casting Time** main action
-* **Range** C 5ft/CP
+* **Range** S 10ft/CP
 * **Diameter** 5ft/CP
-* **Duration** 1 min/CP
-* **Speed** 80ft/CP
+* **Duration** 1 rnd/CP
+* **Speed** 30ft/CP
 * **Control** ≤ 10ft/lvl
-* **Move** no
-* **Prolong** 1 CP/min
+* **Prolong** 1 CP/rnd
 
 (Healing)
 
