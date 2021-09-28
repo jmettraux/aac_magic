@@ -24,16 +24,21 @@ forms = lines
 #pp effects
 #pp forms
 
-colours.each do |c, a|
+colours = colours.sort_by { |c, _| c }
+forms = forms.sort_by { |f, _| f }
+
+colours.each_with_index do |(c, a), i|
   a = a.collect { |n| "#{c[0, 1]} #{n.split.last}" }
-  puts ". %-10s: %8s : %2d : %s" % [ c, effects[c], a.count, a.join(', ') ]
+  puts "%2d . %-10s: %8s : %2d : %s" % [
+    i + 1, c, effects[c], a.count, a.join(', ') ]
 end
 
 puts
 
-forms.each do |f, a|
+forms.each_with_index do |(f, a), i|
   a = a.collect { |n| "#{n.split.first} #{f[0, 1]}" }
-  puts ". %-7s: %2d : %s" % [ f, a.count, a.join(', ') ]
+  puts "%2d . %-7s: %2d : %s" % [
+    i + 1, f, a.count, a.join(', ') ]
 end
 
 puts
