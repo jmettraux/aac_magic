@@ -91,6 +91,15 @@ A shield of pain with ((1d6 + _élan_) × CP) hit points (min 1). A creature att
 As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again ((1d6 + _élan_) × CP) HPs (min 1).
 
 
+## Copper Crown
+
+Caster yoke.
+
+A crown of copper threads is woven and slowly (0.5ft/rnd) descends towards the ground. It weighs 10kg by foot of diameter and may immobilize and/or crush its target.
+
+The referee may grant _Mental_ or _Physical_ save (minus the _élan_) to the target.
+
+
 ## Copper Disk
 
 Copper platform.
@@ -98,6 +107,15 @@ Copper platform.
 A solid disk of copper threads hangs in the air where the caster wove it.
 
 Supports up to (`Cast` + 2) × 100kg.
+
+
+## Copper Pole
+
+Invisible pole.
+
+A pole that can be climbed, slid on, or used to hang. Some casters place it in passageways to trip people up.
+
+Supports up to (`Cast` + 1) × 100kg.
 
 
 ## Gold Crown

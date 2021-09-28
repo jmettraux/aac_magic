@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-36 spells.
+38 spells.
 
 
 ## Amber Arrow
@@ -169,6 +169,23 @@ A shield of pain with ((1d6 + _élan_) × CP) hit points (min 1). A creature att
 As a main action, the caster of the coal shield, may consume CPs to "mend" the shield, again ((1d6 + _élan_) × CP) HPs (min 1).
 
 
+## Copper Crown
+
+* **Casting Time** main action
+* **Range** M 30ft/CP
+* **Diameter** 1ft/CP
+* **Duration** 10 min/CP
+* **Control** ≤ 10ft/lvl
+* **Move** 1 CP/5ft
+* **Prolong** 1 CP/min
+
+Caster yoke.
+
+A crown of copper threads is woven and slowly (0.5ft/rnd) descends towards the ground. It weighs 10kg by foot of diameter and may immobilize and/or crush its target.
+
+The referee may grant _Mental_ or _Physical_ save (minus the _élan_) to the target.
+
+
 ## Copper Disk
 
 * **Casting Time** main action
@@ -184,6 +201,21 @@ Copper platform.
 A solid disk of copper threads hangs in the air where the caster wove it.
 
 Supports up to (`Cast` + 2) × 100kg.
+
+
+## Copper Pole
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+Invisible pole.
+
+A pole that can be climbed, slid on, or used to hang. Some casters place it in passageways to trip people up.
+
+Supports up to (`Cast` + 1) × 100kg.
 
 
 ## Gold Crown

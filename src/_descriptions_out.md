@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 121 potential spells,
-85 spells to describe.
+83 spells to describe.
 
 ## Amber Crown
 
@@ -315,19 +315,6 @@
 (Earth)
 
 
-## Copper Crown
-
-* **Casting Time** main action
-* **Range** M 30ft/CP
-* **Diameter** 1ft/CP
-* **Duration** 10 min/CP
-* **Control** ≤ 10ft/lvl
-* **Move** 1 CP/5ft
-* **Prolong** 1 CP/min
-
-(Earth)
-
-
 ## Copper Finger
 
 * **Casting Time** main action
@@ -370,17 +357,6 @@
 * **Control** ≤ 10ft/lvl
 * **Move** 1 CP/5ft
 * **Prolong** 1 CP/min
-
-(Earth)
-
-
-## Copper Pole
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** -
-* **Duration** 1 rnd
-* **Prolong** 1 CP/rnd
 
 (Earth)
 
