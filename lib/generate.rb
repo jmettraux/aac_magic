@@ -181,6 +181,7 @@ def write_spells(opts)
       else
         f.puts "\n## #{nam}"
       end
+      f.puts
       f.puts "* **#{ks[:casting_time]}** #{cst}"
       f.puts "* **#{ks[:range]}** #{frm[:range]}"
       f.puts "* **#{ks[:diameter]}** #{dia}" if cpt != true || dia != '-'
