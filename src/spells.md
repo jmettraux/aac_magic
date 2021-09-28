@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-44 spells.
+45 spells.
 
 
 ## Amber Arrow
@@ -674,6 +674,19 @@ By paying 1 CP (and an instant action), the caster adds (1d8 + _élan_) HPs (min
 Healing arrow.
 
 Works from 15 feet on only. Grants (1d6 + _élan_) HPs (min 1) to the target. Does not stabilize a Mortally Wounded creature.
+
+
+## Turquoise Finger
+
+* **Casting Time** main action
+* **Range** T touch
+* **Diameter** -
+* **Duration** 1 rnd
+* **Prolong** 1 CP/rnd
+
+Focus.
+
+Gives temporary (1d6 + _élan_) HPs (min 1) for the current scene. When the scene ends, the excitation goes away, those HPs are gone, and the target creature might then fall mortally wounded.
 
 
 ## Turquoise Hand

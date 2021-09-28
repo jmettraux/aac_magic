@@ -373,6 +373,14 @@ Healing arrow.
 
 Works from 15 feet on only. Grants (1d6 + _élan_) HPs (min 1) to the target. Does not stabilize a Mortally Wounded creature.
 
+
+## Turquoise Finger
+
+Focus.
+
+Gives temporary (1d6 + _élan_) HPs (min 1) for the current scene. When the scene ends, the excitation goes away, those HPs are gone, and the target creature might then fall mortally wounded.
+
+
 ## Turquoise Hand
 
 Healing hand.
