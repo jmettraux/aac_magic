@@ -291,11 +291,9 @@ Creatures within the cloud are subject to tiny burn points. They are disadvantag
 
 Hit point draining arrows, can be harvested if recovered.
 
-The scarlet thread arrow fires from the caster's hand, it goes through its target and drains (1d8 + _élan_) HPs (min 1) from it. The arrow flies then for damage × 10 feet and drops on the floor. It will dissolve after damage × 2 rounds.
+The scarlet thread arrow fires from the caster's hand, it goes through its target and drains (1d8 + _élan_) HPs (min 1) from it. The arrow flies then for damage × 10 feet and drops on the floor. It will dissolve right before the next new moon.
 
-Should the arrow fall into water, it dissolves twice faster.
-
-Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a DC 6 `Cast` skill check, the attribute modifier is the same attribute modifier used by the caster of the arrow. If the skill check fails, the CPs are lost, if the skill check fails with a double 1, the caster incurs 1 HP damage.
+Remember only the caster sees their own thread, but should a caster pick up the arrow, it may absorb the collected CPs if it succeeds a DC 6 `Cast` skill check. In case of failure, the CPs are lost, if a double 1 is rolled, the CPs are lost and the caster incurs 1 HP damage.
 
 
 ## Scarlet Disk
