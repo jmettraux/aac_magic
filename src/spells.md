@@ -3,7 +3,7 @@
 
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
-45 spells.
+46 spells.
 
 
 ## Amber Arrow
@@ -231,6 +231,19 @@ Copper platform.
 A solid disk of copper threads hangs in the air where the caster wove it.
 
 Supports up to (`Cast` + 2) × 100kg.
+
+
+## Copper Flail
+
+* **Casting Time** main action
+* **Range** S 10ft/CP
+* **Diameter** -
+* **Duration** 1 rnd
+* **Speed** 80ft/CP
+
+Seizure flail.
+
+The flail is project there and back to seize an object (up to the caster `STR` in kg), trip a hand or leg, or deliver a blow (1d4 + _élan_) damage points (min 1).
 
 
 ## Copper Hand

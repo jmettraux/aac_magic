@@ -4,7 +4,7 @@
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for now.
 
 121 potential spells,
-76 spells to describe.
+75 spells to describe.
 
 ## Amber Crown
 
@@ -293,17 +293,6 @@
 * **Diameter** -
 * **Duration** 1 rnd
 * **Prolong** 1 CP/rnd
-
-(Earth)
-
-
-## Copper Flail
-
-* **Casting Time** main action
-* **Range** S 10ft/CP
-* **Diameter** -
-* **Duration** 1 rnd
-* **Speed** 80ft/CP
 
 (Earth)
 

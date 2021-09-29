@@ -151,6 +151,7 @@ def write_spells(opts)
     #f.puts
 
     number = '10'
+    dice = [ 6, 8 ]
 
     PROD.each do |ck, fk|
 
@@ -172,12 +173,13 @@ def write_spells(opts)
       dsc = dsc.join
       plg = '-' if dsc.match(/cannot prolong/i)
 
-      number = increase(number, [ 6, 8 ])
+      number = increase(number, dice)
 
       f.puts "<!-- <div.spell> -->" if div
       if dic
         #f.puts "\n## ~~#{number}~~ #{nam}"
-        f.puts "\n## #{nam} ~~#{number}~~"
+        n = number == '11' ? " ← d#{dice[0]}d#{dice[1]}" : ''
+        f.puts "\n## #{nam} ~~#{number}#{n}~~"
       else
         f.puts "\n## #{nam}"
       end
